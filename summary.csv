@@ -1,0 +1,3937 @@
+Station_Name,Mode,Year,Month,Total_Boardings,Total_Alightings
+Aircraft,Metro,2023,7,12760,13280
+Aircraft,Metro,2023,8,17450,17550
+Aircraft,Metro,2023,9,16680,16930
+Aircraft,Metro,2023,10,17350,18070
+Aircraft,Metro,2023,11,16060,17000
+Aircraft,Metro,2023,12,15400,15530
+Aircraft,Metro,2024,1,15530,17250
+Aircraft,Metro,2024,2,18990,20370
+Aircraft,Metro,2024,3,20310,21280
+Aircraft,Metro,2024,4,18400,20120
+Aircraft,Metro,2024,5,19410,20330
+Aircraft,Metro,2024,6,16530,17720
+Alamein,Metro,2023,7,5330,5140
+Alamein,Metro,2023,8,6440,6200
+Alamein,Metro,2023,9,4630,4260
+Alamein,Metro,2023,10,5740,5050
+Alamein,Metro,2023,11,4850,4350
+Alamein,Metro,2023,12,4130,3570
+Alamein,Metro,2024,1,3660,3620
+Alamein,Metro,2024,2,5960,5670
+Alamein,Metro,2024,3,6040,5760
+Alamein,Metro,2024,4,5780,5080
+Alamein,Metro,2024,5,6280,5620
+Alamein,Metro,2024,6,4840,4650
+Albion,Metro,2023,7,23440,22240
+Albion,Metro,2023,8,35970,32270
+Albion,Metro,2023,9,32510,29810
+Albion,Metro,2023,10,34850,30910
+Albion,Metro,2023,11,30610,28220
+Albion,Metro,2023,12,29330,27930
+Albion,Metro,2024,1,28720,28410
+Albion,Metro,2024,2,35290,32790
+Albion,Metro,2024,3,36690,34270
+Albion,Metro,2024,4,32870,31370
+Albion,Metro,2024,5,37880,35830
+Albion,Metro,2024,6,31550,30100
+Albury,VLine,2023,7,5930,5030
+Albury,VLine,2023,8,4870,4350
+Albury,VLine,2023,9,5200,4810
+Albury,VLine,2023,10,5480,4890
+Albury,VLine,2023,11,5720,4690
+Albury,VLine,2023,12,6770,5860
+Albury,VLine,2024,1,7310,6720
+Albury,VLine,2024,2,5390,4760
+Albury,VLine,2024,3,5570,4990
+Albury,VLine,2024,4,7740,7000
+Albury,VLine,2024,5,6310,5630
+Albury,VLine,2024,6,6510,5940
+Alphington,Metro,2023,7,17120,15780
+Alphington,Metro,2023,8,19100,15690
+Alphington,Metro,2023,9,15670,13810
+Alphington,Metro,2023,10,18390,17040
+Alphington,Metro,2023,11,17820,16640
+Alphington,Metro,2023,12,15360,13150
+Alphington,Metro,2024,1,13230,12110
+Alphington,Metro,2024,2,18890,17960
+Alphington,Metro,2024,3,18920,17830
+Alphington,Metro,2024,4,17850,16110
+Alphington,Metro,2024,5,19140,18020
+Alphington,Metro,2024,6,16220,15090
+Altona,Metro,2023,7,11830,13210
+Altona,Metro,2023,8,17860,19780
+Altona,Metro,2023,9,19000,22140
+Altona,Metro,2023,10,18800,22720
+Altona,Metro,2023,11,18140,20460
+Altona,Metro,2023,12,18990,23240
+Altona,Metro,2024,1,20830,26150
+Altona,Metro,2024,2,22310,26230
+Altona,Metro,2024,3,22900,26150
+Altona,Metro,2024,4,19380,23210
+Altona,Metro,2024,5,19250,21510
+Altona,Metro,2024,6,17690,20940
+Anstey,Metro,2023,7,23380,21750
+Anstey,Metro,2023,8,25550,23640
+Anstey,Metro,2023,9,25390,24200
+Anstey,Metro,2023,10,25900,23880
+Anstey,Metro,2023,11,27490,25670
+Anstey,Metro,2023,12,26090,24760
+Anstey,Metro,2024,1,26730,25790
+Anstey,Metro,2024,2,29900,28280
+Anstey,Metro,2024,3,30010,27660
+Anstey,Metro,2024,4,27250,24010
+Anstey,Metro,2024,5,29570,27800
+Anstey,Metro,2024,6,26470,24740
+Ararat,VLine,2023,7,3990,4140
+Ararat,VLine,2023,8,3370,3410
+Ararat,VLine,2023,9,2370,2580
+Ararat,VLine,2023,10,4440,4910
+Ararat,VLine,2023,11,4540,5140
+Ararat,VLine,2023,12,5070,5720
+Ararat,VLine,2024,1,4310,5090
+Ararat,VLine,2024,2,3440,3980
+Ararat,VLine,2024,3,5300,5950
+Ararat,VLine,2024,4,5490,5920
+Ararat,VLine,2024,5,4920,5280
+Ararat,VLine,2024,6,3510,3800
+Ardeer,VLine,2023,7,7490,6520
+Ardeer,VLine,2023,8,3220,3320
+Ardeer,VLine,2023,9,5810,5730
+Ardeer,VLine,2023,10,6530,6300
+Ardeer,VLine,2023,11,7000,6750
+Ardeer,VLine,2023,12,5420,4850
+Ardeer,VLine,2024,1,4850,4930
+Ardeer,VLine,2024,2,5980,6200
+Ardeer,VLine,2024,3,6560,6160
+Ardeer,VLine,2024,4,6150,5880
+Ardeer,VLine,2024,5,7270,7550
+Ardeer,VLine,2024,6,6160,5920
+Armadale,Metro,2023,7,5200,5110
+Armadale,Metro,2023,8,31090,29330
+Armadale,Metro,2023,9,28920,27640
+Armadale,Metro,2023,10,31780,31150
+Armadale,Metro,2023,11,30680,29660
+Armadale,Metro,2023,12,27750,27190
+Armadale,Metro,2024,1,27780,28710
+Armadale,Metro,2024,2,35120,36050
+Armadale,Metro,2024,3,37360,36190
+Armadale,Metro,2024,4,35350,33680
+Armadale,Metro,2024,5,38750,37600
+Armadale,Metro,2024,6,31850,31690
+Ascot Vale,Metro,2023,7,37250,34010
+Ascot Vale,Metro,2023,8,38940,37210
+Ascot Vale,Metro,2023,9,32520,31490
+Ascot Vale,Metro,2023,10,35120,32620
+Ascot Vale,Metro,2023,11,34980,34610
+Ascot Vale,Metro,2023,12,32190,30920
+Ascot Vale,Metro,2024,1,27640,26940
+Ascot Vale,Metro,2024,2,39070,37430
+Ascot Vale,Metro,2024,3,39620,36820
+Ascot Vale,Metro,2024,4,37020,35490
+Ascot Vale,Metro,2024,5,42120,40840
+Ascot Vale,Metro,2024,6,33640,32240
+Ashburton,Metro,2023,7,13210,12960
+Ashburton,Metro,2023,8,16030,15370
+Ashburton,Metro,2023,9,12690,11230
+Ashburton,Metro,2023,10,14620,13310
+Ashburton,Metro,2023,11,13520,12370
+Ashburton,Metro,2023,12,11240,10740
+Ashburton,Metro,2024,1,10380,10560
+Ashburton,Metro,2024,2,14780,13920
+Ashburton,Metro,2024,3,15450,14210
+Ashburton,Metro,2024,4,14340,12840
+Ashburton,Metro,2024,5,14780,14070
+Ashburton,Metro,2024,6,12960,12180
+Aspendale,Metro,2023,7,1350,2640
+Aspendale,Metro,2023,8,10040,9120
+Aspendale,Metro,2023,9,8450,8160
+Aspendale,Metro,2023,10,6570,6010
+Aspendale,Metro,2023,11,6990,7150
+Aspendale,Metro,2023,12,7330,6770
+Aspendale,Metro,2024,1,7220,7300
+Aspendale,Metro,2024,2,10180,10520
+Aspendale,Metro,2024,3,11940,11460
+Aspendale,Metro,2024,4,9610,8820
+Aspendale,Metro,2024,5,11290,11000
+Aspendale,Metro,2024,6,8090,7780
+Auburn,Metro,2023,7,48390,46520
+Auburn,Metro,2023,8,52910,50440
+Auburn,Metro,2023,9,43690,40650
+Auburn,Metro,2023,10,45670,41710
+Auburn,Metro,2023,11,49040,45340
+Auburn,Metro,2023,12,44100,43250
+Auburn,Metro,2024,1,40030,38730
+Auburn,Metro,2024,2,50800,50080
+Auburn,Metro,2024,3,55670,54590
+Auburn,Metro,2024,4,44610,41450
+Auburn,Metro,2024,5,52560,50080
+Auburn,Metro,2024,6,47520,47840
+Avenel,VLine,2023,7,20,0
+Avenel,VLine,2023,8,30,50
+Avenel,VLine,2023,9,120,60
+Avenel,VLine,2023,10,10,20
+Avenel,VLine,2023,11,50,70
+Avenel,VLine,2023,12,0,10
+Avenel,VLine,2024,1,40,50
+Avenel,VLine,2024,2,10,20
+Avenel,VLine,2024,3,10,40
+Avenel,VLine,2024,4,30,280
+Avenel,VLine,2024,5,80,20
+Avenel,VLine,2024,6,40,50
+Bacchus Marsh,VLine,2023,7,23060,23590
+Bacchus Marsh,VLine,2023,8,21650,21720
+Bacchus Marsh,VLine,2023,9,42590,35280
+Bacchus Marsh,VLine,2023,10,26380,26480
+Bacchus Marsh,VLine,2023,11,25870,26210
+Bacchus Marsh,VLine,2023,12,23140,23170
+Bacchus Marsh,VLine,2024,1,21300,21920
+Bacchus Marsh,VLine,2024,2,27480,27740
+Bacchus Marsh,VLine,2024,3,29430,28680
+Bacchus Marsh,VLine,2024,4,29150,28510
+Bacchus Marsh,VLine,2024,5,33430,33340
+Bacchus Marsh,VLine,2024,6,19090,18780
+Bairnsdale,VLine,2023,7,1010,980
+Bairnsdale,VLine,2023,8,2910,2620
+Bairnsdale,VLine,2023,9,3900,3810
+Bairnsdale,VLine,2023,10,5370,5410
+Bairnsdale,VLine,2023,11,4200,4350
+Bairnsdale,VLine,2023,12,4630,4830
+Bairnsdale,VLine,2024,1,7230,6380
+Bairnsdale,VLine,2024,2,4970,4820
+Bairnsdale,VLine,2024,3,5780,5830
+Bairnsdale,VLine,2024,4,6630,6320
+Bairnsdale,VLine,2024,5,620,520
+Bairnsdale,VLine,2024,6,3060,2730
+Balaclava,Metro,2023,7,68890,74700
+Balaclava,Metro,2023,8,63600,66520
+Balaclava,Metro,2023,9,47280,47950
+Balaclava,Metro,2023,10,61660,63400
+Balaclava,Metro,2023,11,59260,62880
+Balaclava,Metro,2023,12,60140,66120
+Balaclava,Metro,2024,1,61060,64890
+Balaclava,Metro,2024,2,69840,74750
+Balaclava,Metro,2024,3,64420,68780
+Balaclava,Metro,2024,4,65820,68610
+Balaclava,Metro,2024,5,77370,77250
+Balaclava,Metro,2024,6,58140,61970
+Ballan,VLine,2023,7,5790,6110
+Ballan,VLine,2023,8,5240,5640
+Ballan,VLine,2023,9,3270,3340
+Ballan,VLine,2023,10,6520,6550
+Ballan,VLine,2023,11,6320,6730
+Ballan,VLine,2023,12,6330,6730
+Ballan,VLine,2024,1,5750,6640
+Ballan,VLine,2024,2,6140,6590
+Ballan,VLine,2024,3,7010,7540
+Ballan,VLine,2024,4,7260,7570
+Ballan,VLine,2024,5,7980,8130
+Ballan,VLine,2024,6,4530,4830
+Ballarat,VLine,2023,7,47560,43690
+Ballarat,VLine,2023,8,38540,33880
+Ballarat,VLine,2023,9,26060,24950
+Ballarat,VLine,2023,10,49550,45780
+Ballarat,VLine,2023,11,48340,43500
+Ballarat,VLine,2023,12,50470,47610
+Ballarat,VLine,2024,1,45990,42930
+Ballarat,VLine,2024,2,47910,44950
+Ballarat,VLine,2024,3,57080,53230
+Ballarat,VLine,2024,4,55900,52080
+Ballarat,VLine,2024,5,59330,54070
+Ballarat,VLine,2024,6,37810,32720
+Batman,Metro,2023,7,14910,15370
+Batman,Metro,2023,8,16540,16660
+Batman,Metro,2023,9,15490,16490
+Batman,Metro,2023,10,15950,16800
+Batman,Metro,2023,11,15850,17230
+Batman,Metro,2023,12,14960,16260
+Batman,Metro,2024,1,16220,17350
+Batman,Metro,2024,2,17600,18640
+Batman,Metro,2024,3,18490,19400
+Batman,Metro,2024,4,17300,17660
+Batman,Metro,2024,5,19680,20560
+Batman,Metro,2024,6,17180,18160
+Baxter,Metro,2023,7,0,0
+Baxter,Metro,2023,8,10,30
+Baxter,Metro,2023,9,20,0
+Baxter,Metro,2023,10,10,10
+Baxter,Metro,2023,11,10,20
+Baxter,Metro,2023,12,10,30
+Baxter,Metro,2024,1,20,20
+Baxter,Metro,2024,2,0,20
+Baxter,Metro,2024,3,10,20
+Baxter,Metro,2024,4,20,30
+Baxter,Metro,2024,5,0,20
+Baxter,Metro,2024,6,0,20
+Bayswater,Metro,2023,7,31590,27130
+Bayswater,Metro,2023,8,29140,24950
+Bayswater,Metro,2023,9,30250,24650
+Bayswater,Metro,2023,10,33060,27380
+Bayswater,Metro,2023,11,32850,25910
+Bayswater,Metro,2023,12,29840,23100
+Bayswater,Metro,2024,1,27540,21880
+Bayswater,Metro,2024,2,23020,17190
+Bayswater,Metro,2024,3,16270,13770
+Bayswater,Metro,2024,4,32390,25310
+Bayswater,Metro,2024,5,36760,31320
+Bayswater,Metro,2024,6,27770,22900
+Beaconsfield,Metro,2023,7,14450,14300
+Beaconsfield,Metro,2023,8,16690,17470
+Beaconsfield,Metro,2023,9,14230,14670
+Beaconsfield,Metro,2023,10,15080,16300
+Beaconsfield,Metro,2023,11,10070,10460
+Beaconsfield,Metro,2023,12,5810,5910
+Beaconsfield,Metro,2024,1,9290,9290
+Beaconsfield,Metro,2024,2,13490,13610
+Beaconsfield,Metro,2024,3,16000,16330
+Beaconsfield,Metro,2024,4,14650,14470
+Beaconsfield,Metro,2024,5,9140,8900
+Beaconsfield,Metro,2024,6,10540,10910
+Beaufort,VLine,2023,7,420,590
+Beaufort,VLine,2023,8,470,590
+Beaufort,VLine,2023,9,310,350
+Beaufort,VLine,2023,10,600,580
+Beaufort,VLine,2023,11,620,670
+Beaufort,VLine,2023,12,500,480
+Beaufort,VLine,2024,1,420,540
+Beaufort,VLine,2024,2,370,470
+Beaufort,VLine,2024,3,530,510
+Beaufort,VLine,2024,4,490,630
+Beaufort,VLine,2024,5,480,660
+Beaufort,VLine,2024,6,390,320
+Belgrave,Metro,2023,7,18900,22590
+Belgrave,Metro,2023,8,16080,18300
+Belgrave,Metro,2023,9,17990,20580
+Belgrave,Metro,2023,10,19660,22040
+Belgrave,Metro,2023,11,19840,21380
+Belgrave,Metro,2023,12,19550,22670
+Belgrave,Metro,2024,1,19270,22390
+Belgrave,Metro,2024,2,6470,8000
+Belgrave,Metro,2024,3,8060,9090
+Belgrave,Metro,2024,4,20950,24090
+Belgrave,Metro,2024,5,24140,27300
+Belgrave,Metro,2024,6,17250,20010
+Bell,Metro,2023,7,26350,24830
+Bell,Metro,2023,8,29170,26340
+Bell,Metro,2023,9,27710,26610
+Bell,Metro,2023,10,29600,29910
+Bell,Metro,2023,11,29630,31030
+Bell,Metro,2023,12,25170,26450
+Bell,Metro,2024,1,24040,22720
+Bell,Metro,2024,2,31770,32400
+Bell,Metro,2024,3,33170,33830
+Bell,Metro,2024,4,30390,29980
+Bell,Metro,2024,5,31420,31180
+Bell,Metro,2024,6,28770,29370
+Benalla,VLine,2023,7,2120,2630
+Benalla,VLine,2023,8,2120,2530
+Benalla,VLine,2023,9,2240,2770
+Benalla,VLine,2023,10,2090,2730
+Benalla,VLine,2023,11,2260,2850
+Benalla,VLine,2023,12,2230,3090
+Benalla,VLine,2024,1,2730,2990
+Benalla,VLine,2024,2,2070,2490
+Benalla,VLine,2024,3,1890,3140
+Benalla,VLine,2024,4,2390,3110
+Benalla,VLine,2024,5,2410,3050
+Benalla,VLine,2024,6,2280,2630
+Bendigo,VLine,2023,7,36470,31570
+Bendigo,VLine,2023,8,29720,26280
+Bendigo,VLine,2023,9,37660,32540
+Bendigo,VLine,2023,10,36650,30750
+Bendigo,VLine,2023,11,35330,28950
+Bendigo,VLine,2023,12,35930,30500
+Bendigo,VLine,2024,1,36400,31490
+Bendigo,VLine,2024,2,22680,19040
+Bendigo,VLine,2024,3,38320,34110
+Bendigo,VLine,2024,4,43640,36010
+Bendigo,VLine,2024,5,44730,37210
+Bendigo,VLine,2024,6,41470,34250
+Bentleigh,Metro,2023,7,740,730
+Bentleigh,Metro,2023,8,39830,35960
+Bentleigh,Metro,2023,9,39120,34640
+Bentleigh,Metro,2023,10,40760,37070
+Bentleigh,Metro,2023,11,39630,34730
+Bentleigh,Metro,2023,12,37560,30050
+Bentleigh,Metro,2024,1,38200,32570
+Bentleigh,Metro,2024,2,45320,39800
+Bentleigh,Metro,2024,3,47300,43510
+Bentleigh,Metro,2024,4,44940,41020
+Bentleigh,Metro,2024,5,50060,45360
+Bentleigh,Metro,2024,6,39280,34410
+Berwick,Metro,2023,7,65900,70480
+Berwick,Metro,2023,8,84320,88550
+Berwick,Metro,2023,9,75060,78770
+Berwick,Metro,2023,10,79450,84060
+Berwick,Metro,2023,11,56290,58470
+Berwick,Metro,2023,12,39780,43060
+Berwick,Metro,2024,1,65340,69160
+Berwick,Metro,2024,2,92970,99100
+Berwick,Metro,2024,3,98300,106770
+Berwick,Metro,2024,4,85060,90110
+Berwick,Metro,2024,5,96360,104040
+Berwick,Metro,2024,6,68490,72750
+Berwick,VLine,2023,7,180,320
+Berwick,VLine,2023,8,150,220
+Berwick,VLine,2023,9,120,120
+Berwick,VLine,2023,10,260,290
+Berwick,VLine,2023,11,130,190
+Berwick,VLine,2023,12,100,80
+Berwick,VLine,2024,1,180,170
+Berwick,VLine,2024,2,250,370
+Berwick,VLine,2024,3,250,370
+Berwick,VLine,2024,4,230,310
+Berwick,VLine,2024,5,50,70
+Berwick,VLine,2024,6,130,130
+Birregurra,VLine,2023,7,170,130
+Birregurra,VLine,2023,8,120,40
+Birregurra,VLine,2023,9,60,50
+Birregurra,VLine,2023,10,80,80
+Birregurra,VLine,2023,11,70,190
+Birregurra,VLine,2023,12,130,130
+Birregurra,VLine,2024,1,160,230
+Birregurra,VLine,2024,2,100,40
+Birregurra,VLine,2024,3,170,130
+Birregurra,VLine,2024,4,180,250
+Birregurra,VLine,2024,5,70,130
+Birregurra,VLine,2024,6,90,20
+Bittern,Metro,2023,7,0,0
+Bittern,Metro,2023,8,160,80
+Bittern,Metro,2023,9,300,120
+Bittern,Metro,2023,10,160,70
+Bittern,Metro,2023,11,340,120
+Bittern,Metro,2023,12,360,180
+Bittern,Metro,2024,1,500,350
+Bittern,Metro,2024,2,200,140
+Bittern,Metro,2024,3,260,120
+Bittern,Metro,2024,4,410,240
+Bittern,Metro,2024,5,250,80
+Bittern,Metro,2024,6,150,90
+Blackburn,Metro,2023,7,89280,98450
+Blackburn,Metro,2023,8,137290,146310
+Blackburn,Metro,2023,9,89160,98760
+Blackburn,Metro,2023,10,88740,98640
+Blackburn,Metro,2023,11,88890,100080
+Blackburn,Metro,2023,12,79470,87980
+Blackburn,Metro,2024,1,84370,93230
+Blackburn,Metro,2024,2,107490,120150
+Blackburn,Metro,2024,3,144780,154430
+Blackburn,Metro,2024,4,90830,100980
+Blackburn,Metro,2024,5,102480,116150
+Blackburn,Metro,2024,6,110650,118580
+Bonbeach,Metro,2023,7,1420,1480
+Bonbeach,Metro,2023,8,7140,6410
+Bonbeach,Metro,2023,9,6530,5700
+Bonbeach,Metro,2023,10,5040,3990
+Bonbeach,Metro,2023,11,5020,4500
+Bonbeach,Metro,2023,12,5580,4350
+Bonbeach,Metro,2024,1,5660,5350
+Bonbeach,Metro,2024,2,7890,7780
+Bonbeach,Metro,2024,3,9300,7940
+Bonbeach,Metro,2024,4,7470,6700
+Bonbeach,Metro,2024,5,10820,9930
+Bonbeach,Metro,2024,6,7390,6230
+Boronia,Metro,2023,7,34570,39000
+Boronia,Metro,2023,8,31870,34960
+Boronia,Metro,2023,9,32180,35240
+Boronia,Metro,2023,10,36410,40510
+Boronia,Metro,2023,11,35500,38130
+Boronia,Metro,2023,12,32360,36570
+Boronia,Metro,2024,1,29200,33010
+Boronia,Metro,2024,2,6920,9150
+Boronia,Metro,2024,3,8850,10780
+Boronia,Metro,2024,4,32100,35900
+Boronia,Metro,2024,5,38130,42810
+Boronia,Metro,2024,6,27450,31630
+Box Hill,Metro,2023,7,208710,203660
+Box Hill,Metro,2023,8,234520,231750
+Box Hill,Metro,2023,9,195050,188140
+Box Hill,Metro,2023,10,213460,201770
+Box Hill,Metro,2023,11,204030,197200
+Box Hill,Metro,2023,12,186280,176530
+Box Hill,Metro,2024,1,184970,177830
+Box Hill,Metro,2024,2,219310,211170
+Box Hill,Metro,2024,3,243530,237580
+Box Hill,Metro,2024,4,217250,206530
+Box Hill,Metro,2024,5,235610,233620
+Box Hill,Metro,2024,6,213080,209950
+Brighton Beach,Metro,2023,7,69970,70610
+Brighton Beach,Metro,2023,8,26620,27530
+Brighton Beach,Metro,2023,9,24380,26750
+Brighton Beach,Metro,2023,10,24720,25450
+Brighton Beach,Metro,2023,11,24930,26350
+Brighton Beach,Metro,2023,12,27950,31740
+Brighton Beach,Metro,2024,1,29180,35270
+Brighton Beach,Metro,2024,2,30280,33340
+Brighton Beach,Metro,2024,3,30400,32850
+Brighton Beach,Metro,2024,4,27210,28830
+Brighton Beach,Metro,2024,5,30300,31320
+Brighton Beach,Metro,2024,6,23580,23330
+Broadford,VLine,2023,7,3630,3110
+Broadford,VLine,2023,8,3420,2920
+Broadford,VLine,2023,9,3140,2860
+Broadford,VLine,2023,10,3550,3620
+Broadford,VLine,2023,11,730,710
+Broadford,VLine,2023,12,2570,2330
+Broadford,VLine,2024,1,2120,2160
+Broadford,VLine,2024,2,3210,3150
+Broadford,VLine,2024,3,1720,1530
+Broadford,VLine,2024,4,3140,2870
+Broadford,VLine,2024,5,4210,3750
+Broadford,VLine,2024,6,3560,3040
+Broadmeadows,Metro,2023,7,66120,77660
+Broadmeadows,Metro,2023,8,74590,87000
+Broadmeadows,Metro,2023,9,64550,74320
+Broadmeadows,Metro,2023,10,72390,84460
+Broadmeadows,Metro,2023,11,70010,81180
+Broadmeadows,Metro,2023,12,64430,76480
+Broadmeadows,Metro,2024,1,57050,67560
+Broadmeadows,Metro,2024,2,70670,82000
+Broadmeadows,Metro,2024,3,69720,79870
+Broadmeadows,Metro,2024,4,67310,78020
+Broadmeadows,Metro,2024,5,75240,86110
+Broadmeadows,Metro,2024,6,61530,70980
+Broadmeadows,VLine,2023,7,4340,6670
+Broadmeadows,VLine,2023,8,4090,5600
+Broadmeadows,VLine,2023,9,4030,5600
+Broadmeadows,VLine,2023,10,4080,6800
+Broadmeadows,VLine,2023,11,890,1630
+Broadmeadows,VLine,2023,12,3720,6070
+Broadmeadows,VLine,2024,1,3340,5580
+Broadmeadows,VLine,2024,2,3810,5820
+Broadmeadows,VLine,2024,3,1830,3370
+Broadmeadows,VLine,2024,4,3740,6980
+Broadmeadows,VLine,2024,5,4490,7500
+Broadmeadows,VLine,2024,6,3770,6530
+Brunswick,Metro,2023,7,20180,25920
+Brunswick,Metro,2023,8,23520,28890
+Brunswick,Metro,2023,9,22200,29350
+Brunswick,Metro,2023,10,23650,30300
+Brunswick,Metro,2023,11,26280,32060
+Brunswick,Metro,2023,12,21690,29240
+Brunswick,Metro,2024,1,21970,29740
+Brunswick,Metro,2024,2,28410,35740
+Brunswick,Metro,2024,3,28760,36980
+Brunswick,Metro,2024,4,24380,30970
+Brunswick,Metro,2024,5,29640,37220
+Brunswick,Metro,2024,6,26230,33830
+Bunyip,VLine,2023,7,610,370
+Bunyip,VLine,2023,8,460,340
+Bunyip,VLine,2023,9,730,410
+Bunyip,VLine,2023,10,690,470
+Bunyip,VLine,2023,11,420,360
+Bunyip,VLine,2023,12,410,150
+Bunyip,VLine,2024,1,820,420
+Bunyip,VLine,2024,2,760,600
+Bunyip,VLine,2024,3,990,770
+Bunyip,VLine,2024,4,920,650
+Bunyip,VLine,2024,5,120,90
+Bunyip,VLine,2024,6,340,220
+Burnley,Metro,2023,7,120370,124510
+Burnley,Metro,2023,8,93570,98470
+Burnley,Metro,2023,9,96910,100870
+Burnley,Metro,2023,10,89470,100270
+Burnley,Metro,2023,11,80380,88530
+Burnley,Metro,2023,12,66740,74690
+Burnley,Metro,2024,1,56500,62070
+Burnley,Metro,2024,2,87280,97210
+Burnley,Metro,2024,3,91000,96360
+Burnley,Metro,2024,4,90000,100420
+Burnley,Metro,2024,5,102130,107570
+Burnley,Metro,2024,6,77360,85230
+Burwood,Metro,2023,7,14580,12580
+Burwood,Metro,2023,8,16760,14190
+Burwood,Metro,2023,9,13600,11160
+Burwood,Metro,2023,10,15180,12320
+Burwood,Metro,2023,11,14410,11850
+Burwood,Metro,2023,12,11480,9380
+Burwood,Metro,2024,1,10880,9350
+Burwood,Metro,2024,2,16330,13450
+Burwood,Metro,2024,3,17070,14530
+Burwood,Metro,2024,4,15380,12230
+Burwood,Metro,2024,5,17630,14820
+Burwood,Metro,2024,6,13900,11740
+Camberwell,Metro,2023,7,129900,148790
+Camberwell,Metro,2023,8,142250,161960
+Camberwell,Metro,2023,9,125560,143130
+Camberwell,Metro,2023,10,131890,155300
+Camberwell,Metro,2023,11,125850,142000
+Camberwell,Metro,2023,12,120150,132730
+Camberwell,Metro,2024,1,112080,125210
+Camberwell,Metro,2024,2,132730,147610
+Camberwell,Metro,2024,3,142700,157390
+Camberwell,Metro,2024,4,137350,152640
+Camberwell,Metro,2024,5,140380,159260
+Camberwell,Metro,2024,6,125340,137730
+Camperdown,VLine,2023,7,1300,1170
+Camperdown,VLine,2023,8,970,970
+Camperdown,VLine,2023,9,1020,770
+Camperdown,VLine,2023,10,1100,1100
+Camperdown,VLine,2023,11,860,830
+Camperdown,VLine,2023,12,1300,1330
+Camperdown,VLine,2024,1,1520,1530
+Camperdown,VLine,2024,2,740,660
+Camperdown,VLine,2024,3,1350,1550
+Camperdown,VLine,2024,4,1170,1060
+Camperdown,VLine,2024,5,980,900
+Camperdown,VLine,2024,6,500,680
+Canterbury,Metro,2023,7,16940,14850
+Canterbury,Metro,2023,8,19270,16420
+Canterbury,Metro,2023,9,14740,12760
+Canterbury,Metro,2023,10,16210,13860
+Canterbury,Metro,2023,11,16910,14230
+Canterbury,Metro,2023,12,14550,13410
+Canterbury,Metro,2024,1,13320,10900
+Canterbury,Metro,2024,2,18530,16460
+Canterbury,Metro,2024,3,19930,17300
+Canterbury,Metro,2024,4,16580,14120
+Canterbury,Metro,2024,5,19510,17300
+Canterbury,Metro,2024,6,16580,14340
+Cardinia Road,Metro,2023,7,27790,29420
+Cardinia Road,Metro,2023,8,32480,33830
+Cardinia Road,Metro,2023,9,31230,33130
+Cardinia Road,Metro,2023,10,30710,33080
+Cardinia Road,Metro,2023,11,22320,24580
+Cardinia Road,Metro,2023,12,15980,18320
+Cardinia Road,Metro,2024,1,24360,26760
+Cardinia Road,Metro,2024,2,31800,34380
+Cardinia Road,Metro,2024,3,34700,37570
+Cardinia Road,Metro,2024,4,33160,35860
+Cardinia Road,Metro,2024,5,20460,21570
+Cardinia Road,Metro,2024,6,25830,27060
+Carnegie,Metro,2023,7,71360,73980
+Carnegie,Metro,2023,8,92350,96180
+Carnegie,Metro,2023,9,81670,84270
+Carnegie,Metro,2023,10,86010,90850
+Carnegie,Metro,2023,11,72210,74930
+Carnegie,Metro,2023,12,73060,77530
+Carnegie,Metro,2024,1,75780,82510
+Carnegie,Metro,2024,2,79270,82810
+Carnegie,Metro,2024,3,90300,93390
+Carnegie,Metro,2024,4,83550,86430
+Carnegie,Metro,2024,5,81350,82630
+Carnegie,Metro,2024,6,74680,78460
+Caroline Springs,VLine,2023,7,24990,27330
+Caroline Springs,VLine,2023,8,33940,43180
+Caroline Springs,VLine,2023,9,19290,22350
+Caroline Springs,VLine,2023,10,20380,24710
+Caroline Springs,VLine,2023,11,20160,24940
+Caroline Springs,VLine,2023,12,16180,17970
+Caroline Springs,VLine,2024,1,15770,18800
+Caroline Springs,VLine,2024,2,19820,24320
+Caroline Springs,VLine,2024,3,22400,25880
+Caroline Springs,VLine,2024,4,21500,25830
+Caroline Springs,VLine,2024,5,26250,30920
+Caroline Springs,VLine,2024,6,19410,24510
+Carrum,Metro,2023,7,5950,5630
+Carrum,Metro,2023,8,22460,20810
+Carrum,Metro,2023,9,22050,21020
+Carrum,Metro,2023,10,15430,14810
+Carrum,Metro,2023,11,17470,16680
+Carrum,Metro,2023,12,18840,16830
+Carrum,Metro,2024,1,20040,20410
+Carrum,Metro,2024,2,22570,22070
+Carrum,Metro,2024,3,26000,24810
+Carrum,Metro,2024,4,22580,21460
+Carrum,Metro,2024,5,51330,52020
+Carrum,Metro,2024,6,19340,17880
+Castlemaine,VLine,2023,7,16490,17590
+Castlemaine,VLine,2023,8,13980,16310
+Castlemaine,VLine,2023,9,17310,18590
+Castlemaine,VLine,2023,10,17300,19590
+Castlemaine,VLine,2023,11,17030,19430
+Castlemaine,VLine,2023,12,16710,18760
+Castlemaine,VLine,2024,1,16810,18910
+Castlemaine,VLine,2024,2,10930,13190
+Castlemaine,VLine,2024,3,16830,18560
+Castlemaine,VLine,2024,4,18430,21000
+Castlemaine,VLine,2024,5,20430,23440
+Castlemaine,VLine,2024,6,18290,20870
+Caulfield,Metro,2023,7,163810,166100
+Caulfield,Metro,2023,8,320690,333770
+Caulfield,Metro,2023,9,274820,287360
+Caulfield,Metro,2023,10,340660,349740
+Caulfield,Metro,2023,11,245110,244900
+Caulfield,Metro,2023,12,203930,203590
+Caulfield,Metro,2024,1,211080,216310
+Caulfield,Metro,2024,2,312780,321340
+Caulfield,Metro,2024,3,361110,376550
+Caulfield,Metro,2024,4,336550,340300
+Caulfield,Metro,2024,5,362790,368060
+Caulfield,Metro,2024,6,245060,246810
+Caulfield,VLine,2023,7,660,540
+Caulfield,VLine,2023,8,1080,930
+Caulfield,VLine,2023,9,1250,1460
+Caulfield,VLine,2023,10,1300,1530
+Caulfield,VLine,2023,11,1150,1190
+Caulfield,VLine,2023,12,1190,1040
+Caulfield,VLine,2024,1,1490,1810
+Caulfield,VLine,2024,2,1430,1570
+Caulfield,VLine,2024,3,1820,1750
+Caulfield,VLine,2024,4,1820,2010
+Caulfield,VLine,2024,5,200,250
+Caulfield,VLine,2024,6,580,640
+Chatham,Metro,2023,7,10020,8670
+Chatham,Metro,2023,8,12130,9690
+Chatham,Metro,2023,9,9820,7890
+Chatham,Metro,2023,10,10820,8680
+Chatham,Metro,2023,11,10430,8600
+Chatham,Metro,2023,12,8970,7380
+Chatham,Metro,2024,1,8030,6370
+Chatham,Metro,2024,2,11590,9360
+Chatham,Metro,2024,3,13380,10970
+Chatham,Metro,2024,4,11620,9100
+Chatham,Metro,2024,5,13250,10950
+Chatham,Metro,2024,6,10800,8820
+Chelsea,Metro,2023,7,8570,11710
+Chelsea,Metro,2023,8,25540,28980
+Chelsea,Metro,2023,9,24450,27320
+Chelsea,Metro,2023,10,17540,19220
+Chelsea,Metro,2023,11,20980,23290
+Chelsea,Metro,2023,12,21650,23600
+Chelsea,Metro,2024,1,23330,26310
+Chelsea,Metro,2024,2,26320,28520
+Chelsea,Metro,2024,3,28580,29930
+Chelsea,Metro,2024,4,24580,26180
+Chelsea,Metro,2024,5,28370,29850
+Chelsea,Metro,2024,6,21900,23200
+Cheltenham,Metro,2023,7,6480,3550
+Cheltenham,Metro,2023,8,46400,39660
+Cheltenham,Metro,2023,9,45330,38670
+Cheltenham,Metro,2023,10,76460,67900
+Cheltenham,Metro,2023,11,45100,37340
+Cheltenham,Metro,2023,12,38990,29960
+Cheltenham,Metro,2024,1,42580,35270
+Cheltenham,Metro,2024,2,59450,51430
+Cheltenham,Metro,2024,3,64920,61230
+Cheltenham,Metro,2024,4,58850,52550
+Cheltenham,Metro,2024,5,57640,51060
+Cheltenham,Metro,2024,6,51980,44300
+Chiltern,VLine,2023,7,290,370
+Chiltern,VLine,2023,8,290,210
+Chiltern,VLine,2023,9,180,230
+Chiltern,VLine,2023,10,290,360
+Chiltern,VLine,2023,11,340,360
+Chiltern,VLine,2023,12,370,380
+Chiltern,VLine,2024,1,330,420
+Chiltern,VLine,2024,2,250,370
+Chiltern,VLine,2024,3,310,400
+Chiltern,VLine,2024,4,440,430
+Chiltern,VLine,2024,5,350,340
+Chiltern,VLine,2024,6,330,460
+Clarkefield,VLine,2023,7,2220,1970
+Clarkefield,VLine,2023,8,1560,1440
+Clarkefield,VLine,2023,9,2340,2060
+Clarkefield,VLine,2023,10,2320,2210
+Clarkefield,VLine,2023,11,2480,2110
+Clarkefield,VLine,2023,12,1880,1520
+Clarkefield,VLine,2024,1,2050,1770
+Clarkefield,VLine,2024,2,1600,1470
+Clarkefield,VLine,2024,3,2300,2150
+Clarkefield,VLine,2024,4,2440,2220
+Clarkefield,VLine,2024,5,2700,2510
+Clarkefield,VLine,2024,6,2230,1930
+Clayton,Metro,2023,7,119570,112250
+Clayton,Metro,2023,8,139580,132270
+Clayton,Metro,2023,9,128970,120260
+Clayton,Metro,2023,10,130690,123190
+Clayton,Metro,2023,11,110360,104140
+Clayton,Metro,2023,12,110820,99140
+Clayton,Metro,2024,1,116170,106900
+Clayton,Metro,2024,2,125900,118960
+Clayton,Metro,2024,3,142560,135510
+Clayton,Metro,2024,4,132130,124810
+Clayton,Metro,2024,5,125270,118830
+Clayton,Metro,2024,6,116970,109100
+Clayton,VLine,2023,7,1490,2150
+Clayton,VLine,2023,8,1460,2050
+Clayton,VLine,2023,9,1430,2070
+Clayton,VLine,2023,10,1780,2670
+Clayton,VLine,2023,11,1360,2020
+Clayton,VLine,2023,12,980,1540
+Clayton,VLine,2024,1,1820,2540
+Clayton,VLine,2024,2,1680,2370
+Clayton,VLine,2024,3,2300,3200
+Clayton,VLine,2024,4,2240,2980
+Clayton,VLine,2024,5,340,440
+Clayton,VLine,2024,6,820,1240
+Clifton Hill,Metro,2023,7,67140,63280
+Clifton Hill,Metro,2023,8,84000,78240
+Clifton Hill,Metro,2023,9,73940,74170
+Clifton Hill,Metro,2023,10,69220,72460
+Clifton Hill,Metro,2023,11,61430,61070
+Clifton Hill,Metro,2023,12,62310,58690
+Clifton Hill,Metro,2024,1,52690,57820
+Clifton Hill,Metro,2024,2,62850,63550
+Clifton Hill,Metro,2024,3,70070,67290
+Clifton Hill,Metro,2024,4,68280,65790
+Clifton Hill,Metro,2024,5,73250,72140
+Clifton Hill,Metro,2024,6,61310,57400
+Clunes,VLine,2023,7,20,30
+Clunes,VLine,2023,8,10,30
+Clunes,VLine,2023,9,30,30
+Clunes,VLine,2023,10,20,40
+Clunes,VLine,2023,11,50,20
+Clunes,VLine,2023,12,70,60
+Clunes,VLine,2024,1,30,30
+Clunes,VLine,2024,2,50,40
+Clunes,VLine,2024,3,100,170
+Clunes,VLine,2024,4,110,60
+Clunes,VLine,2024,5,70,50
+Clunes,VLine,2024,6,20,0
+Cobblebank,VLine,2023,7,19560,20000
+Cobblebank,VLine,2023,8,16200,15760
+Cobblebank,VLine,2023,9,21180,22860
+Cobblebank,VLine,2023,10,22720,25080
+Cobblebank,VLine,2023,11,21750,23380
+Cobblebank,VLine,2023,12,19160,20440
+Cobblebank,VLine,2024,1,19100,21500
+Cobblebank,VLine,2024,2,22170,25510
+Cobblebank,VLine,2024,3,24520,26860
+Cobblebank,VLine,2024,4,24130,26160
+Cobblebank,VLine,2024,5,28340,30190
+Cobblebank,VLine,2024,6,23290,25910
+Coburg,Metro,2023,7,36130,37080
+Coburg,Metro,2023,8,38420,40550
+Coburg,Metro,2023,9,37680,40190
+Coburg,Metro,2023,10,38870,41440
+Coburg,Metro,2023,11,38600,40830
+Coburg,Metro,2023,12,36050,38950
+Coburg,Metro,2024,1,36840,39150
+Coburg,Metro,2024,2,41430,44570
+Coburg,Metro,2024,3,43380,46480
+Coburg,Metro,2024,4,37690,40340
+Coburg,Metro,2024,5,43390,47160
+Coburg,Metro,2024,6,38210,41390
+Colac,VLine,2023,7,2540,2310
+Colac,VLine,2023,8,2130,1830
+Colac,VLine,2023,9,2050,1700
+Colac,VLine,2023,10,2320,2210
+Colac,VLine,2023,11,1590,1310
+Colac,VLine,2023,12,2670,2160
+Colac,VLine,2024,1,2880,2510
+Colac,VLine,2024,2,1540,1210
+Colac,VLine,2024,3,2800,2560
+Colac,VLine,2024,4,2120,1940
+Colac,VLine,2024,5,2020,1820
+Colac,VLine,2024,6,1080,1030
+Collingwood,Metro,2023,7,33210,48290
+Collingwood,Metro,2023,8,38350,51440
+Collingwood,Metro,2023,9,32310,47800
+Collingwood,Metro,2023,10,35510,51710
+Collingwood,Metro,2023,11,34110,51340
+Collingwood,Metro,2023,12,26980,43940
+Collingwood,Metro,2024,1,26940,40290
+Collingwood,Metro,2024,2,38210,56230
+Collingwood,Metro,2024,3,37730,53990
+Collingwood,Metro,2024,4,35130,52320
+Collingwood,Metro,2024,5,37710,55310
+Collingwood,Metro,2024,6,32960,50690
+Coolaroo,Metro,2023,7,17730,16390
+Coolaroo,Metro,2023,8,21010,19770
+Coolaroo,Metro,2023,9,18470,16760
+Coolaroo,Metro,2023,10,18820,16870
+Coolaroo,Metro,2023,11,17740,16170
+Coolaroo,Metro,2023,12,16080,14850
+Coolaroo,Metro,2024,1,14380,14000
+Coolaroo,Metro,2024,2,19070,17910
+Coolaroo,Metro,2024,3,21070,19760
+Coolaroo,Metro,2024,4,20070,19120
+Coolaroo,Metro,2024,5,23000,21380
+Coolaroo,Metro,2024,6,16360,15900
+Corio,VLine,2023,7,940,940
+Corio,VLine,2023,8,1170,1280
+Corio,VLine,2023,9,1160,960
+Corio,VLine,2023,10,1160,1200
+Corio,VLine,2023,11,1410,1340
+Corio,VLine,2023,12,1030,820
+Corio,VLine,2024,1,1230,1110
+Corio,VLine,2024,2,970,1060
+Corio,VLine,2024,3,1280,1410
+Corio,VLine,2024,4,840,1090
+Corio,VLine,2024,5,1670,1820
+Corio,VLine,2024,6,1260,1570
+Craigieburn,Metro,2023,7,110910,111330
+Craigieburn,Metro,2023,8,125950,127700
+Craigieburn,Metro,2023,9,107730,105320
+Craigieburn,Metro,2023,10,109740,108290
+Craigieburn,Metro,2023,11,114970,112770
+Craigieburn,Metro,2023,12,107360,106030
+Craigieburn,Metro,2024,1,95130,95380
+Craigieburn,Metro,2024,2,120460,118610
+Craigieburn,Metro,2024,3,129590,127000
+Craigieburn,Metro,2024,4,120350,119170
+Craigieburn,Metro,2024,5,137220,134500
+Craigieburn,Metro,2024,6,108020,106360
+Craigieburn,VLine,2023,7,470,760
+Craigieburn,VLine,2023,8,510,550
+Craigieburn,VLine,2023,9,400,810
+Craigieburn,VLine,2023,10,510,1010
+Craigieburn,VLine,2023,11,120,230
+Craigieburn,VLine,2023,12,580,940
+Craigieburn,VLine,2024,1,480,650
+Craigieburn,VLine,2024,2,540,710
+Craigieburn,VLine,2024,3,330,480
+Craigieburn,VLine,2024,4,460,830
+Craigieburn,VLine,2024,5,650,770
+Craigieburn,VLine,2024,6,410,720
+Cranbourne,Metro,2023,7,77670,82700
+Cranbourne,Metro,2023,8,88170,92620
+Cranbourne,Metro,2023,9,80870,85890
+Cranbourne,Metro,2023,10,71290,76150
+Cranbourne,Metro,2023,11,61140,67360
+Cranbourne,Metro,2023,12,66340,73950
+Cranbourne,Metro,2024,1,67630,74770
+Cranbourne,Metro,2024,2,78970,85580
+Cranbourne,Metro,2024,3,89880,98190
+Cranbourne,Metro,2024,4,82960,90150
+Cranbourne,Metro,2024,5,90020,100390
+Cranbourne,Metro,2024,6,74240,81000
+Creswick,VLine,2023,7,0,10
+Creswick,VLine,2023,8,50,50
+Creswick,VLine,2023,9,10,0
+Creswick,VLine,2023,10,0,60
+Creswick,VLine,2023,11,10,20
+Creswick,VLine,2023,12,20,30
+Creswick,VLine,2024,1,30,30
+Creswick,VLine,2024,2,20,10
+Creswick,VLine,2024,3,50,20
+Creswick,VLine,2024,4,50,80
+Creswick,VLine,2024,5,50,10
+Creswick,VLine,2024,6,10,40
+Crib Point,Metro,2023,7,0,0
+Crib Point,Metro,2023,8,340,200
+Crib Point,Metro,2023,9,580,260
+Crib Point,Metro,2023,10,190,230
+Crib Point,Metro,2023,11,520,260
+Crib Point,Metro,2023,12,210,110
+Crib Point,Metro,2024,1,200,110
+Crib Point,Metro,2024,2,210,140
+Crib Point,Metro,2024,3,540,260
+Crib Point,Metro,2024,4,380,220
+Crib Point,Metro,2024,5,240,170
+Crib Point,Metro,2024,6,350,260
+Croxton,Metro,2023,7,14720,13580
+Croxton,Metro,2023,8,15360,12960
+Croxton,Metro,2023,9,14900,14080
+Croxton,Metro,2023,10,15070,14140
+Croxton,Metro,2023,11,15250,15050
+Croxton,Metro,2023,12,14610,13810
+Croxton,Metro,2024,1,13330,12710
+Croxton,Metro,2024,2,16990,16210
+Croxton,Metro,2024,3,17590,17140
+Croxton,Metro,2024,4,16740,15660
+Croxton,Metro,2024,5,16510,15450
+Croxton,Metro,2024,6,15930,14500
+Croydon,Metro,2023,7,43150,49160
+Croydon,Metro,2023,8,39350,44180
+Croydon,Metro,2023,9,40150,44590
+Croydon,Metro,2023,10,32980,37350
+Croydon,Metro,2023,11,41830,46270
+Croydon,Metro,2023,12,39120,44280
+Croydon,Metro,2024,1,33930,38040
+Croydon,Metro,2024,2,0,0
+Croydon,Metro,2024,3,0,0
+Dandenong,Metro,2023,7,165810,134960
+Dandenong,Metro,2023,8,180490,149840
+Dandenong,Metro,2023,9,171650,136910
+Dandenong,Metro,2023,10,185190,150570
+Dandenong,Metro,2023,11,166790,130300
+Dandenong,Metro,2023,12,178850,137670
+Dandenong,Metro,2024,1,150930,121590
+Dandenong,Metro,2024,2,179550,142060
+Dandenong,Metro,2024,3,195280,156840
+Dandenong,Metro,2024,4,176380,139410
+Dandenong,Metro,2024,5,203970,160140
+Dandenong,Metro,2024,6,161500,126640
+Dandenong,VLine,2023,7,5030,3950
+Dandenong,VLine,2023,8,3920,3210
+Dandenong,VLine,2023,9,4540,3610
+Dandenong,VLine,2023,10,6200,4850
+Dandenong,VLine,2023,11,4940,3860
+Dandenong,VLine,2023,12,4230,3350
+Dandenong,VLine,2024,1,6780,4990
+Dandenong,VLine,2024,2,5880,4620
+Dandenong,VLine,2024,3,6550,4910
+Dandenong,VLine,2024,4,7050,5330
+Dandenong,VLine,2024,5,810,720
+Dandenong,VLine,2024,6,3200,2730
+Darebin,Metro,2023,7,5950,5140
+Darebin,Metro,2023,8,6870,5200
+Darebin,Metro,2023,9,5300,4300
+Darebin,Metro,2023,10,5920,4820
+Darebin,Metro,2023,11,5640,4960
+Darebin,Metro,2023,12,4420,3550
+Darebin,Metro,2024,1,3630,2860
+Darebin,Metro,2024,2,7050,6160
+Darebin,Metro,2024,3,7150,6590
+Darebin,Metro,2024,4,5580,4740
+Darebin,Metro,2024,5,7170,6020
+Darebin,Metro,2024,6,5310,4430
+Darling,Metro,2023,7,21700,19400
+Darling,Metro,2023,8,22260,20230
+Darling,Metro,2023,9,18380,16640
+Darling,Metro,2023,10,20720,24300
+Darling,Metro,2023,11,24970,18440
+Darling,Metro,2023,12,22600,21540
+Darling,Metro,2024,1,16100,14960
+Darling,Metro,2024,2,22020,26880
+Darling,Metro,2024,3,21370,19430
+Darling,Metro,2024,4,18080,16610
+Darling,Metro,2024,5,23000,20660
+Darling,Metro,2024,6,18110,18100
+Deer Park,VLine,2023,7,47900,52070
+Deer Park,VLine,2023,8,37970,41290
+Deer Park,VLine,2023,9,43030,47010
+Deer Park,VLine,2023,10,46880,50060
+Deer Park,VLine,2023,11,48470,50770
+Deer Park,VLine,2023,12,45320,48510
+Deer Park,VLine,2024,1,46030,51230
+Deer Park,VLine,2024,2,51250,56020
+Deer Park,VLine,2024,3,59450,62830
+Deer Park,VLine,2024,4,56340,59910
+Deer Park,VLine,2024,5,64160,68140
+Deer Park,VLine,2024,6,54590,59900
+Dennis,Metro,2023,7,17880,14030
+Dennis,Metro,2023,8,19670,13650
+Dennis,Metro,2023,9,16990,12430
+Dennis,Metro,2023,10,18590,13990
+Dennis,Metro,2023,11,18460,14390
+Dennis,Metro,2023,12,15500,11020
+Dennis,Metro,2024,1,15340,11840
+Dennis,Metro,2024,2,19090,15340
+Dennis,Metro,2024,3,19520,15990
+Dennis,Metro,2024,4,19200,15080
+Dennis,Metro,2024,5,20400,15560
+Dennis,Metro,2024,6,17070,13070
+Diamond Creek,Metro,2023,7,9220,8630
+Diamond Creek,Metro,2023,8,10770,9860
+Diamond Creek,Metro,2023,9,10430,9450
+Diamond Creek,Metro,2023,10,8460,8000
+Diamond Creek,Metro,2023,11,10080,9510
+Diamond Creek,Metro,2023,12,3270,3100
+Diamond Creek,Metro,2024,1,8730,7780
+Diamond Creek,Metro,2024,2,9880,9480
+Diamond Creek,Metro,2024,3,10520,9840
+Diamond Creek,Metro,2024,4,10390,9330
+Diamond Creek,Metro,2024,5,11520,10700
+Diamond Creek,Metro,2024,6,10030,9490
+Diggers Rest,Metro,2023,7,9130,9680
+Diggers Rest,Metro,2023,8,14790,14960
+Diggers Rest,Metro,2023,9,12640,12530
+Diggers Rest,Metro,2023,10,12540,12140
+Diggers Rest,Metro,2023,11,11260,10990
+Diggers Rest,Metro,2023,12,10550,10540
+Diggers Rest,Metro,2024,1,10350,10630
+Diggers Rest,Metro,2024,2,15090,14620
+Diggers Rest,Metro,2024,3,14920,15010
+Diggers Rest,Metro,2024,4,13550,13030
+Diggers Rest,Metro,2024,5,15260,14870
+Diggers Rest,Metro,2024,6,12890,12860
+Dingee,VLine,2023,7,10,0
+Dingee,VLine,2023,8,0,0
+Dingee,VLine,2023,9,10,10
+Dingee,VLine,2023,10,0,0
+Dingee,VLine,2023,11,10,10
+Dingee,VLine,2023,12,0,0
+Dingee,VLine,2024,1,0,0
+Dingee,VLine,2024,2,0,0
+Dingee,VLine,2024,3,10,0
+Dingee,VLine,2024,4,10,0
+Dingee,VLine,2024,5,0,0
+Dingee,VLine,2024,6,0,0
+Donnybrook,VLine,2023,7,11390,10960
+Donnybrook,VLine,2023,8,11210,11280
+Donnybrook,VLine,2023,9,10610,10320
+Donnybrook,VLine,2023,10,10860,10810
+Donnybrook,VLine,2023,11,2770,2480
+Donnybrook,VLine,2023,12,9670,9080
+Donnybrook,VLine,2024,1,10040,9970
+Donnybrook,VLine,2024,2,9800,10430
+Donnybrook,VLine,2024,3,5290,5370
+Donnybrook,VLine,2024,4,11150,11210
+Donnybrook,VLine,2024,5,14300,15060
+Donnybrook,VLine,2024,6,12420,12220
+Drouin,VLine,2023,7,7530,6460
+Drouin,VLine,2023,8,5550,5000
+Drouin,VLine,2023,9,5980,5440
+Drouin,VLine,2023,10,8330,7440
+Drouin,VLine,2023,11,6690,5790
+Drouin,VLine,2023,12,5280,4400
+Drouin,VLine,2024,1,8050,7110
+Drouin,VLine,2024,2,7850,7150
+Drouin,VLine,2024,3,9180,8190
+Drouin,VLine,2024,4,9060,8320
+Drouin,VLine,2024,5,1180,1110
+Drouin,VLine,2024,6,4490,4190
+Eaglehawk,VLine,2023,7,70,20
+Eaglehawk,VLine,2023,8,40,20
+Eaglehawk,VLine,2023,9,80,40
+Eaglehawk,VLine,2023,10,50,20
+Eaglehawk,VLine,2023,11,100,30
+Eaglehawk,VLine,2023,12,80,20
+Eaglehawk,VLine,2024,1,200,30
+Eaglehawk,VLine,2024,2,90,20
+Eaglehawk,VLine,2024,3,140,20
+Eaglehawk,VLine,2024,4,140,0
+Eaglehawk,VLine,2024,5,160,30
+Eaglehawk,VLine,2024,6,130,40
+Eaglemont,Metro,2023,7,6640,5680
+Eaglemont,Metro,2023,8,6690,5540
+Eaglemont,Metro,2023,9,6770,5380
+Eaglemont,Metro,2023,10,6720,5770
+Eaglemont,Metro,2023,11,6460,6080
+Eaglemont,Metro,2023,12,7730,6110
+Eaglemont,Metro,2024,1,5100,4620
+Eaglemont,Metro,2024,2,6940,5990
+Eaglemont,Metro,2024,3,7280,6220
+Eaglemont,Metro,2024,4,7290,6460
+Eaglemont,Metro,2024,5,7370,6020
+Eaglemont,Metro,2024,6,5970,5080
+East Camberwell,Metro,2023,7,10630,10240
+East Camberwell,Metro,2023,8,14670,12080
+East Camberwell,Metro,2023,9,9540,8100
+East Camberwell,Metro,2023,10,12400,11060
+East Camberwell,Metro,2023,11,10690,9510
+East Camberwell,Metro,2023,12,7070,6200
+East Camberwell,Metro,2024,1,5530,4090
+East Camberwell,Metro,2024,2,12780,11280
+East Camberwell,Metro,2024,3,13980,11980
+East Camberwell,Metro,2024,4,10780,8860
+East Camberwell,Metro,2024,5,14430,12860
+East Camberwell,Metro,2024,6,12290,10590
+East Malvern,Metro,2023,7,34480,31900
+East Malvern,Metro,2023,8,26550,24480
+East Malvern,Metro,2023,9,24030,22520
+East Malvern,Metro,2023,10,20610,17490
+East Malvern,Metro,2023,11,24290,22640
+East Malvern,Metro,2023,12,21230,20210
+East Malvern,Metro,2024,1,18160,17000
+East Malvern,Metro,2024,2,25090,22580
+East Malvern,Metro,2024,3,28000,26710
+East Malvern,Metro,2024,4,22120,20060
+East Malvern,Metro,2024,5,31350,30110
+East Malvern,Metro,2024,6,24000,22860
+East Pakenham,Metro,2024,6,1220,1750
+East Richmond,Metro,2023,7,38700,62680
+East Richmond,Metro,2023,8,44180,64750
+East Richmond,Metro,2023,9,36730,56370
+East Richmond,Metro,2023,10,40480,57690
+East Richmond,Metro,2023,11,42030,63350
+East Richmond,Metro,2023,12,34370,56390
+East Richmond,Metro,2024,1,33460,53280
+East Richmond,Metro,2024,2,46090,67840
+East Richmond,Metro,2024,3,44830,65950
+East Richmond,Metro,2024,4,40680,60060
+East Richmond,Metro,2024,5,50360,76210
+East Richmond,Metro,2024,6,40700,65370
+Echuca,VLine,2023,7,2090,1830
+Echuca,VLine,2023,8,1810,1600
+Echuca,VLine,2023,9,2360,2270
+Echuca,VLine,2023,10,2340,2250
+Echuca,VLine,2023,11,2500,2210
+Echuca,VLine,2023,12,2880,2700
+Echuca,VLine,2024,1,2400,2160
+Echuca,VLine,2024,2,1410,1430
+Echuca,VLine,2024,3,2650,2550
+Echuca,VLine,2024,4,3210,2680
+Echuca,VLine,2024,5,2740,2570
+Echuca,VLine,2024,6,2480,2450
+Edithvale,Metro,2023,7,2150,3290
+Edithvale,Metro,2023,8,11640,11400
+Edithvale,Metro,2023,9,10900,10590
+Edithvale,Metro,2023,10,8040,7750
+Edithvale,Metro,2023,11,9190,8770
+Edithvale,Metro,2023,12,9760,9340
+Edithvale,Metro,2024,1,10760,10410
+Edithvale,Metro,2024,2,13780,13730
+Edithvale,Metro,2024,3,14210,13930
+Edithvale,Metro,2024,4,10940,10560
+Edithvale,Metro,2024,5,13890,13060
+Edithvale,Metro,2024,6,10660,9850
+Elmore,VLine,2023,7,30,100
+Elmore,VLine,2023,8,10,40
+Elmore,VLine,2023,9,60,60
+Elmore,VLine,2023,10,20,30
+Elmore,VLine,2023,11,10,70
+Elmore,VLine,2023,12,40,40
+Elmore,VLine,2024,1,30,60
+Elmore,VLine,2024,2,10,40
+Elmore,VLine,2024,3,30,30
+Elmore,VLine,2024,4,60,60
+Elmore,VLine,2024,5,50,60
+Elmore,VLine,2024,6,30,40
+Elsternwick,Metro,2023,7,70430,71910
+Elsternwick,Metro,2023,8,64520,64830
+Elsternwick,Metro,2023,9,46330,45940
+Elsternwick,Metro,2023,10,58690,59140
+Elsternwick,Metro,2023,11,61260,63160
+Elsternwick,Metro,2023,12,58310,60720
+Elsternwick,Metro,2024,1,57340,59870
+Elsternwick,Metro,2024,2,67100,69960
+Elsternwick,Metro,2024,3,65710,66940
+Elsternwick,Metro,2024,4,68200,69430
+Elsternwick,Metro,2024,5,76850,78350
+Elsternwick,Metro,2024,6,61390,62780
+Eltham,Metro,2023,7,29960,28180
+Eltham,Metro,2023,8,33940,30570
+Eltham,Metro,2023,9,31320,29600
+Eltham,Metro,2023,10,26640,25660
+Eltham,Metro,2023,11,32040,31210
+Eltham,Metro,2023,12,11150,10740
+Eltham,Metro,2024,1,25740,25860
+Eltham,Metro,2024,2,32300,32470
+Eltham,Metro,2024,3,37680,37160
+Eltham,Metro,2024,4,33500,32490
+Eltham,Metro,2024,5,35330,34120
+Eltham,Metro,2024,6,32760,32310
+Epping,Metro,2023,7,54730,56610
+Epping,Metro,2023,8,64090,61500
+Epping,Metro,2023,9,58780,59600
+Epping,Metro,2023,10,62140,64800
+Epping,Metro,2023,11,56940,60260
+Epping,Metro,2023,12,49820,52100
+Epping,Metro,2024,1,35820,40170
+Epping,Metro,2024,2,60290,62500
+Epping,Metro,2024,3,67200,70880
+Epping,Metro,2024,4,59490,62040
+Epping,Metro,2024,5,62830,66450
+Epping,Metro,2024,6,56350,58440
+Epsom,VLine,2023,7,270,120
+Epsom,VLine,2023,8,180,90
+Epsom,VLine,2023,9,330,120
+Epsom,VLine,2023,10,400,240
+Epsom,VLine,2023,11,330,240
+Epsom,VLine,2023,12,430,220
+Epsom,VLine,2024,1,420,220
+Epsom,VLine,2024,2,260,90
+Epsom,VLine,2024,3,520,180
+Epsom,VLine,2024,4,620,240
+Epsom,VLine,2024,5,600,330
+Epsom,VLine,2024,6,520,190
+Essendon,Metro,2023,7,110520,106430
+Essendon,Metro,2023,8,116730,119450
+Essendon,Metro,2023,9,98450,95760
+Essendon,Metro,2023,10,109080,110900
+Essendon,Metro,2023,11,103330,102830
+Essendon,Metro,2023,12,95260,93540
+Essendon,Metro,2024,1,84170,83500
+Essendon,Metro,2024,2,112890,112380
+Essendon,Metro,2024,3,116240,113770
+Essendon,Metro,2024,4,110020,107750
+Essendon,Metro,2024,5,125670,123550
+Essendon,Metro,2024,6,101690,99820
+Essendon,VLine,2023,7,250,920
+Essendon,VLine,2023,8,450,800
+Essendon,VLine,2023,9,360,720
+Essendon,VLine,2023,10,340,780
+Essendon,VLine,2023,11,80,170
+Essendon,VLine,2023,12,210,370
+Essendon,VLine,2024,1,200,340
+Essendon,VLine,2024,2,130,440
+Essendon,VLine,2024,3,80,230
+Essendon,VLine,2024,4,170,450
+Essendon,VLine,2024,5,330,710
+Essendon,VLine,2024,6,270,570
+Euroa,VLine,2023,7,360,370
+Euroa,VLine,2023,8,310,460
+Euroa,VLine,2023,9,370,390
+Euroa,VLine,2023,10,390,700
+Euroa,VLine,2023,11,440,440
+Euroa,VLine,2023,12,600,470
+Euroa,VLine,2024,1,550,530
+Euroa,VLine,2024,2,290,480
+Euroa,VLine,2024,3,300,430
+Euroa,VLine,2024,4,580,600
+Euroa,VLine,2024,5,420,510
+Euroa,VLine,2024,6,400,480
+Fairfield,Metro,2023,7,32700,29950
+Fairfield,Metro,2023,8,35220,29560
+Fairfield,Metro,2023,9,33080,30080
+Fairfield,Metro,2023,10,34590,31520
+Fairfield,Metro,2023,11,34750,32480
+Fairfield,Metro,2023,12,30420,27600
+Fairfield,Metro,2024,1,29650,28250
+Fairfield,Metro,2024,2,35650,34070
+Fairfield,Metro,2024,3,37090,35520
+Fairfield,Metro,2024,4,35480,33020
+Fairfield,Metro,2024,5,36240,34570
+Fairfield,Metro,2024,6,32000,30800
+Fawkner,Metro,2023,7,10460,8810
+Fawkner,Metro,2023,8,12130,10070
+Fawkner,Metro,2023,9,11520,9890
+Fawkner,Metro,2023,10,11230,9580
+Fawkner,Metro,2023,11,10460,9110
+Fawkner,Metro,2023,12,9730,8350
+Fawkner,Metro,2024,1,10330,8760
+Fawkner,Metro,2024,2,11460,10090
+Fawkner,Metro,2024,3,12640,10820
+Fawkner,Metro,2024,4,10900,8980
+Fawkner,Metro,2024,5,12190,11110
+Fawkner,Metro,2024,6,9610,8550
+Ferntree Gully,Metro,2023,7,24670,26290
+Ferntree Gully,Metro,2023,8,22940,23490
+Ferntree Gully,Metro,2023,9,23060,24260
+Ferntree Gully,Metro,2023,10,25720,26360
+Ferntree Gully,Metro,2023,11,25490,25330
+Ferntree Gully,Metro,2023,12,23120,24070
+Ferntree Gully,Metro,2024,1,20900,22450
+Ferntree Gully,Metro,2024,2,4200,5360
+Ferntree Gully,Metro,2024,3,5420,6080
+Ferntree Gully,Metro,2024,4,22530,23420
+Ferntree Gully,Metro,2024,5,26360,27950
+Ferntree Gully,Metro,2024,6,18130,19630
+Flagstaff,Metro,2023,7,412530,450120
+Flagstaff,Metro,2023,8,436970,473060
+Flagstaff,Metro,2023,9,373760,414030
+Flagstaff,Metro,2023,10,418280,451070
+Flagstaff,Metro,2023,11,401460,432760
+Flagstaff,Metro,2023,12,315680,343180
+Flagstaff,Metro,2024,1,331530,347940
+Flagstaff,Metro,2024,2,443750,471700
+Flagstaff,Metro,2024,3,435710,463870
+Flagstaff,Metro,2024,4,402750,433400
+Flagstaff,Metro,2024,5,480780,513450
+Flagstaff,Metro,2024,6,400630,434040
+Flemington Bridge,Metro,2023,7,15440,17930
+Flemington Bridge,Metro,2023,8,16950,19760
+Flemington Bridge,Metro,2023,9,17460,20040
+Flemington Bridge,Metro,2023,10,17970,21220
+Flemington Bridge,Metro,2023,11,18100,21740
+Flemington Bridge,Metro,2023,12,16390,18310
+Flemington Bridge,Metro,2024,1,17460,22520
+Flemington Bridge,Metro,2024,2,22000,26910
+Flemington Bridge,Metro,2024,3,23310,27770
+Flemington Bridge,Metro,2024,4,18350,21930
+Flemington Bridge,Metro,2024,5,22960,27890
+Flemington Bridge,Metro,2024,6,19750,24440
+Flemington Racecourse,Metro,2023,7,2450,2130
+Flemington Racecourse,Metro,2023,8,590,570
+Flemington Racecourse,Metro,2023,9,2650,2140
+Flemington Racecourse,Metro,2023,10,2550,2650
+Flemington Racecourse,Metro,2023,11,66690,93490
+Flemington Racecourse,Metro,2023,12,17960,26590
+Flemington Racecourse,Metro,2024,1,3620,3410
+Flemington Racecourse,Metro,2024,2,10850,11790
+Flemington Racecourse,Metro,2024,3,8870,10040
+Flemington Racecourse,Metro,2024,4,7540,7060
+Flemington Racecourse,Metro,2024,5,740,980
+Flemington Racecourse,Metro,2024,6,2160,2400
+Flinders Street,Metro,2023,7,3242760,3200150
+Flinders Street,Metro,2023,8,3960160,3917740
+Flinders Street,Metro,2023,9,3545170,3459700
+Flinders Street,Metro,2023,10,3677070,3585030
+Flinders Street,Metro,2023,11,3579530,3544810
+Flinders Street,Metro,2023,12,3463350,3414920
+Flinders Street,Metro,2024,1,3288830,3199580
+Flinders Street,Metro,2024,2,3832100,3772100
+Flinders Street,Metro,2024,3,4263410,4195080
+Flinders Street,Metro,2024,4,3920840,3864860
+Flinders Street,Metro,2024,5,4159570,4115420
+Flinders Street,Metro,2024,6,3484350,3450910
+Flinders Street,VLine,2023,7,8510,10680
+Flinders Street,VLine,2023,8,6850,8690
+Flinders Street,VLine,2023,9,8760,11480
+Flinders Street,VLine,2023,10,10120,12390
+Flinders Street,VLine,2023,11,7810,9770
+Flinders Street,VLine,2023,12,7330,9420
+Flinders Street,VLine,2024,1,12120,14530
+Flinders Street,VLine,2024,2,9810,11230
+Flinders Street,VLine,2024,3,12310,14930
+Flinders Street,VLine,2024,4,13010,16220
+Flinders Street,VLine,2024,5,1500,1840
+Flinders Street,VLine,2024,6,5320,6830
+Footscray,Metro,2023,7,229940,201540
+Footscray,Metro,2023,8,349380,305390
+Footscray,Metro,2023,9,311110,278730
+Footscray,Metro,2023,10,350970,303530
+Footscray,Metro,2023,11,321960,282730
+Footscray,Metro,2023,12,316430,258320
+Footscray,Metro,2024,1,325010,257130
+Footscray,Metro,2024,2,369000,302260
+Footscray,Metro,2024,3,367910,305470
+Footscray,Metro,2024,4,347390,290320
+Footscray,Metro,2024,5,396120,326620
+Footscray,Metro,2024,6,331210,274640
+Footscray,VLine,2023,7,56560,58250
+Footscray,VLine,2023,8,55130,53810
+Footscray,VLine,2023,9,67370,69910
+Footscray,VLine,2023,10,81670,79100
+Footscray,VLine,2023,11,77550,71770
+Footscray,VLine,2023,12,75830,65070
+Footscray,VLine,2024,1,80650,68410
+Footscray,VLine,2024,2,84130,73650
+Footscray,VLine,2024,3,93900,81650
+Footscray,VLine,2024,4,86570,82490
+Footscray,VLine,2024,5,109110,92800
+Footscray,VLine,2024,6,83630,78180
+Frankston,Metro,2023,7,42830,33510
+Frankston,Metro,2023,8,89220,76110
+Frankston,Metro,2023,9,88940,73710
+Frankston,Metro,2023,10,60220,50530
+Frankston,Metro,2023,11,74300,62080
+Frankston,Metro,2023,12,84000,67060
+Frankston,Metro,2024,1,90650,74500
+Frankston,Metro,2024,2,89660,73790
+Frankston,Metro,2024,3,102740,83920
+Frankston,Metro,2024,4,94040,78670
+Frankston,Metro,2024,5,66030,56390
+Frankston,Metro,2024,6,74870,61950
+Gardenvale,Metro,2023,7,39240,39650
+Gardenvale,Metro,2023,8,30340,31410
+Gardenvale,Metro,2023,9,22190,23010
+Gardenvale,Metro,2023,10,27860,29500
+Gardenvale,Metro,2023,11,27110,27950
+Gardenvale,Metro,2023,12,26200,27280
+Gardenvale,Metro,2024,1,24390,24890
+Gardenvale,Metro,2024,2,30220,31920
+Gardenvale,Metro,2024,3,30200,32480
+Gardenvale,Metro,2024,4,30730,31400
+Gardenvale,Metro,2024,5,35350,35950
+Gardenvale,Metro,2024,6,28320,29330
+Gardiner,Metro,2023,7,33320,28720
+Gardiner,Metro,2023,8,34010,28240
+Gardiner,Metro,2023,9,29500,24980
+Gardiner,Metro,2023,10,24010,19020
+Gardiner,Metro,2023,11,27330,22270
+Gardiner,Metro,2023,12,25640,21620
+Gardiner,Metro,2024,1,24860,21470
+Gardiner,Metro,2024,2,29140,25400
+Gardiner,Metro,2024,3,34650,30710
+Gardiner,Metro,2024,4,28200,24210
+Gardiner,Metro,2024,5,36310,32490
+Gardiner,Metro,2024,6,30420,25960
+Garfield,VLine,2023,7,1080,1020
+Garfield,VLine,2023,8,930,780
+Garfield,VLine,2023,9,970,780
+Garfield,VLine,2023,10,1120,1040
+Garfield,VLine,2023,11,800,630
+Garfield,VLine,2023,12,700,450
+Garfield,VLine,2024,1,1030,760
+Garfield,VLine,2024,2,1070,950
+Garfield,VLine,2024,3,1570,1270
+Garfield,VLine,2024,4,1560,1320
+Garfield,VLine,2024,5,220,180
+Garfield,VLine,2024,6,870,820
+Geelong,VLine,2023,7,80960,77630
+Geelong,VLine,2023,8,83070,80090
+Geelong,VLine,2023,9,78990,79940
+Geelong,VLine,2023,10,68170,71670
+Geelong,VLine,2023,11,87810,87680
+Geelong,VLine,2023,12,66540,70790
+Geelong,VLine,2024,1,73250,77870
+Geelong,VLine,2024,2,73910,73330
+Geelong,VLine,2024,3,82720,83720
+Geelong,VLine,2024,4,56760,57320
+Geelong,VLine,2024,5,98570,97340
+Geelong,VLine,2024,6,98880,94060
+Ginifer,Metro,2023,7,41510,43210
+Ginifer,Metro,2023,8,51630,52140
+Ginifer,Metro,2023,9,50290,51460
+Ginifer,Metro,2023,10,53430,55840
+Ginifer,Metro,2023,11,50100,51530
+Ginifer,Metro,2023,12,48020,50480
+Ginifer,Metro,2024,1,46150,50040
+Ginifer,Metro,2024,2,53990,55020
+Ginifer,Metro,2024,3,56330,56910
+Ginifer,Metro,2024,4,51910,50260
+Ginifer,Metro,2024,5,59060,58970
+Ginifer,Metro,2024,6,49990,50710
+Gisborne,VLine,2023,7,9470,8900
+Gisborne,VLine,2023,8,8710,8130
+Gisborne,VLine,2023,9,10370,9710
+Gisborne,VLine,2023,10,10350,10350
+Gisborne,VLine,2023,11,11090,10300
+Gisborne,VLine,2023,12,9420,9220
+Gisborne,VLine,2024,1,8850,9040
+Gisborne,VLine,2024,2,6680,6490
+Gisborne,VLine,2024,3,10170,10170
+Gisborne,VLine,2024,4,11170,12040
+Gisborne,VLine,2024,5,12230,12360
+Gisborne,VLine,2024,6,10650,10830
+Glen Iris,Metro,2023,7,19440,19810
+Glen Iris,Metro,2023,8,22580,22310
+Glen Iris,Metro,2023,9,18900,19110
+Glen Iris,Metro,2023,10,17980,17950
+Glen Iris,Metro,2023,11,18260,18840
+Glen Iris,Metro,2023,12,15420,16430
+Glen Iris,Metro,2024,1,13380,13420
+Glen Iris,Metro,2024,2,20790,20800
+Glen Iris,Metro,2024,3,22520,22280
+Glen Iris,Metro,2024,4,17570,16390
+Glen Iris,Metro,2024,5,24080,22690
+Glen Iris,Metro,2024,6,18050,18140
+Glen Waverley,Metro,2023,7,115960,117210
+Glen Waverley,Metro,2023,8,120380,122630
+Glen Waverley,Metro,2023,9,111180,107930
+Glen Waverley,Metro,2023,10,92840,90580
+Glen Waverley,Metro,2023,11,106930,106410
+Glen Waverley,Metro,2023,12,102510,98260
+Glen Waverley,Metro,2024,1,88020,85020
+Glen Waverley,Metro,2024,2,116470,112890
+Glen Waverley,Metro,2024,3,132150,130310
+Glen Waverley,Metro,2024,4,97080,94290
+Glen Waverley,Metro,2024,5,126480,126460
+Glen Waverley,Metro,2024,6,104020,103660
+Glenbervie,Metro,2023,7,19110,16450
+Glenbervie,Metro,2023,8,20350,18400
+Glenbervie,Metro,2023,9,17930,15300
+Glenbervie,Metro,2023,10,18310,15870
+Glenbervie,Metro,2023,11,17290,14520
+Glenbervie,Metro,2023,12,16580,14400
+Glenbervie,Metro,2024,1,14670,13030
+Glenbervie,Metro,2024,2,19060,16950
+Glenbervie,Metro,2024,3,20340,18100
+Glenbervie,Metro,2024,4,20260,17760
+Glenbervie,Metro,2024,5,22520,19690
+Glenbervie,Metro,2024,6,17860,15710
+Glenferrie,Metro,2023,7,145660,138680
+Glenferrie,Metro,2023,8,239470,230050
+Glenferrie,Metro,2023,9,163550,159090
+Glenferrie,Metro,2023,10,182460,179160
+Glenferrie,Metro,2023,11,144820,135580
+Glenferrie,Metro,2023,12,107880,103320
+Glenferrie,Metro,2024,1,103080,100700
+Glenferrie,Metro,2024,2,168400,159290
+Glenferrie,Metro,2024,3,235160,224810
+Glenferrie,Metro,2024,4,187320,185200
+Glenferrie,Metro,2024,5,214710,210400
+Glenferrie,Metro,2024,6,135440,128960
+Glenhuntly,Metro,2023,7,980,1230
+Glenhuntly,Metro,2023,8,38280,44080
+Glenhuntly,Metro,2023,9,38500,42560
+Glenhuntly,Metro,2023,10,42550,47960
+Glenhuntly,Metro,2023,11,40350,45070
+Glenhuntly,Metro,2023,12,37290,40370
+Glenhuntly,Metro,2024,1,39260,44490
+Glenhuntly,Metro,2024,2,46960,53710
+Glenhuntly,Metro,2024,3,50690,57850
+Glenhuntly,Metro,2024,4,47000,53430
+Glenhuntly,Metro,2024,5,53300,60160
+Glenhuntly,Metro,2024,6,41790,47510
+Glenroy,Metro,2023,7,60650,54620
+Glenroy,Metro,2023,8,65330,61150
+Glenroy,Metro,2023,9,57470,51100
+Glenroy,Metro,2023,10,61200,56370
+Glenroy,Metro,2023,11,61670,55030
+Glenroy,Metro,2023,12,58180,50500
+Glenroy,Metro,2024,1,52330,46960
+Glenroy,Metro,2024,2,62760,57730
+Glenroy,Metro,2024,3,62020,55850
+Glenroy,Metro,2024,4,60220,54960
+Glenroy,Metro,2024,5,68580,62370
+Glenroy,Metro,2024,6,54890,50540
+Goornong,VLine,2023,7,130,60
+Goornong,VLine,2023,8,60,90
+Goornong,VLine,2023,9,60,80
+Goornong,VLine,2023,10,180,180
+Goornong,VLine,2023,11,110,110
+Goornong,VLine,2023,12,100,90
+Goornong,VLine,2024,1,120,50
+Goornong,VLine,2024,2,90,110
+Goornong,VLine,2024,3,80,90
+Goornong,VLine,2024,4,90,80
+Goornong,VLine,2024,5,130,160
+Goornong,VLine,2024,6,90,90
+Gowrie,Metro,2023,7,16540,16230
+Gowrie,Metro,2023,8,18340,17840
+Gowrie,Metro,2023,9,17950,17040
+Gowrie,Metro,2023,10,17630,17830
+Gowrie,Metro,2023,11,17000,17090
+Gowrie,Metro,2023,12,15800,15580
+Gowrie,Metro,2024,1,16690,16030
+Gowrie,Metro,2024,2,18280,18500
+Gowrie,Metro,2024,3,20210,19720
+Gowrie,Metro,2024,4,16630,15670
+Gowrie,Metro,2024,5,19970,20100
+Gowrie,Metro,2024,6,16650,17040
+Greensborough,Metro,2023,7,30090,31580
+Greensborough,Metro,2023,8,30860,31180
+Greensborough,Metro,2023,9,32380,32900
+Greensborough,Metro,2023,10,27170,29120
+Greensborough,Metro,2023,11,33720,36150
+Greensborough,Metro,2023,12,13260,14020
+Greensborough,Metro,2024,1,31460,31970
+Greensborough,Metro,2024,2,32520,33450
+Greensborough,Metro,2024,3,39670,41090
+Greensborough,Metro,2024,4,37340,37680
+Greensborough,Metro,2024,5,39850,39370
+Greensborough,Metro,2024,6,36550,37190
+Hallam,Metro,2023,7,36750,38670
+Hallam,Metro,2023,8,43810,45130
+Hallam,Metro,2023,9,41390,43860
+Hallam,Metro,2023,10,43520,46750
+Hallam,Metro,2023,11,31460,33630
+Hallam,Metro,2023,12,29780,33070
+Hallam,Metro,2024,1,46450,51270
+Hallam,Metro,2024,2,58490,62300
+Hallam,Metro,2024,3,61670,67070
+Hallam,Metro,2024,4,45270,47820
+Hallam,Metro,2024,5,40700,42400
+Hallam,Metro,2024,6,35310,36940
+Hampton,Metro,2023,7,49870,50070
+Hampton,Metro,2023,8,40070,39250
+Hampton,Metro,2023,9,28290,28890
+Hampton,Metro,2023,10,37680,37810
+Hampton,Metro,2023,11,37040,36300
+Hampton,Metro,2023,12,36690,36830
+Hampton,Metro,2024,1,35470,36010
+Hampton,Metro,2024,2,39990,40950
+Hampton,Metro,2024,3,40130,40640
+Hampton,Metro,2024,4,39990,40450
+Hampton,Metro,2024,5,43230,43430
+Hampton,Metro,2024,6,36340,36700
+Hartwell,Metro,2023,7,8200,6960
+Hartwell,Metro,2023,8,9620,7900
+Hartwell,Metro,2023,9,7480,6060
+Hartwell,Metro,2023,10,8410,6840
+Hartwell,Metro,2023,11,8200,6340
+Hartwell,Metro,2023,12,6880,5790
+Hartwell,Metro,2024,1,6360,5560
+Hartwell,Metro,2024,2,8900,7420
+Hartwell,Metro,2024,3,9480,8010
+Hartwell,Metro,2024,4,8720,6760
+Hartwell,Metro,2024,5,9150,7550
+Hartwell,Metro,2024,6,7440,6330
+Hastings,Metro,2023,7,0,20
+Hastings,Metro,2023,8,590,660
+Hastings,Metro,2023,9,650,590
+Hastings,Metro,2023,10,400,420
+Hastings,Metro,2023,11,490,470
+Hastings,Metro,2023,12,680,640
+Hastings,Metro,2024,1,690,800
+Hastings,Metro,2024,2,500,750
+Hastings,Metro,2024,3,650,840
+Hastings,Metro,2024,4,630,790
+Hastings,Metro,2024,5,380,520
+Hastings,Metro,2024,6,530,700
+Hawksburn,Metro,2023,7,4070,4210
+Hawksburn,Metro,2023,8,26250,26490
+Hawksburn,Metro,2023,9,25290,25380
+Hawksburn,Metro,2023,10,27170,27540
+Hawksburn,Metro,2023,11,26860,27380
+Hawksburn,Metro,2023,12,24760,25740
+Hawksburn,Metro,2024,1,25370,26510
+Hawksburn,Metro,2024,2,30740,32180
+Hawksburn,Metro,2024,3,32880,32900
+Hawksburn,Metro,2024,4,31050,31630
+Hawksburn,Metro,2024,5,33360,33400
+Hawksburn,Metro,2024,6,27590,28880
+Hawkstowe,Metro,2023,7,12340,12070
+Hawkstowe,Metro,2023,8,15340,13870
+Hawkstowe,Metro,2023,9,14120,13140
+Hawkstowe,Metro,2023,10,14800,14780
+Hawkstowe,Metro,2023,11,13950,13230
+Hawkstowe,Metro,2023,12,11880,10810
+Hawkstowe,Metro,2024,1,7450,7670
+Hawkstowe,Metro,2024,2,14960,14000
+Hawkstowe,Metro,2024,3,17100,15890
+Hawkstowe,Metro,2024,4,15570,14580
+Hawkstowe,Metro,2024,5,15020,14690
+Hawkstowe,Metro,2024,6,14040,13110
+Hawthorn,Metro,2023,7,40400,43610
+Hawthorn,Metro,2023,8,45820,48420
+Hawthorn,Metro,2023,9,35400,37670
+Hawthorn,Metro,2023,10,39950,41880
+Hawthorn,Metro,2023,11,40140,42870
+Hawthorn,Metro,2023,12,32620,35270
+Hawthorn,Metro,2024,1,30730,33240
+Hawthorn,Metro,2024,2,42280,45500
+Hawthorn,Metro,2024,3,44020,46030
+Hawthorn,Metro,2024,4,39550,40530
+Hawthorn,Metro,2024,5,44890,47170
+Hawthorn,Metro,2024,6,38040,42990
+Heathcote Junction,VLine,2023,7,90,70
+Heathcote Junction,VLine,2023,8,150,100
+Heathcote Junction,VLine,2023,9,80,90
+Heathcote Junction,VLine,2023,10,160,100
+Heathcote Junction,VLine,2023,11,20,20
+Heathcote Junction,VLine,2023,12,150,100
+Heathcote Junction,VLine,2024,1,90,50
+Heathcote Junction,VLine,2024,2,140,40
+Heathcote Junction,VLine,2024,3,90,50
+Heathcote Junction,VLine,2024,4,150,100
+Heathcote Junction,VLine,2024,5,230,130
+Heathcote Junction,VLine,2024,6,210,170
+Heatherdale,Metro,2023,7,29960,29760
+Heatherdale,Metro,2023,8,28500,26970
+Heatherdale,Metro,2023,9,26620,25690
+Heatherdale,Metro,2023,10,31220,29610
+Heatherdale,Metro,2023,11,29840,28150
+Heatherdale,Metro,2023,12,26530,25510
+Heatherdale,Metro,2024,1,23640,23930
+Heatherdale,Metro,2024,2,33250,32530
+Heatherdale,Metro,2024,3,30590,29430
+Heatherdale,Metro,2024,4,33090,32050
+Heatherdale,Metro,2024,5,38910,37180
+Heatherdale,Metro,2024,6,29010,28640
+Heathmont,Metro,2023,7,12500,13960
+Heathmont,Metro,2023,8,12000,12820
+Heathmont,Metro,2023,9,11520,12190
+Heathmont,Metro,2023,10,13230,14550
+Heathmont,Metro,2023,11,13510,13790
+Heathmont,Metro,2023,12,12060,12690
+Heathmont,Metro,2024,1,10410,11200
+Heathmont,Metro,2024,3,2220,2680
+Heathmont,Metro,2024,4,12670,13350
+Heathmont,Metro,2024,5,15160,15930
+Heathmont,Metro,2024,6,12380,12510
+Heidelberg,Metro,2023,7,56650,66460
+Heidelberg,Metro,2023,8,53700,60650
+Heidelberg,Metro,2023,9,49320,59460
+Heidelberg,Metro,2023,10,68910,78950
+Heidelberg,Metro,2023,11,48790,58380
+Heidelberg,Metro,2023,12,83980,85370
+Heidelberg,Metro,2024,1,39040,46800
+Heidelberg,Metro,2024,2,62470,71270
+Heidelberg,Metro,2024,3,52750,60610
+Heidelberg,Metro,2024,4,52460,62540
+Heidelberg,Metro,2024,5,61320,71770
+Heidelberg,Metro,2024,6,45730,55440
+Heyington,Metro,2023,7,11450,12190
+Heyington,Metro,2023,8,16180,18680
+Heyington,Metro,2023,9,10600,10810
+Heyington,Metro,2023,10,15940,18020
+Heyington,Metro,2023,11,14030,15510
+Heyington,Metro,2023,12,5160,5220
+Heyington,Metro,2024,1,3890,3650
+Heyington,Metro,2024,2,18330,21950
+Heyington,Metro,2024,3,15440,17960
+Heyington,Metro,2024,4,10080,11110
+Heyington,Metro,2024,5,18670,21390
+Heyington,Metro,2024,6,11470,12940
+Highett,Metro,2023,7,3150,3630
+Highett,Metro,2023,8,24470,25380
+Highett,Metro,2023,9,25840,27080
+Highett,Metro,2023,10,22060,23840
+Highett,Metro,2023,11,20580,21820
+Highett,Metro,2023,12,20230,20070
+Highett,Metro,2024,1,21890,23620
+Highett,Metro,2024,2,28550,29180
+Highett,Metro,2024,3,31230,32850
+Highett,Metro,2024,4,27330,29160
+Highett,Metro,2024,5,30320,33270
+Highett,Metro,2024,6,23760,25290
+Holmesglen,Metro,2023,7,35080,42350
+Holmesglen,Metro,2023,8,33390,40280
+Holmesglen,Metro,2023,9,29030,33500
+Holmesglen,Metro,2023,10,27560,31900
+Holmesglen,Metro,2023,11,30950,36700
+Holmesglen,Metro,2023,12,27040,31870
+Holmesglen,Metro,2024,1,22680,26170
+Holmesglen,Metro,2024,2,29480,35880
+Holmesglen,Metro,2024,3,34570,42320
+Holmesglen,Metro,2024,4,25680,30580
+Holmesglen,Metro,2024,5,34950,44050
+Holmesglen,Metro,2024,6,27560,34230
+Hoppers Crossing,Metro,2023,7,58600,60820
+Hoppers Crossing,Metro,2023,8,80290,83380
+Hoppers Crossing,Metro,2023,9,68840,70420
+Hoppers Crossing,Metro,2023,10,76080,79380
+Hoppers Crossing,Metro,2023,11,69480,70590
+Hoppers Crossing,Metro,2023,12,61210,65560
+Hoppers Crossing,Metro,2024,1,58740,63950
+Hoppers Crossing,Metro,2024,2,78190,81150
+Hoppers Crossing,Metro,2024,3,80490,84280
+Hoppers Crossing,Metro,2024,4,72530,76370
+Hoppers Crossing,Metro,2024,5,82430,85740
+Hoppers Crossing,Metro,2024,6,69970,72270
+Hughesdale,Metro,2023,7,37490,42660
+Hughesdale,Metro,2023,8,47510,52420
+Hughesdale,Metro,2023,9,42230,46820
+Hughesdale,Metro,2023,10,41070,43870
+Hughesdale,Metro,2023,11,35670,37650
+Hughesdale,Metro,2023,12,35270,40140
+Hughesdale,Metro,2024,1,34100,38080
+Hughesdale,Metro,2024,2,40050,41430
+Hughesdale,Metro,2024,3,49780,55260
+Hughesdale,Metro,2024,4,45450,49080
+Hughesdale,Metro,2024,5,42690,43510
+Hughesdale,Metro,2024,6,37080,38520
+Huntingdale,Metro,2023,7,91520,109040
+Huntingdale,Metro,2023,8,158240,198840
+Huntingdale,Metro,2023,9,121150,148180
+Huntingdale,Metro,2023,10,121290,148940
+Huntingdale,Metro,2023,11,82550,94880
+Huntingdale,Metro,2023,12,59610,68580
+Huntingdale,Metro,2024,1,64340,74440
+Huntingdale,Metro,2024,2,104330,124160
+Huntingdale,Metro,2024,3,166540,207370
+Huntingdale,Metro,2024,4,135390,170050
+Huntingdale,Metro,2024,5,143490,177980
+Huntingdale,Metro,2024,6,89910,106260
+Huntly,VLine,2023,7,140,40
+Huntly,VLine,2023,8,0,0
+Huntly,VLine,2023,9,10,20
+Huntly,VLine,2023,10,20,30
+Huntly,VLine,2023,11,40,30
+Huntly,VLine,2023,12,50,20
+Huntly,VLine,2024,1,40,40
+Huntly,VLine,2024,2,0,10
+Huntly,VLine,2024,3,10,10
+Huntly,VLine,2024,4,20,60
+Huntly,VLine,2024,5,30,10
+Huntly,VLine,2024,6,40,10
+Hurstbridge,Metro,2023,7,5990,5880
+Hurstbridge,Metro,2023,8,8820,5830
+Hurstbridge,Metro,2023,9,6100,5700
+Hurstbridge,Metro,2023,10,4850,4760
+Hurstbridge,Metro,2023,11,5570,5980
+Hurstbridge,Metro,2023,12,2090,2070
+Hurstbridge,Metro,2024,1,5650,5370
+Hurstbridge,Metro,2024,2,6100,6140
+Hurstbridge,Metro,2024,3,7010,6630
+Hurstbridge,Metro,2024,4,6540,6200
+Hurstbridge,Metro,2024,5,7290,7150
+Hurstbridge,Metro,2024,6,6160,6270
+Ivanhoe,Metro,2023,7,47430,48000
+Ivanhoe,Metro,2023,8,52320,50250
+Ivanhoe,Metro,2023,9,43300,43560
+Ivanhoe,Metro,2023,10,49270,50010
+Ivanhoe,Metro,2023,11,47630,48190
+Ivanhoe,Metro,2023,12,42200,40770
+Ivanhoe,Metro,2024,1,36170,37490
+Ivanhoe,Metro,2024,2,51820,53930
+Ivanhoe,Metro,2024,3,52040,53860
+Ivanhoe,Metro,2024,4,49120,50480
+Ivanhoe,Metro,2024,5,53450,54880
+Ivanhoe,Metro,2024,6,45730,46640
+Jacana,Metro,2023,7,14050,8610
+Jacana,Metro,2023,8,15420,10620
+Jacana,Metro,2023,9,13440,11540
+Jacana,Metro,2023,10,14740,12740
+Jacana,Metro,2023,11,14990,12990
+Jacana,Metro,2023,12,14330,12390
+Jacana,Metro,2024,1,12790,11610
+Jacana,Metro,2024,2,15510,13840
+Jacana,Metro,2024,3,15380,12630
+Jacana,Metro,2024,4,14710,12200
+Jacana,Metro,2024,5,15920,13000
+Jacana,Metro,2024,6,13460,11170
+Jewell,Metro,2023,7,22220,26670
+Jewell,Metro,2023,8,25760,32000
+Jewell,Metro,2023,9,24630,31840
+Jewell,Metro,2023,10,25280,31690
+Jewell,Metro,2023,11,25510,29990
+Jewell,Metro,2023,12,21580,27220
+Jewell,Metro,2024,1,22330,28090
+Jewell,Metro,2024,2,29840,36930
+Jewell,Metro,2024,3,34470,43420
+Jewell,Metro,2024,4,27990,34600
+Jewell,Metro,2024,5,33110,41800
+Jewell,Metro,2024,6,26600,33340
+Jolimont,Metro,2023,7,83370,149340
+Jolimont,Metro,2023,8,75200,151930
+Jolimont,Metro,2023,9,102780,182410
+Jolimont,Metro,2023,10,44520,91240
+Jolimont,Metro,2023,11,45170,91170
+Jolimont,Metro,2023,12,61810,115500
+Jolimont,Metro,2024,1,58670,116720
+Jolimont,Metro,2024,2,90140,165790
+Jolimont,Metro,2024,3,95310,175640
+Jolimont,Metro,2024,4,95340,179020
+Jolimont,Metro,2024,5,86840,168270
+Jolimont,Metro,2024,6,101060,185580
+Jordanville,Metro,2023,7,30830,29480
+Jordanville,Metro,2023,8,33220,30990
+Jordanville,Metro,2023,9,28700,26830
+Jordanville,Metro,2023,10,26900,23880
+Jordanville,Metro,2023,11,27830,26370
+Jordanville,Metro,2023,12,24880,24010
+Jordanville,Metro,2024,1,22680,21390
+Jordanville,Metro,2024,2,28740,26250
+Jordanville,Metro,2024,3,33690,32620
+Jordanville,Metro,2024,4,26900,24660
+Jordanville,Metro,2024,5,33340,32950
+Jordanville,Metro,2024,6,27480,26680
+Kananook,Metro,2023,7,1760,1860
+Kananook,Metro,2023,8,12050,11660
+Kananook,Metro,2023,9,11440,10830
+Kananook,Metro,2023,10,9130,8500
+Kananook,Metro,2023,11,10070,9280
+Kananook,Metro,2023,12,9830,8980
+Kananook,Metro,2024,1,10170,9770
+Kananook,Metro,2024,2,12700,12090
+Kananook,Metro,2024,3,14090,13540
+Kananook,Metro,2024,4,12860,11880
+Kananook,Metro,2024,5,10420,9640
+Kananook,Metro,2024,6,10440,9570
+Kangaroo Flat,VLine,2023,7,5410,5630
+Kangaroo Flat,VLine,2023,8,4330,4720
+Kangaroo Flat,VLine,2023,9,5990,6080
+Kangaroo Flat,VLine,2023,10,5730,5880
+Kangaroo Flat,VLine,2023,11,5860,5790
+Kangaroo Flat,VLine,2023,12,6290,6450
+Kangaroo Flat,VLine,2024,1,6270,6560
+Kangaroo Flat,VLine,2024,2,3650,3720
+Kangaroo Flat,VLine,2024,3,6200,6340
+Kangaroo Flat,VLine,2024,4,6810,6800
+Kangaroo Flat,VLine,2024,5,6940,6910
+Kangaroo Flat,VLine,2024,6,6370,6270
+Keilor Plains,Metro,2023,7,38760,36650
+Keilor Plains,Metro,2023,8,51330,46900
+Keilor Plains,Metro,2023,9,47960,44700
+Keilor Plains,Metro,2023,10,50270,45840
+Keilor Plains,Metro,2023,11,46900,41960
+Keilor Plains,Metro,2023,12,44340,41990
+Keilor Plains,Metro,2024,1,43050,41810
+Keilor Plains,Metro,2024,2,49290,46730
+Keilor Plains,Metro,2024,3,51750,47780
+Keilor Plains,Metro,2024,4,48820,43350
+Keilor Plains,Metro,2024,5,54410,50290
+Keilor Plains,Metro,2024,6,45280,42550
+Kensington,Metro,2023,7,40850,40970
+Kensington,Metro,2023,8,36200,39790
+Kensington,Metro,2023,9,31080,32130
+Kensington,Metro,2023,10,33490,35290
+Kensington,Metro,2023,11,34860,36730
+Kensington,Metro,2023,12,31880,33340
+Kensington,Metro,2024,1,26800,29150
+Kensington,Metro,2024,2,34180,38190
+Kensington,Metro,2024,3,34380,35850
+Kensington,Metro,2024,4,32280,35630
+Kensington,Metro,2024,5,36030,39770
+Kensington,Metro,2024,6,28690,31320
+Keon Park,Metro,2023,7,14780,16680
+Keon Park,Metro,2023,8,17810,18860
+Keon Park,Metro,2023,9,18010,20660
+Keon Park,Metro,2023,10,17980,21330
+Keon Park,Metro,2023,11,18520,22170
+Keon Park,Metro,2023,12,17350,20210
+Keon Park,Metro,2024,1,3750,4530
+Keon Park,Metro,2024,2,0,0
+Keon Park,Metro,2024,4,0,0
+Keon Park,Metro,2024,6,3360,3740
+Kerang,VLine,2023,7,560,610
+Kerang,VLine,2023,8,500,570
+Kerang,VLine,2023,9,700,720
+Kerang,VLine,2023,10,550,560
+Kerang,VLine,2023,11,560,680
+Kerang,VLine,2023,12,620,710
+Kerang,VLine,2024,1,790,800
+Kerang,VLine,2024,2,320,380
+Kerang,VLine,2024,3,520,590
+Kerang,VLine,2024,4,680,730
+Kerang,VLine,2024,5,630,600
+Kerang,VLine,2024,6,530,600
+Kilmore East,VLine,2023,7,4490,4370
+Kilmore East,VLine,2023,8,4280,3950
+Kilmore East,VLine,2023,9,4820,4160
+Kilmore East,VLine,2023,10,3730,3840
+Kilmore East,VLine,2023,11,1030,880
+Kilmore East,VLine,2023,12,3850,3710
+Kilmore East,VLine,2024,1,3540,3240
+Kilmore East,VLine,2024,2,3680,3610
+Kilmore East,VLine,2024,3,2280,2190
+Kilmore East,VLine,2024,4,4560,4430
+Kilmore East,VLine,2024,5,5260,4950
+Kilmore East,VLine,2024,6,4690,4490
+Kooyong,Metro,2023,7,19880,22880
+Kooyong,Metro,2023,8,22030,24170
+Kooyong,Metro,2023,9,18310,19900
+Kooyong,Metro,2023,10,18280,19630
+Kooyong,Metro,2023,11,21870,24670
+Kooyong,Metro,2023,12,16030,18550
+Kooyong,Metro,2024,1,12360,15060
+Kooyong,Metro,2024,2,17660,20590
+Kooyong,Metro,2024,3,19520,22170
+Kooyong,Metro,2024,4,14150,14990
+Kooyong,Metro,2024,5,20630,22760
+Kooyong,Metro,2024,6,14980,17170
+Kyneton,VLine,2023,7,8860,8650
+Kyneton,VLine,2023,8,7680,7680
+Kyneton,VLine,2023,9,9660,9120
+Kyneton,VLine,2023,10,9590,9590
+Kyneton,VLine,2023,11,10010,9690
+Kyneton,VLine,2023,12,8980,8940
+Kyneton,VLine,2024,1,9060,8960
+Kyneton,VLine,2024,2,6430,6450
+Kyneton,VLine,2024,3,9480,9620
+Kyneton,VLine,2024,4,10610,10760
+Kyneton,VLine,2024,5,11590,11620
+Kyneton,VLine,2024,6,10030,9840
+Laburnum,Metro,2023,7,19240,20500
+Laburnum,Metro,2023,8,22740,23380
+Laburnum,Metro,2023,9,17750,19160
+Laburnum,Metro,2023,10,20770,21200
+Laburnum,Metro,2023,11,18910,19990
+Laburnum,Metro,2023,12,15030,15790
+Laburnum,Metro,2024,1,12860,13900
+Laburnum,Metro,2024,2,21460,23990
+Laburnum,Metro,2024,3,24590,26880
+Laburnum,Metro,2024,4,18340,19760
+Laburnum,Metro,2024,5,23230,25290
+Laburnum,Metro,2024,6,19320,21490
+Lalor,Metro,2023,7,29080,26280
+Lalor,Metro,2023,8,37690,31300
+Lalor,Metro,2023,9,36690,33350
+Lalor,Metro,2023,10,37530,34280
+Lalor,Metro,2023,11,35850,33130
+Lalor,Metro,2023,12,33730,30900
+Lalor,Metro,2024,1,19240,18140
+Lalor,Metro,2024,2,36970,33820
+Lalor,Metro,2024,3,40970,38510
+Lalor,Metro,2024,4,38180,35340
+Lalor,Metro,2024,5,32440,30610
+Lalor,Metro,2024,6,36150,33460
+Lara,VLine,2023,7,25590,27480
+Lara,VLine,2023,8,25210,27860
+Lara,VLine,2023,9,25560,26720
+Lara,VLine,2023,10,25210,27620
+Lara,VLine,2023,11,25640,27670
+Lara,VLine,2023,12,26320,29250
+Lara,VLine,2024,1,23890,25740
+Lara,VLine,2024,2,23220,24370
+Lara,VLine,2024,3,27240,29380
+Lara,VLine,2024,4,19180,20820
+Lara,VLine,2024,5,29740,31940
+Lara,VLine,2024,6,25560,28400
+Laverton,Metro,2023,7,63750,61050
+Laverton,Metro,2023,8,85950,87120
+Laverton,Metro,2023,9,78830,78350
+Laverton,Metro,2023,10,85960,85320
+Laverton,Metro,2023,11,78740,77250
+Laverton,Metro,2023,12,72970,73230
+Laverton,Metro,2024,1,71230,73740
+Laverton,Metro,2024,2,88160,87310
+Laverton,Metro,2024,3,89330,90220
+Laverton,Metro,2024,4,88250,85820
+Laverton,Metro,2024,5,90090,89330
+Laverton,Metro,2024,6,77280,77450
+Leawarra,Metro,2023,7,0,0
+Leawarra,Metro,2023,8,30,100
+Leawarra,Metro,2023,9,70,70
+Leawarra,Metro,2023,10,40,60
+Leawarra,Metro,2023,11,90,120
+Leawarra,Metro,2023,12,40,70
+Leawarra,Metro,2024,1,70,130
+Leawarra,Metro,2024,2,120,180
+Leawarra,Metro,2024,3,120,230
+Leawarra,Metro,2024,4,80,230
+Leawarra,Metro,2024,5,40,100
+Leawarra,Metro,2024,6,60,40
+Lilydale,Metro,2023,7,37190,42810
+Lilydale,Metro,2023,8,33420,36880
+Lilydale,Metro,2023,9,38080,40920
+Lilydale,Metro,2023,10,30610,32970
+Lilydale,Metro,2023,11,38810,40660
+Lilydale,Metro,2023,12,38760,42800
+Lilydale,Metro,2024,1,34550,40380
+Lilydale,Metro,2024,2,34940,40390
+Lilydale,Metro,2024,3,35010,40370
+Lilydale,Metro,2024,4,40460,44930
+Lilydale,Metro,2024,5,32990,36290
+Little River,VLine,2023,7,830,830
+Little River,VLine,2023,8,810,820
+Little River,VLine,2023,9,300,270
+Little River,VLine,2023,10,300,340
+Little River,VLine,2023,11,240,240
+Little River,VLine,2023,12,250,350
+Little River,VLine,2024,1,290,230
+Little River,VLine,2024,2,280,360
+Little River,VLine,2024,3,360,510
+Little River,VLine,2024,4,180,230
+Little River,VLine,2024,5,420,590
+Little River,VLine,2024,6,360,310
+Longwarry,VLine,2023,7,670,450
+Longwarry,VLine,2023,8,590,420
+Longwarry,VLine,2023,9,630,460
+Longwarry,VLine,2023,10,750,720
+Longwarry,VLine,2023,11,660,540
+Longwarry,VLine,2023,12,500,390
+Longwarry,VLine,2024,1,650,390
+Longwarry,VLine,2024,2,640,480
+Longwarry,VLine,2024,3,970,860
+Longwarry,VLine,2024,4,990,760
+Longwarry,VLine,2024,5,130,100
+Longwarry,VLine,2024,6,380,360
+Lynbrook,Metro,2023,7,29570,31740
+Lynbrook,Metro,2023,8,35330,37090
+Lynbrook,Metro,2023,9,30770,31850
+Lynbrook,Metro,2023,10,28430,29530
+Lynbrook,Metro,2023,11,23370,24770
+Lynbrook,Metro,2023,12,22790,24920
+Lynbrook,Metro,2024,1,23500,26050
+Lynbrook,Metro,2024,2,33410,35660
+Lynbrook,Metro,2024,3,37540,39390
+Lynbrook,Metro,2024,4,33440,34560
+Lynbrook,Metro,2024,5,38980,41090
+Lynbrook,Metro,2024,6,30340,32200
+Macaulay,Metro,2023,7,18570,22730
+Macaulay,Metro,2023,8,19740,25090
+Macaulay,Metro,2023,9,19120,24210
+Macaulay,Metro,2023,10,21010,26750
+Macaulay,Metro,2023,11,21030,25200
+Macaulay,Metro,2023,12,16890,20670
+Macaulay,Metro,2024,1,18400,22670
+Macaulay,Metro,2024,2,23660,28220
+Macaulay,Metro,2024,3,25470,29920
+Macaulay,Metro,2024,4,20230,24300
+Macaulay,Metro,2024,5,25730,30000
+Macaulay,Metro,2024,6,21990,25780
+Macedon,VLine,2023,7,2290,1910
+Macedon,VLine,2023,8,1950,1470
+Macedon,VLine,2023,9,2570,2180
+Macedon,VLine,2023,10,2500,2450
+Macedon,VLine,2023,11,2500,2150
+Macedon,VLine,2023,12,2440,2400
+Macedon,VLine,2024,1,2590,2340
+Macedon,VLine,2024,2,1930,1760
+Macedon,VLine,2024,3,2780,2360
+Macedon,VLine,2024,4,4950,4930
+Macedon,VLine,2024,5,4220,3940
+Macedon,VLine,2024,6,2620,2390
+Macleod,Metro,2023,7,29620,28080
+Macleod,Metro,2023,8,40390,37310
+Macleod,Metro,2023,9,30540,28190
+Macleod,Metro,2023,10,25260,25100
+Macleod,Metro,2023,11,30760,29960
+Macleod,Metro,2023,12,8280,7690
+Macleod,Metro,2024,1,24010,23050
+Macleod,Metro,2024,2,29090,28480
+Macleod,Metro,2024,3,35200,35050
+Macleod,Metro,2024,4,32410,30890
+Macleod,Metro,2024,5,34740,34420
+Macleod,Metro,2024,6,30070,28410
+Malmsbury,VLine,2023,7,870,640
+Malmsbury,VLine,2023,8,740,560
+Malmsbury,VLine,2023,9,890,590
+Malmsbury,VLine,2023,10,1030,720
+Malmsbury,VLine,2023,11,910,710
+Malmsbury,VLine,2023,12,900,760
+Malmsbury,VLine,2024,1,850,630
+Malmsbury,VLine,2024,2,10,20
+Malmsbury,VLine,2024,3,890,750
+Malmsbury,VLine,2024,4,1110,990
+Malmsbury,VLine,2024,5,1120,950
+Malmsbury,VLine,2024,6,910,710
+Malvern,Metro,2023,7,12900,16730
+Malvern,Metro,2023,8,52140,57920
+Malvern,Metro,2023,9,48960,55670
+Malvern,Metro,2023,10,52260,58530
+Malvern,Metro,2023,11,48040,54800
+Malvern,Metro,2023,12,45410,54720
+Malvern,Metro,2024,1,47530,56560
+Malvern,Metro,2024,2,55710,64280
+Malvern,Metro,2024,3,59520,67290
+Malvern,Metro,2024,4,55860,63880
+Malvern,Metro,2024,5,61420,66040
+Malvern,Metro,2024,6,51960,59440
+Marshall,VLine,2023,7,14420,13570
+Marshall,VLine,2023,8,12810,12290
+Marshall,VLine,2023,9,11000,10610
+Marshall,VLine,2023,10,14500,13770
+Marshall,VLine,2023,11,8270,8130
+Marshall,VLine,2023,12,13460,13320
+Marshall,VLine,2024,1,14840,15530
+Marshall,VLine,2024,2,7940,7160
+Marshall,VLine,2024,3,16620,15990
+Marshall,VLine,2024,4,11310,10930
+Marshall,VLine,2024,5,11970,10890
+Marshall,VLine,2024,6,6660,6330
+Maryborough,VLine,2023,7,810,750
+Maryborough,VLine,2023,8,840,690
+Maryborough,VLine,2023,9,430,400
+Maryborough,VLine,2023,10,890,900
+Maryborough,VLine,2023,11,700,580
+Maryborough,VLine,2023,12,950,840
+Maryborough,VLine,2024,1,840,790
+Maryborough,VLine,2024,2,740,640
+Maryborough,VLine,2024,3,930,850
+Maryborough,VLine,2024,4,950,860
+Maryborough,VLine,2024,5,900,770
+Maryborough,VLine,2024,6,550,520
+Mckinnon,Metro,2023,7,440,490
+Mckinnon,Metro,2023,8,23480,22570
+Mckinnon,Metro,2023,9,21040,20380
+Mckinnon,Metro,2023,10,23070,21850
+Mckinnon,Metro,2023,11,19540,19270
+Mckinnon,Metro,2023,12,18160,16650
+Mckinnon,Metro,2024,1,19440,18600
+Mckinnon,Metro,2024,2,24740,23290
+Mckinnon,Metro,2024,3,27890,26880
+Mckinnon,Metro,2024,4,25100,24270
+Mckinnon,Metro,2024,5,28100,26650
+Mckinnon,Metro,2024,6,21150,20350
+Melbourne Central,Metro,2023,7,874590,767260
+Melbourne Central,Metro,2023,8,986720,880820
+Melbourne Central,Metro,2023,9,934940,846300
+Melbourne Central,Metro,2023,10,898800,813030
+Melbourne Central,Metro,2023,11,839950,746320
+Melbourne Central,Metro,2023,12,812480,724160
+Melbourne Central,Metro,2024,1,788970,680190
+Melbourne Central,Metro,2024,2,938620,811090
+Melbourne Central,Metro,2024,3,1158750,1023670
+Melbourne Central,Metro,2024,4,1061960,950000
+Melbourne Central,Metro,2024,5,1157880,1014250
+Melbourne Central,Metro,2024,6,885610,757100
+Melton,VLine,2023,7,57860,53570
+Melton,VLine,2023,8,46290,42190
+Melton,VLine,2023,9,57840,55650
+Melton,VLine,2023,10,61120,59830
+Melton,VLine,2023,11,58930,57630
+Melton,VLine,2023,12,53360,50770
+Melton,VLine,2024,1,56360,54020
+Melton,VLine,2024,2,61840,62500
+Melton,VLine,2024,3,66900,64160
+Melton,VLine,2024,4,64320,62000
+Melton,VLine,2024,5,75640,70490
+Melton,VLine,2024,6,80830,69880
+Mentone,Metro,2023,7,24490,8560
+Mentone,Metro,2023,8,55780,43320
+Mentone,Metro,2023,9,44650,34670
+Mentone,Metro,2023,10,38480,29550
+Mentone,Metro,2023,11,49160,39680
+Mentone,Metro,2023,12,43310,32370
+Mentone,Metro,2024,1,43150,34780
+Mentone,Metro,2024,2,67830,54760
+Mentone,Metro,2024,3,66380,54270
+Mentone,Metro,2024,4,52570,44290
+Mentone,Metro,2024,5,75320,62080
+Mentone,Metro,2024,6,54370,44460
+Merinda Park,Metro,2023,7,40930,40860
+Merinda Park,Metro,2023,8,46480,46590
+Merinda Park,Metro,2023,9,41970,41380
+Merinda Park,Metro,2023,10,36560,36200
+Merinda Park,Metro,2023,11,29990,29880
+Merinda Park,Metro,2023,12,31040,31870
+Merinda Park,Metro,2024,1,32210,32630
+Merinda Park,Metro,2024,2,40230,39230
+Merinda Park,Metro,2024,3,48120,47150
+Merinda Park,Metro,2024,4,44260,44650
+Merinda Park,Metro,2024,5,50270,50580
+Merinda Park,Metro,2024,6,42250,41140
+Merlynston,Metro,2023,7,17130,15370
+Merlynston,Metro,2023,8,20040,17380
+Merlynston,Metro,2023,9,19710,17230
+Merlynston,Metro,2023,10,19950,18120
+Merlynston,Metro,2023,11,18590,16940
+Merlynston,Metro,2023,12,17810,15800
+Merlynston,Metro,2024,1,18310,16930
+Merlynston,Metro,2024,2,21090,20160
+Merlynston,Metro,2024,3,23040,21370
+Merlynston,Metro,2024,4,20150,17610
+Merlynston,Metro,2024,5,24490,21980
+Merlynston,Metro,2024,6,20410,18790
+Mernda,Metro,2023,7,53190,42870
+Mernda,Metro,2023,8,60840,46360
+Mernda,Metro,2023,9,60010,45330
+Mernda,Metro,2023,10,59850,48770
+Mernda,Metro,2023,11,58940,45680
+Mernda,Metro,2023,12,52990,40420
+Mernda,Metro,2024,1,36850,27450
+Mernda,Metro,2024,2,62190,49340
+Mernda,Metro,2024,3,66760,53630
+Mernda,Metro,2024,4,60530,48460
+Mernda,Metro,2024,5,59620,46560
+Mernda,Metro,2024,6,58770,46850
+Merri,Metro,2023,7,7630,8150
+Merri,Metro,2023,8,9040,9070
+Merri,Metro,2023,9,7290,8090
+Merri,Metro,2023,10,8100,8940
+Merri,Metro,2023,11,7450,8740
+Merri,Metro,2023,12,6640,8260
+Merri,Metro,2024,1,5110,5690
+Merri,Metro,2024,2,9060,9950
+Merri,Metro,2024,3,9440,10250
+Merri,Metro,2024,4,8430,8830
+Merri,Metro,2024,5,9080,9390
+Merri,Metro,2024,6,7950,7760
+Middle Brighton,Metro,2023,7,44220,54470
+Middle Brighton,Metro,2023,8,40410,45130
+Middle Brighton,Metro,2023,9,31670,35080
+Middle Brighton,Metro,2023,10,38050,42650
+Middle Brighton,Metro,2023,11,39600,43180
+Middle Brighton,Metro,2023,12,41810,48900
+Middle Brighton,Metro,2024,1,40780,47820
+Middle Brighton,Metro,2024,2,45750,50610
+Middle Brighton,Metro,2024,3,43630,48880
+Middle Brighton,Metro,2024,4,40490,45380
+Middle Brighton,Metro,2024,5,42900,48200
+Middle Brighton,Metro,2024,6,35530,41880
+Middle Footscray,Metro,2023,7,11500,11700
+Middle Footscray,Metro,2023,8,14850,14170
+Middle Footscray,Metro,2023,9,13660,14340
+Middle Footscray,Metro,2023,10,14920,14730
+Middle Footscray,Metro,2023,11,13330,13530
+Middle Footscray,Metro,2023,12,13400,13570
+Middle Footscray,Metro,2024,1,13340,14240
+Middle Footscray,Metro,2024,2,15410,15500
+Middle Footscray,Metro,2024,3,14570,14420
+Middle Footscray,Metro,2024,4,13640,13860
+Middle Footscray,Metro,2024,5,16300,16960
+Middle Footscray,Metro,2024,6,13680,13680
+Middle Gorge,Metro,2023,7,13390,12690
+Middle Gorge,Metro,2023,8,17690,15130
+Middle Gorge,Metro,2023,9,14440,13530
+Middle Gorge,Metro,2023,10,16720,15290
+Middle Gorge,Metro,2023,11,15060,14310
+Middle Gorge,Metro,2023,12,11460,10390
+Middle Gorge,Metro,2024,1,6490,6390
+Middle Gorge,Metro,2024,2,17330,15810
+Middle Gorge,Metro,2024,3,18190,17130
+Middle Gorge,Metro,2024,4,15030,14250
+Middle Gorge,Metro,2024,5,18490,17260
+Middle Gorge,Metro,2024,6,16820,14970
+Mitcham,Metro,2023,7,67640,61110
+Mitcham,Metro,2023,8,61820,55950
+Mitcham,Metro,2023,9,59360,52380
+Mitcham,Metro,2023,10,70020,59910
+Mitcham,Metro,2023,11,67640,57370
+Mitcham,Metro,2023,12,63890,52900
+Mitcham,Metro,2024,1,58250,50140
+Mitcham,Metro,2024,2,68340,60810
+Mitcham,Metro,2024,3,65170,57620
+Mitcham,Metro,2024,4,72860,63130
+Mitcham,Metro,2024,5,78470,73200
+Mitcham,Metro,2024,6,58480,53230
+Moe,VLine,2023,7,7820,6190
+Moe,VLine,2023,8,5880,4220
+Moe,VLine,2023,9,6040,4660
+Moe,VLine,2023,10,9170,6950
+Moe,VLine,2023,11,7280,5250
+Moe,VLine,2023,12,5530,4230
+Moe,VLine,2024,1,8120,6520
+Moe,VLine,2024,2,9260,6660
+Moe,VLine,2024,3,9910,7420
+Moe,VLine,2024,4,9760,6910
+Moe,VLine,2024,5,1100,840
+Moe,VLine,2024,6,5030,3910
+Montmorency,Metro,2023,7,12450,11710
+Montmorency,Metro,2023,8,13970,12880
+Montmorency,Metro,2023,9,14280,13010
+Montmorency,Metro,2023,10,11550,10690
+Montmorency,Metro,2023,11,14780,13950
+Montmorency,Metro,2023,12,5150,4710
+Montmorency,Metro,2024,1,12290,11360
+Montmorency,Metro,2024,2,14980,14320
+Montmorency,Metro,2024,3,18120,17080
+Montmorency,Metro,2024,4,16940,15860
+Montmorency,Metro,2024,5,17850,16790
+Montmorency,Metro,2024,6,15960,14780
+Moonee Ponds,Metro,2023,7,59190,68030
+Moonee Ponds,Metro,2023,8,63970,73700
+Moonee Ponds,Metro,2023,9,58130,63730
+Moonee Ponds,Metro,2023,10,62010,71400
+Moonee Ponds,Metro,2023,11,61290,69920
+Moonee Ponds,Metro,2023,12,60060,70130
+Moonee Ponds,Metro,2024,1,51970,62310
+Moonee Ponds,Metro,2024,2,64520,73070
+Moonee Ponds,Metro,2024,3,63320,71050
+Moonee Ponds,Metro,2024,4,61820,70400
+Moonee Ponds,Metro,2024,5,68530,77510
+Moonee Ponds,Metro,2024,6,57790,65560
+Moorabbin,Metro,2023,7,44560,51370
+Moorabbin,Metro,2023,8,33430,39470
+Moorabbin,Metro,2023,9,33840,38160
+Moorabbin,Metro,2023,10,40170,49790
+Moorabbin,Metro,2023,11,43440,49240
+Moorabbin,Metro,2023,12,41130,51250
+Moorabbin,Metro,2024,1,30920,36390
+Moorabbin,Metro,2024,2,40160,47100
+Moorabbin,Metro,2024,3,42610,48260
+Moorabbin,Metro,2024,4,37180,44290
+Moorabbin,Metro,2024,5,42590,48190
+Moorabbin,Metro,2024,6,33020,39450
+Mooroolbark,Metro,2023,7,38700,34110
+Mooroolbark,Metro,2023,8,36440,31660
+Mooroolbark,Metro,2023,9,36830,31290
+Mooroolbark,Metro,2023,10,32250,27090
+Mooroolbark,Metro,2023,11,39540,33060
+Mooroolbark,Metro,2023,12,37590,31590
+Mooroolbark,Metro,2024,1,33410,28970
+Mooroolbark,Metro,2024,2,43000,38100
+Mooroolbark,Metro,2024,3,42320,37170
+Mooroolbark,Metro,2024,4,48760,42890
+Mooroolbark,Metro,2024,5,43010,37970
+Mooroopna,VLine,2023,7,280,550
+Mooroopna,VLine,2023,8,280,410
+Mooroopna,VLine,2023,9,380,500
+Mooroopna,VLine,2023,11,40,40
+Mooroopna,VLine,2023,12,380,530
+Mooroopna,VLine,2024,1,390,680
+Mooroopna,VLine,2024,2,470,810
+Mooroopna,VLine,2024,3,80,150
+Mooroopna,VLine,2024,4,190,270
+Mooroopna,VLine,2024,5,460,620
+Mooroopna,VLine,2024,6,300,580
+Mordialloc,Metro,2023,7,13630,15570
+Mordialloc,Metro,2023,8,41850,47540
+Mordialloc,Metro,2023,9,43210,50180
+Mordialloc,Metro,2023,10,29290,34260
+Mordialloc,Metro,2023,11,37100,44680
+Mordialloc,Metro,2023,12,37890,44800
+Mordialloc,Metro,2024,1,42840,51050
+Mordialloc,Metro,2024,2,48180,56670
+Mordialloc,Metro,2024,3,51520,60720
+Mordialloc,Metro,2024,4,44370,50770
+Mordialloc,Metro,2024,5,53040,60990
+Mordialloc,Metro,2024,6,40740,47190
+Moreland,Metro,2023,7,17270,17030
+Moreland,Metro,2023,8,18930,18730
+Moreland,Metro,2023,9,18350,18330
+Moreland,Metro,2023,10,18130,19710
+Moreland,Metro,2023,11,18550,19380
+Moreland,Metro,2023,12,17940,18250
+Moreland,Metro,2024,1,18700,19380
+Moreland,Metro,2024,2,23460,24800
+Moreland,Metro,2024,3,22500,23810
+Moreland,Metro,2024,4,19670,21000
+Moreland,Metro,2024,5,22180,24160
+Moreland,Metro,2024,6,19060,19780
+Morradoo,Metro,2023,7,0,0
+Morradoo,Metro,2023,8,20,0
+Morradoo,Metro,2023,9,90,30
+Morradoo,Metro,2023,10,40,10
+Morradoo,Metro,2023,11,90,10
+Morradoo,Metro,2023,12,140,30
+Morradoo,Metro,2024,1,30,10
+Morradoo,Metro,2024,2,90,10
+Morradoo,Metro,2024,3,140,0
+Morradoo,Metro,2024,4,70,30
+Morradoo,Metro,2024,5,120,0
+Morradoo,Metro,2024,6,130,10
+Morwell,VLine,2023,7,7420,6200
+Morwell,VLine,2023,8,5050,4460
+Morwell,VLine,2023,9,5630,4610
+Morwell,VLine,2023,10,8580,7110
+Morwell,VLine,2023,11,6960,5570
+Morwell,VLine,2023,12,5160,4010
+Morwell,VLine,2024,1,7710,6970
+Morwell,VLine,2024,2,8010,6880
+Morwell,VLine,2024,3,9190,7550
+Morwell,VLine,2024,4,8990,7260
+Morwell,VLine,2024,5,1140,860
+Morwell,VLine,2024,6,4310,3850
+Mount Waverley,Metro,2023,7,55030,56190
+Mount Waverley,Metro,2023,8,58820,58130
+Mount Waverley,Metro,2023,9,49760,50610
+Mount Waverley,Metro,2023,10,48830,45530
+Mount Waverley,Metro,2023,11,51830,49810
+Mount Waverley,Metro,2023,12,43430,44750
+Mount Waverley,Metro,2024,1,37330,38740
+Mount Waverley,Metro,2024,2,53390,51270
+Mount Waverley,Metro,2024,3,59950,59870
+Mount Waverley,Metro,2024,4,44310,44420
+Mount Waverley,Metro,2024,5,62050,62200
+Mount Waverley,Metro,2024,6,50440,50500
+Murchison East,VLine,2023,7,700,700
+Murchison East,VLine,2023,8,500,500
+Murchison East,VLine,2023,9,600,740
+Murchison East,VLine,2023,11,90,100
+Murchison East,VLine,2023,12,900,910
+Murchison East,VLine,2024,1,740,720
+Murchison East,VLine,2024,2,690,740
+Murchison East,VLine,2024,3,200,190
+Murchison East,VLine,2024,4,360,410
+Murchison East,VLine,2024,5,780,800
+Murchison East,VLine,2024,6,630,610
+Murrumbeena,Metro,2023,7,48850,44580
+Murrumbeena,Metro,2023,8,64270,55940
+Murrumbeena,Metro,2023,9,55800,49800
+Murrumbeena,Metro,2023,10,57960,51190
+Murrumbeena,Metro,2023,11,49230,42780
+Murrumbeena,Metro,2023,12,47030,42140
+Murrumbeena,Metro,2024,1,47780,44240
+Murrumbeena,Metro,2024,2,54550,47300
+Murrumbeena,Metro,2024,3,61880,54100
+Murrumbeena,Metro,2024,4,56010,49130
+Murrumbeena,Metro,2024,5,55610,47990
+Murrumbeena,Metro,2024,6,49910,43440
+Nagambie,VLine,2023,7,190,200
+Nagambie,VLine,2023,8,110,200
+Nagambie,VLine,2023,9,220,260
+Nagambie,VLine,2023,11,30,40
+Nagambie,VLine,2023,12,300,410
+Nagambie,VLine,2024,1,300,380
+Nagambie,VLine,2024,2,160,300
+Nagambie,VLine,2024,3,90,80
+Nagambie,VLine,2024,4,80,110
+Nagambie,VLine,2024,5,170,250
+Nagambie,VLine,2024,6,260,220
+Nar Nar Goon,VLine,2023,7,160,60
+Nar Nar Goon,VLine,2023,8,220,110
+Nar Nar Goon,VLine,2023,9,240,130
+Nar Nar Goon,VLine,2023,10,230,90
+Nar Nar Goon,VLine,2023,11,200,30
+Nar Nar Goon,VLine,2023,12,110,50
+Nar Nar Goon,VLine,2024,1,290,110
+Nar Nar Goon,VLine,2024,2,370,200
+Nar Nar Goon,VLine,2024,3,390,230
+Nar Nar Goon,VLine,2024,4,480,260
+Nar Nar Goon,VLine,2024,5,60,40
+Nar Nar Goon,VLine,2024,6,570,430
+Narre Warren,Metro,2023,7,31570,39670
+Narre Warren,Metro,2023,8,35030,43280
+Narre Warren,Metro,2023,9,35000,43860
+Narre Warren,Metro,2023,10,33590,42260
+Narre Warren,Metro,2023,11,25000,32240
+Narre Warren,Metro,2024,3,2040,3300
+Narre Warren,Metro,2024,4,29660,38330
+Narre Warren,Metro,2024,5,27550,34740
+Narre Warren,Metro,2024,6,26030,33300
+Newmarket,Metro,2023,7,46870,47460
+Newmarket,Metro,2023,8,49400,51750
+Newmarket,Metro,2023,9,42620,44360
+Newmarket,Metro,2023,10,46730,47920
+Newmarket,Metro,2023,11,48140,49710
+Newmarket,Metro,2023,12,45230,47100
+Newmarket,Metro,2024,1,39740,41230
+Newmarket,Metro,2024,2,51770,53390
+Newmarket,Metro,2024,3,49720,51910
+Newmarket,Metro,2024,4,48490,49930
+Newmarket,Metro,2024,5,54170,57180
+Newmarket,Metro,2024,6,44550,46430
+Newport,Metro,2023,7,98030,100570
+Newport,Metro,2023,8,126220,115660
+Newport,Metro,2023,9,108370,101540
+Newport,Metro,2023,10,115750,107810
+Newport,Metro,2023,11,115310,107390
+Newport,Metro,2023,12,109410,99650
+Newport,Metro,2024,1,102340,97880
+Newport,Metro,2024,2,119180,112360
+Newport,Metro,2024,3,124900,120550
+Newport,Metro,2024,4,112760,102780
+Newport,Metro,2024,5,117220,108610
+Newport,Metro,2024,6,103690,95090
+Noble Park,Metro,2023,7,74080,59090
+Noble Park,Metro,2023,8,84530,69330
+Noble Park,Metro,2023,9,79180,62320
+Noble Park,Metro,2023,10,83630,65260
+Noble Park,Metro,2023,11,72310,53740
+Noble Park,Metro,2023,12,71830,50920
+Noble Park,Metro,2024,1,67770,50980
+Noble Park,Metro,2024,2,83990,62920
+Noble Park,Metro,2024,3,91840,71660
+Noble Park,Metro,2024,4,82490,63540
+Noble Park,Metro,2024,5,84320,65600
+Noble Park,Metro,2024,6,74780,55640
+North Brighton,Metro,2023,7,50320,45870
+North Brighton,Metro,2023,8,41350,40010
+North Brighton,Metro,2023,9,30790,29200
+North Brighton,Metro,2023,10,39050,37930
+North Brighton,Metro,2023,11,37960,36830
+North Brighton,Metro,2023,12,37000,36130
+North Brighton,Metro,2024,1,34760,34680
+North Brighton,Metro,2024,2,42500,41980
+North Brighton,Metro,2024,3,42460,41240
+North Brighton,Metro,2024,4,40780,39660
+North Brighton,Metro,2024,5,45600,44290
+North Brighton,Metro,2024,6,37300,37270
+North Geelong,VLine,2023,7,24070,23910
+North Geelong,VLine,2023,8,25440,27060
+North Geelong,VLine,2023,9,25020,25480
+North Geelong,VLine,2023,10,25500,27890
+North Geelong,VLine,2023,11,26410,28820
+North Geelong,VLine,2023,12,21500,22290
+North Geelong,VLine,2024,1,23460,24760
+North Geelong,VLine,2024,2,23910,25880
+North Geelong,VLine,2024,3,28170,30500
+North Geelong,VLine,2024,4,19760,21580
+North Geelong,VLine,2024,5,31500,33370
+North Geelong,VLine,2024,6,28040,30130
+North Melbourne,Metro,2023,7,257260,271860
+North Melbourne,Metro,2023,8,332920,359900
+North Melbourne,Metro,2023,9,337100,351690
+North Melbourne,Metro,2023,10,320260,333830
+North Melbourne,Metro,2023,11,326880,329200
+North Melbourne,Metro,2023,12,280900,282460
+North Melbourne,Metro,2024,1,275830,278680
+North Melbourne,Metro,2024,2,347310,360850
+North Melbourne,Metro,2024,3,365220,382260
+North Melbourne,Metro,2024,4,330890,338160
+North Melbourne,Metro,2024,5,373550,388520
+North Melbourne,Metro,2024,6,309970,316480
+North Melbourne,VLine,2023,7,1680,2870
+North Melbourne,VLine,2023,8,1850,2980
+North Melbourne,VLine,2023,9,1810,3310
+North Melbourne,VLine,2023,10,1760,3690
+North Melbourne,VLine,2023,11,380,830
+North Melbourne,VLine,2023,12,1330,2360
+North Melbourne,VLine,2024,1,1300,2540
+North Melbourne,VLine,2024,2,1360,2710
+North Melbourne,VLine,2024,3,740,1250
+North Melbourne,VLine,2024,4,1730,3300
+North Melbourne,VLine,2024,5,2440,4220
+North Melbourne,VLine,2024,6,1790,3040
+North Richmond,Metro,2023,7,42010,61540
+North Richmond,Metro,2023,8,45680,67310
+North Richmond,Metro,2023,9,41360,61110
+North Richmond,Metro,2023,10,44950,67340
+North Richmond,Metro,2023,11,46420,71380
+North Richmond,Metro,2023,12,39340,62110
+North Richmond,Metro,2024,1,39590,59430
+North Richmond,Metro,2024,2,50220,73700
+North Richmond,Metro,2024,3,51420,75080
+North Richmond,Metro,2024,4,48280,71730
+North Richmond,Metro,2024,5,47790,73260
+North Richmond,Metro,2024,6,43560,67620
+North Shore,VLine,2023,7,4510,3860
+North Shore,VLine,2023,8,5050,4210
+North Shore,VLine,2023,9,5530,4960
+North Shore,VLine,2023,10,5430,4980
+North Shore,VLine,2023,11,5950,5300
+North Shore,VLine,2023,12,5480,4900
+North Shore,VLine,2024,1,6020,5690
+North Shore,VLine,2024,2,5300,4690
+North Shore,VLine,2024,3,6720,6330
+North Shore,VLine,2024,4,4440,3980
+North Shore,VLine,2024,5,6830,6000
+North Shore,VLine,2024,6,6060,6090
+North Williamstown,Metro,2023,7,13930,13060
+North Williamstown,Metro,2023,8,21990,20210
+North Williamstown,Metro,2023,9,19760,18810
+North Williamstown,Metro,2023,10,21670,20680
+North Williamstown,Metro,2023,11,19960,18810
+North Williamstown,Metro,2023,12,19680,19340
+North Williamstown,Metro,2024,1,18970,19050
+North Williamstown,Metro,2024,2,21970,21310
+North Williamstown,Metro,2024,3,23370,22220
+North Williamstown,Metro,2024,4,21440,20260
+North Williamstown,Metro,2024,5,21560,20830
+North Williamstown,Metro,2024,6,19080,18700
+Northcote,Metro,2023,7,17880,22310
+Northcote,Metro,2023,8,19560,22510
+Northcote,Metro,2023,9,17910,22460
+Northcote,Metro,2023,10,20160,26280
+Northcote,Metro,2023,11,20110,26270
+Northcote,Metro,2023,12,17210,23090
+Northcote,Metro,2024,1,14380,18830
+Northcote,Metro,2024,2,22640,28650
+Northcote,Metro,2024,3,22460,29160
+Northcote,Metro,2024,4,20050,26070
+Northcote,Metro,2024,5,21890,26980
+Northcote,Metro,2024,6,20200,26060
+Nunawading,Metro,2023,7,55600,59900
+Nunawading,Metro,2023,8,51970,53800
+Nunawading,Metro,2023,9,49360,50880
+Nunawading,Metro,2023,10,57940,59350
+Nunawading,Metro,2023,11,56480,58380
+Nunawading,Metro,2023,12,50940,54020
+Nunawading,Metro,2024,1,46250,49590
+Nunawading,Metro,2024,2,52890,56740
+Nunawading,Metro,2024,3,50320,54170
+Nunawading,Metro,2024,4,56250,57810
+Nunawading,Metro,2024,5,63130,63450
+Nunawading,Metro,2024,6,45160,47370
+Oak Park,Metro,2023,7,32630,28980
+Oak Park,Metro,2023,8,36060,31900
+Oak Park,Metro,2023,9,31650,26920
+Oak Park,Metro,2023,10,33190,29670
+Oak Park,Metro,2023,11,32760,29510
+Oak Park,Metro,2023,12,31470,27910
+Oak Park,Metro,2024,1,27320,25170
+Oak Park,Metro,2024,2,34770,32180
+Oak Park,Metro,2024,3,34460,30100
+Oak Park,Metro,2024,4,32920,29170
+Oak Park,Metro,2024,5,36280,32030
+Oak Park,Metro,2024,6,29590,26090
+Oakleigh,Metro,2023,7,141910,175880
+Oakleigh,Metro,2023,8,137260,163560
+Oakleigh,Metro,2023,9,131500,160960
+Oakleigh,Metro,2023,10,132850,162500
+Oakleigh,Metro,2023,11,113690,138700
+Oakleigh,Metro,2023,12,113300,144360
+Oakleigh,Metro,2024,1,112770,142200
+Oakleigh,Metro,2024,2,125710,154200
+Oakleigh,Metro,2024,3,140430,170730
+Oakleigh,Metro,2024,4,128430,157220
+Oakleigh,Metro,2024,5,124870,152150
+Oakleigh,Metro,2024,6,115780,142380
+Officer,Metro,2023,7,10840,10850
+Officer,Metro,2023,8,13360,13300
+Officer,Metro,2023,9,11640,12120
+Officer,Metro,2023,10,12050,13090
+Officer,Metro,2023,11,9030,9610
+Officer,Metro,2023,12,6330,6150
+Officer,Metro,2024,1,10260,10350
+Officer,Metro,2024,2,14310,13940
+Officer,Metro,2024,3,15170,15050
+Officer,Metro,2024,4,15000,14950
+Officer,Metro,2024,5,9510,9460
+Officer,Metro,2024,6,10900,11120
+Ormond,Metro,2023,7,780,890
+Ormond,Metro,2023,8,36920,38300
+Ormond,Metro,2023,9,34650,35580
+Ormond,Metro,2023,10,36590,38290
+Ormond,Metro,2023,11,34810,35910
+Ormond,Metro,2023,12,30670,30300
+Ormond,Metro,2024,1,31580,32810
+Ormond,Metro,2024,2,39320,41230
+Ormond,Metro,2024,3,42300,44690
+Ormond,Metro,2024,4,38940,40290
+Ormond,Metro,2024,5,43560,45600
+Ormond,Metro,2024,6,34000,35220
+Pakenham,Metro,2023,7,30800,35410
+Pakenham,Metro,2023,8,33920,39570
+Pakenham,Metro,2023,9,34320,40920
+Pakenham,Metro,2023,10,32320,38540
+Pakenham,Metro,2023,11,25260,30020
+Pakenham,Metro,2023,12,17680,22370
+Pakenham,Metro,2024,1,26560,33120
+Pakenham,Metro,2024,2,34300,38730
+Pakenham,Metro,2024,3,33830,39700
+Pakenham,Metro,2024,4,32790,38630
+Pakenham,Metro,2024,5,23030,27260
+Pakenham,Metro,2024,6,27620,31830
+Pakenham,VLine,2023,7,12230,19870
+Pakenham,VLine,2023,8,7330,10440
+Pakenham,VLine,2023,9,7990,10800
+Pakenham,VLine,2023,10,14000,19190
+Pakenham,VLine,2023,11,9210,13700
+Pakenham,VLine,2023,12,6730,9710
+Pakenham,VLine,2024,1,10230,14660
+Pakenham,VLine,2024,2,12340,19230
+Pakenham,VLine,2024,3,13570,19740
+Pakenham,VLine,2024,4,13040,18540
+Pakenham,VLine,2024,5,1470,2080
+Pakenham,VLine,2024,6,5170,7790
+Parkdale,Metro,2023,7,3600,3350
+Parkdale,Metro,2023,8,17970,19570
+Parkdale,Metro,2023,9,16010,17290
+Parkdale,Metro,2023,10,12000,13400
+Parliament,Metro,2023,7,527320,560460
+Parliament,Metro,2023,8,609820,655340
+Parliament,Metro,2023,9,531010,575710
+Parliament,Metro,2023,10,601060,647680
+Parliament,Metro,2023,11,572330,609250
+Parliament,Metro,2023,12,467640,523460
+Parliament,Metro,2024,1,493000,534520
+Parliament,Metro,2024,2,628280,667180
+Parliament,Metro,2024,3,655400,696450
+Parliament,Metro,2024,4,621730,678780
+Parliament,Metro,2024,5,698760,739620
+Parliament,Metro,2024,6,580680,617620
+Pascoe Vale,Metro,2023,7,40230,35690
+Pascoe Vale,Metro,2023,8,44570,41480
+Pascoe Vale,Metro,2023,9,39380,33780
+Pascoe Vale,Metro,2023,10,40610,35750
+Pascoe Vale,Metro,2023,11,40190,36190
+Pascoe Vale,Metro,2023,12,38100,33670
+Pascoe Vale,Metro,2024,1,32870,29180
+Pascoe Vale,Metro,2024,2,42370,37930
+Pascoe Vale,Metro,2024,3,43730,39690
+Pascoe Vale,Metro,2024,4,41610,37080
+Pascoe Vale,Metro,2024,5,46400,42170
+Pascoe Vale,Metro,2024,6,37110,32390
+Patterson,Metro,2023,7,380,460
+Patterson,Metro,2023,8,18880,18510
+Patterson,Metro,2023,9,16360,15730
+Patterson,Metro,2023,10,18190,18020
+Patterson,Metro,2023,11,16460,16190
+Patterson,Metro,2023,12,13130,12210
+Patterson,Metro,2024,1,12810,12610
+Patterson,Metro,2024,2,19860,19790
+Patterson,Metro,2024,3,21310,20290
+Patterson,Metro,2024,4,18790,18230
+Patterson,Metro,2024,5,22770,22600
+Patterson,Metro,2024,6,16760,16010
+Prahran,Metro,2023,7,77490,107710
+Prahran,Metro,2023,8,73320,97680
+Prahran,Metro,2023,9,52610,70300
+Prahran,Metro,2023,10,72940,95870
+Prahran,Metro,2023,11,70050,91410
+Prahran,Metro,2023,12,68100,90130
+Prahran,Metro,2024,1,66550,87200
+Prahran,Metro,2024,2,78750,104440
+Prahran,Metro,2024,3,79300,101570
+Prahran,Metro,2024,4,74470,97540
+Prahran,Metro,2024,5,83930,110060
+Prahran,Metro,2024,6,70940,94270
+Preston,Metro,2023,7,42490,41480
+Preston,Metro,2023,8,45500,43790
+Preston,Metro,2023,9,43380,41410
+Preston,Metro,2023,10,44950,45170
+Preston,Metro,2023,11,43530,44090
+Preston,Metro,2023,12,41040,37640
+Preston,Metro,2024,1,35170,32540
+Preston,Metro,2024,2,47600,47010
+Preston,Metro,2024,3,52800,51600
+Preston,Metro,2024,4,47760,47120
+Preston,Metro,2024,5,52060,52580
+Preston,Metro,2024,6,44230,44870
+Pyramid,VLine,2023,7,100,70
+Pyramid,VLine,2023,8,120,30
+Pyramid,VLine,2023,9,120,60
+Pyramid,VLine,2023,10,90,170
+Pyramid,VLine,2023,11,150,60
+Pyramid,VLine,2023,12,160,100
+Pyramid,VLine,2024,1,130,70
+Pyramid,VLine,2024,2,60,80
+Pyramid,VLine,2024,3,140,100
+Pyramid,VLine,2024,4,180,200
+Pyramid,VLine,2024,5,170,60
+Pyramid,VLine,2024,6,140,30
+Raywood,VLine,2023,7,20,10
+Raywood,VLine,2023,8,10,10
+Raywood,VLine,2023,9,20,20
+Raywood,VLine,2023,10,40,0
+Raywood,VLine,2023,11,10,0
+Raywood,VLine,2023,12,30,10
+Raywood,VLine,2024,1,40,10
+Raywood,VLine,2024,2,0,0
+Raywood,VLine,2024,3,40,10
+Raywood,VLine,2024,4,40,30
+Raywood,VLine,2024,5,30,0
+Raywood,VLine,2024,6,40,0
+Regent,Metro,2023,7,26670,22640
+Regent,Metro,2023,8,29010,23050
+Regent,Metro,2023,9,25530,21380
+Regent,Metro,2023,10,26550,23140
+Regent,Metro,2023,11,27170,23410
+Regent,Metro,2023,12,24850,21040
+Regent,Metro,2024,1,24410,19970
+Regent,Metro,2024,2,29160,25420
+Regent,Metro,2024,3,30290,26040
+Regent,Metro,2024,4,28560,24350
+Regent,Metro,2024,5,31720,27610
+Regent,Metro,2024,6,26410,22430
+Reservoir,Metro,2023,7,77220,65430
+Reservoir,Metro,2023,8,71220,60980
+Reservoir,Metro,2023,9,58740,50630
+Reservoir,Metro,2023,10,61600,55960
+Reservoir,Metro,2023,11,56850,50400
+Reservoir,Metro,2023,12,52920,42230
+Reservoir,Metro,2024,1,79950,61870
+Reservoir,Metro,2024,2,60920,56080
+Reservoir,Metro,2024,3,71160,63170
+Reservoir,Metro,2024,4,65300,56420
+Reservoir,Metro,2024,5,102080,89860
+Reservoir,Metro,2024,6,54880,48450
+Richmond,Metro,2023,7,877540,874410
+Richmond,Metro,2023,8,1084000,1083690
+Richmond,Metro,2023,9,921780,931020
+Richmond,Metro,2023,10,885190,883020
+Richmond,Metro,2023,11,840180,843470
+Richmond,Metro,2023,12,765810,770070
+Richmond,Metro,2024,1,874900,875980
+Richmond,Metro,2024,2,994980,991080
+Richmond,Metro,2024,3,1129490,1133630
+Richmond,Metro,2024,4,1053310,1055810
+Richmond,Metro,2024,5,1193800,1198630
+Richmond,Metro,2024,6,951670,960590
+Richmond,VLine,2023,7,2130,4740
+Richmond,VLine,2023,8,2290,4290
+Richmond,VLine,2023,9,2000,4440
+Richmond,VLine,2023,10,2310,5120
+Richmond,VLine,2023,11,1610,3810
+Richmond,VLine,2023,12,1760,3760
+Richmond,VLine,2024,1,2890,5780
+Richmond,VLine,2024,2,2480,5080
+Richmond,VLine,2024,3,3400,6640
+Richmond,VLine,2024,4,4170,7620
+Richmond,VLine,2024,5,310,890
+Richmond,VLine,2024,6,2030,3790
+Riddells Creek,VLine,2023,7,4210,4200
+Riddells Creek,VLine,2023,8,3010,2930
+Riddells Creek,VLine,2023,9,4230,4180
+Riddells Creek,VLine,2023,10,4390,4410
+Riddells Creek,VLine,2023,11,4270,4090
+Riddells Creek,VLine,2023,12,4130,4050
+Riddells Creek,VLine,2024,1,3770,3810
+Riddells Creek,VLine,2024,2,2720,2690
+Riddells Creek,VLine,2024,3,4050,4050
+Riddells Creek,VLine,2024,4,4530,4450
+Riddells Creek,VLine,2024,5,5240,5150
+Riddells Creek,VLine,2024,6,4340,4450
+Ringwood East,Metro,2023,7,15170,18110
+Ringwood East,Metro,2023,8,14900,16530
+Ringwood East,Metro,2023,9,13790,16270
+Ringwood East,Metro,2023,10,12650,13830
+Ringwood East,Metro,2023,11,15510,16790
+Ringwood East,Metro,2023,12,13500,15100
+Ringwood East,Metro,2024,1,11120,12920
+Ringwood East,Metro,2024,2,26340,30340
+Ringwood East,Metro,2024,3,24480,27950
+Ringwood East,Metro,2024,4,24260,27820
+Ringwood East,Metro,2024,5,20850,23500
+Ringwood,Metro,2023,7,148570,133550
+Ringwood,Metro,2023,8,118750,110720
+Ringwood,Metro,2023,9,135830,121850
+Ringwood,Metro,2023,10,147410,135200
+Ringwood,Metro,2023,11,142480,127150
+Ringwood,Metro,2023,12,151630,135920
+Ringwood,Metro,2024,1,133090,116500
+Ringwood,Metro,2024,2,160380,144190
+Ringwood,Metro,2024,3,151230,133390
+Ringwood,Metro,2024,4,151070,134190
+Ringwood,Metro,2024,5,165730,149820
+Ringwood,Metro,2024,6,146140,131890
+Ripponlea,Metro,2023,7,39640,37260
+Ripponlea,Metro,2023,8,38000,35300
+Ripponlea,Metro,2023,9,27550,24900
+Ripponlea,Metro,2023,10,36330,32890
+Ripponlea,Metro,2023,11,34140,31040
+Ripponlea,Metro,2023,12,32680,29650
+Ripponlea,Metro,2024,1,32740,30020
+Ripponlea,Metro,2024,2,40710,37980
+Ripponlea,Metro,2024,3,38960,35550
+Ripponlea,Metro,2024,4,40150,36420
+Ripponlea,Metro,2024,5,46350,41110
+Ripponlea,Metro,2024,6,35480,31230
+Riversdale,Metro,2023,7,9160,8480
+Riversdale,Metro,2023,8,12460,10700
+Riversdale,Metro,2023,9,8070,6820
+Riversdale,Metro,2023,10,11350,10020
+Riversdale,Metro,2023,11,9730,8810
+Riversdale,Metro,2023,12,5320,4790
+Riversdale,Metro,2024,1,4600,3800
+Riversdale,Metro,2024,2,11210,10720
+Riversdale,Metro,2024,3,10560,10350
+Riversdale,Metro,2024,4,8300,7470
+Riversdale,Metro,2024,5,11810,11180
+Riversdale,Metro,2024,6,8820,8690
+Rochester,VLine,2023,7,280,220
+Rochester,VLine,2023,8,210,280
+Rochester,VLine,2023,9,270,280
+Rochester,VLine,2023,10,280,290
+Rochester,VLine,2023,11,330,340
+Rochester,VLine,2023,12,270,350
+Rochester,VLine,2024,1,240,260
+Rochester,VLine,2024,2,160,300
+Rochester,VLine,2024,3,350,340
+Rochester,VLine,2024,4,440,390
+Rochester,VLine,2024,5,260,320
+Rochester,VLine,2024,6,320,350
+Rockbank,VLine,2023,7,24820,26930
+Rockbank,VLine,2023,8,18140,18790
+Rockbank,VLine,2023,9,23900,25680
+Rockbank,VLine,2023,10,26440,29340
+Rockbank,VLine,2023,11,26500,29140
+Rockbank,VLine,2023,12,22100,23520
+Rockbank,VLine,2024,1,22370,24450
+Rockbank,VLine,2024,2,26150,30010
+Rockbank,VLine,2024,3,28460,31490
+Rockbank,VLine,2024,4,28760,31220
+Rockbank,VLine,2024,5,34280,37670
+Rockbank,VLine,2024,6,28260,30720
+Rosanna,Metro,2023,7,39320,35390
+Rosanna,Metro,2023,8,48410,40800
+Rosanna,Metro,2023,9,41380,35760
+Rosanna,Metro,2023,10,33040,30570
+Rosanna,Metro,2023,11,41570,38940
+Rosanna,Metro,2023,12,12950,11480
+Rosanna,Metro,2024,1,35860,32620
+Rosanna,Metro,2024,2,40130,37310
+Rosanna,Metro,2024,3,47520,44600
+Rosanna,Metro,2024,4,43750,39680
+Rosanna,Metro,2024,5,44640,40350
+Rosanna,Metro,2024,6,42400,38120
+Rosedale,VLine,2023,7,20,60
+Rosedale,VLine,2023,8,10,50
+Rosedale,VLine,2023,9,120,130
+Rosedale,VLine,2023,10,60,130
+Rosedale,VLine,2023,11,90,110
+Rosedale,VLine,2023,12,50,120
+Rosedale,VLine,2024,1,150,170
+Rosedale,VLine,2024,2,110,200
+Rosedale,VLine,2024,3,190,140
+Rosedale,VLine,2024,4,150,190
+Rosedale,VLine,2024,5,20,10
+Rosedale,VLine,2024,6,20,60
+Roxburgh Park,Metro,2023,7,38810,40420
+Roxburgh Park,Metro,2023,8,45250,47010
+Roxburgh Park,Metro,2023,9,38340,39010
+Roxburgh Park,Metro,2023,10,39100,39590
+Roxburgh Park,Metro,2023,11,38550,39320
+Roxburgh Park,Metro,2023,12,36000,36070
+Roxburgh Park,Metro,2024,1,32380,33650
+Roxburgh Park,Metro,2024,2,41320,42040
+Roxburgh Park,Metro,2024,3,43280,44530
+Roxburgh Park,Metro,2024,4,40350,41670
+Roxburgh Park,Metro,2024,5,46650,49080
+Roxburgh Park,Metro,2024,6,35170,37400
+Royal Park,Metro,2023,7,19270,25450
+Royal Park,Metro,2023,8,20410,26390
+Royal Park,Metro,2023,9,25930,33600
+Royal Park,Metro,2023,10,21910,28320
+Royal Park,Metro,2023,11,21010,28710
+Royal Park,Metro,2023,12,21680,30040
+Royal Park,Metro,2024,1,26390,36650
+Royal Park,Metro,2024,2,23820,31550
+Royal Park,Metro,2024,3,26110,34640
+Royal Park,Metro,2024,4,25920,34700
+Royal Park,Metro,2024,5,24280,32700
+Royal Park,Metro,2024,6,20440,26630
+Rushall,Metro,2023,7,5500,6230
+Rushall,Metro,2023,8,6170,5720
+Rushall,Metro,2023,9,5850,6620
+Rushall,Metro,2023,10,6040,6460
+Rushall,Metro,2023,11,5340,6090
+Rushall,Metro,2023,12,4540,5720
+Rushall,Metro,2024,1,3710,4280
+Rushall,Metro,2024,2,5780,6460
+Rushall,Metro,2024,3,6740,7370
+Rushall,Metro,2024,4,5980,6000
+Rushall,Metro,2024,5,6310,6650
+Rushall,Metro,2024,6,5600,5460
+Ruthven,Metro,2023,7,16610,14890
+Ruthven,Metro,2023,8,19980,16580
+Ruthven,Metro,2023,9,20580,18460
+Ruthven,Metro,2023,10,22200,19480
+Ruthven,Metro,2023,11,21550,19100
+Ruthven,Metro,2023,12,20140,18040
+Ruthven,Metro,2024,1,13710,12940
+Ruthven,Metro,2024,2,28730,25910
+Ruthven,Metro,2024,3,30730,28230
+Ruthven,Metro,2024,4,29110,25330
+Ruthven,Metro,2024,5,22890,20830
+Ruthven,Metro,2024,6,25380,22590
+Sale,VLine,2023,7,600,660
+Sale,VLine,2023,8,1460,1320
+Sale,VLine,2023,9,2050,1720
+Sale,VLine,2023,10,3140,2620
+Sale,VLine,2023,11,2320,1880
+Sale,VLine,2023,12,2200,2080
+Sale,VLine,2024,1,3260,2980
+Sale,VLine,2024,2,2720,2720
+Sale,VLine,2024,3,3570,3210
+Sale,VLine,2024,4,3900,2940
+Sale,VLine,2024,5,340,230
+Sale,VLine,2024,6,1850,1680
+Sandown Park,Metro,2023,7,25690,24930
+Sandown Park,Metro,2023,8,32450,30710
+Sandown Park,Metro,2023,9,32450,32310
+Sandown Park,Metro,2023,10,31600,29950
+Sandown Park,Metro,2023,11,24660,23880
+Sandown Park,Metro,2023,12,23600,23380
+Sandown Park,Metro,2024,1,24280,24870
+Sandown Park,Metro,2024,2,30390,28460
+Sandown Park,Metro,2024,3,36320,35510
+Sandown Park,Metro,2024,4,32580,31560
+Sandown Park,Metro,2024,5,35320,32420
+Sandown Park,Metro,2024,6,29050,27100
+Sandringham,Metro,2023,7,105470,102650
+Sandringham,Metro,2023,8,61040,60360
+Sandringham,Metro,2023,9,47730,48230
+Sandringham,Metro,2023,10,58990,59920
+Sandringham,Metro,2023,11,59630,59740
+Sandringham,Metro,2023,12,62350,65600
+Sandringham,Metro,2024,1,60980,66110
+Sandringham,Metro,2024,2,68050,72300
+Sandringham,Metro,2024,3,66680,69580
+Sandringham,Metro,2024,4,61360,62940
+Sandringham,Metro,2024,5,66370,67380
+Sandringham,Metro,2024,6,55850,56220
+Seaford,Metro,2023,7,4900,5280
+Seaford,Metro,2023,8,23790,23630
+Seaford,Metro,2023,9,22750,22770
+Seaford,Metro,2023,10,17030,17040
+Seaford,Metro,2023,11,19200,19620
+Seaford,Metro,2023,12,20420,20250
+Seaford,Metro,2024,1,22950,24100
+Seaford,Metro,2024,2,25090,25280
+Seaford,Metro,2024,3,28250,27430
+Seaford,Metro,2024,4,25160,25280
+Seaford,Metro,2024,5,18970,19450
+Seaford,Metro,2024,6,20960,20670
+Seaholme,Metro,2023,7,3250,2900
+Seaholme,Metro,2023,8,5100,4810
+Seaholme,Metro,2023,9,5120,4980
+Seaholme,Metro,2023,10,5160,4680
+Seaholme,Metro,2023,11,4800,4280
+Seaholme,Metro,2023,12,5220,4840
+Seaholme,Metro,2024,1,4970,4980
+Seaholme,Metro,2024,2,5630,5700
+Seaholme,Metro,2024,3,6290,6140
+Seaholme,Metro,2024,4,5930,5720
+Seaholme,Metro,2024,5,5940,5330
+Seaholme,Metro,2024,6,4940,4910
+Seddon,Metro,2023,7,18090,16680
+Seddon,Metro,2023,8,29430,26860
+Seddon,Metro,2023,9,25330,23810
+Seddon,Metro,2023,10,29150,26720
+Seddon,Metro,2023,11,27100,25200
+Seddon,Metro,2023,12,25310,23450
+Seddon,Metro,2024,1,24350,23530
+Seddon,Metro,2024,2,31030,29200
+Seddon,Metro,2024,3,31280,29390
+Seddon,Metro,2024,4,30390,28090
+Seddon,Metro,2024,5,30360,27960
+Seddon,Metro,2024,6,27440,25940
+Seymour,VLine,2023,7,11880,8620
+Seymour,VLine,2023,8,8820,6760
+Seymour,VLine,2023,9,9530,7540
+Seymour,VLine,2023,10,12550,7330
+Seymour,VLine,2023,11,3450,2300
+Seymour,VLine,2023,12,11080,8540
+Seymour,VLine,2024,1,10020,7450
+Seymour,VLine,2024,2,10700,7770
+Seymour,VLine,2024,3,6870,4240
+Seymour,VLine,2024,4,14760,9100
+Seymour,VLine,2024,5,13940,9270
+Seymour,VLine,2024,6,11710,8290
+Shepparton,VLine,2023,7,8870,7430
+Shepparton,VLine,2023,8,5740,5140
+Shepparton,VLine,2023,9,8390,6930
+Shepparton,VLine,2023,11,1220,1310
+Shepparton,VLine,2023,12,10370,8200
+Shepparton,VLine,2024,1,8500,7880
+Shepparton,VLine,2024,2,7990,6980
+Shepparton,VLine,2024,3,2100,1720
+Shepparton,VLine,2024,4,4490,4180
+Shepparton,VLine,2024,5,8830,7570
+Shepparton,VLine,2024,6,7760,6800
+Sherwood Park,VLine,2023,7,200,220
+Sherwood Park,VLine,2023,8,170,200
+Sherwood Park,VLine,2023,9,120,190
+Sherwood Park,VLine,2023,10,130,420
+Sherwood Park,VLine,2023,11,50,220
+Sherwood Park,VLine,2023,12,260,490
+Sherwood Park,VLine,2024,1,150,460
+Sherwood Park,VLine,2024,2,60,210
+Sherwood Park,VLine,2024,3,250,730
+Sherwood Park,VLine,2024,4,190,250
+Sherwood Park,VLine,2024,5,200,330
+Sherwood Park,VLine,2024,6,120,200
+Showgrounds,Metro,2023,7,2060,2630
+Showgrounds,Metro,2023,8,1870,2850
+Showgrounds,Metro,2023,9,102080,128560
+Showgrounds,Metro,2023,10,5830,6610
+Showgrounds,Metro,2023,11,3350,5810
+Showgrounds,Metro,2023,12,1490,2150
+Showgrounds,Metro,2024,1,900,980
+Showgrounds,Metro,2024,2,1330,1620
+Showgrounds,Metro,2024,4,7300,8520
+Showgrounds,Metro,2024,5,440,630
+Showgrounds,Metro,2024,6,3580,4680
+Somerville,Metro,2023,7,0,0
+Somerville,Metro,2023,8,170,190
+Somerville,Metro,2023,9,150,210
+Somerville,Metro,2023,10,80,140
+Somerville,Metro,2023,11,100,130
+Somerville,Metro,2023,12,210,280
+Somerville,Metro,2024,1,100,200
+Somerville,Metro,2024,2,160,360
+Somerville,Metro,2024,3,160,230
+Somerville,Metro,2024,4,320,330
+Somerville,Metro,2024,5,160,130
+Somerville,Metro,2024,6,120,140
+South Geelong,VLine,2023,7,30160,31860
+South Geelong,VLine,2023,8,25950,27850
+South Geelong,VLine,2023,9,19330,20380
+South Geelong,VLine,2023,10,28190,28760
+South Geelong,VLine,2023,11,15500,15830
+South Geelong,VLine,2023,12,23930,25140
+South Geelong,VLine,2024,1,28460,29320
+South Geelong,VLine,2024,2,18080,18400
+South Geelong,VLine,2024,3,31220,34920
+South Geelong,VLine,2024,4,21760,23060
+South Geelong,VLine,2024,5,24250,25690
+South Geelong,VLine,2024,6,12550,13120
+South Kensington,Metro,2023,7,13920,12270
+South Kensington,Metro,2023,8,21870,18350
+South Kensington,Metro,2023,9,19800,17290
+South Kensington,Metro,2023,10,20870,18310
+South Kensington,Metro,2023,11,20070,18470
+South Kensington,Metro,2023,12,19100,17430
+South Kensington,Metro,2024,1,19840,18020
+South Kensington,Metro,2024,2,22780,19870
+South Kensington,Metro,2024,3,23160,19650
+South Kensington,Metro,2024,4,21620,18890
+South Kensington,Metro,2024,5,22280,18900
+South Kensington,Metro,2024,6,20840,17460
+South Morang,Metro,2023,7,35370,34620
+South Morang,Metro,2023,8,42570,38730
+South Morang,Metro,2023,9,44480,39960
+South Morang,Metro,2023,10,43200,41810
+South Morang,Metro,2023,11,43230,40390
+South Morang,Metro,2023,12,41660,36890
+South Morang,Metro,2024,1,26920,23720
+South Morang,Metro,2024,2,41980,40260
+South Morang,Metro,2024,3,50600,46260
+South Morang,Metro,2024,4,45710,42820
+South Morang,Metro,2024,5,40850,39240
+South Morang,Metro,2024,6,43790,40910
+South Yarra,Metro,2023,7,298760,287200
+South Yarra,Metro,2023,8,355180,346180
+South Yarra,Metro,2023,9,303010,293950
+South Yarra,Metro,2023,10,343410,328250
+South Yarra,Metro,2023,11,311580,301410
+South Yarra,Metro,2023,12,276510,271600
+South Yarra,Metro,2024,1,281760,273900
+South Yarra,Metro,2024,2,356360,347400
+South Yarra,Metro,2024,3,381350,367220
+South Yarra,Metro,2024,4,342990,334170
+South Yarra,Metro,2024,5,382710,374210
+South Yarra,Metro,2024,6,330910,324460
+Southern Cross,Metro,2023,7,1466170,1377700
+Southern Cross,Metro,2023,8,1687210,1622450
+Southern Cross,Metro,2023,9,1529080,1468080
+Southern Cross,Metro,2023,10,1586300,1541550
+Southern Cross,Metro,2023,11,1602560,1558170
+Southern Cross,Metro,2023,12,1392520,1363140
+Southern Cross,Metro,2024,1,1423500,1359800
+Southern Cross,Metro,2024,2,1695160,1632790
+Southern Cross,Metro,2024,3,1848430,1776340
+Southern Cross,Metro,2024,4,1736020,1666760
+Southern Cross,Metro,2024,5,1928730,1858010
+Southern Cross,Metro,2024,6,1629780,1558090
+Southern Cross,VLine,2023,7,564620,568910
+Southern Cross,VLine,2023,8,452480,443870
+Southern Cross,VLine,2023,9,578830,569030
+Southern Cross,VLine,2023,10,610080,581730
+Southern Cross,VLine,2023,11,575280,553310
+Southern Cross,VLine,2023,12,580680,569290
+Southern Cross,VLine,2024,1,606300,578550
+Southern Cross,VLine,2024,2,583730,549640
+Southern Cross,VLine,2024,3,683560,658000
+Southern Cross,VLine,2024,4,674360,650470
+Southern Cross,VLine,2024,5,716790,705570
+Southern Cross,VLine,2024,6,611240,603030
+Southland,Metro,2023,7,14820,19890
+Southland,Metro,2023,8,35340,49460
+Southland,Metro,2023,9,35330,49550
+Southland,Metro,2023,10,30650,43040
+Southland,Metro,2023,11,30830,43380
+Southland,Metro,2023,12,40130,56880
+Southland,Metro,2024,1,36850,52590
+Southland,Metro,2024,2,33540,48050
+Southland,Metro,2024,3,36480,51830
+Southland,Metro,2024,4,36530,50530
+Southland,Metro,2024,5,34650,50020
+Southland,Metro,2024,6,29600,43470
+Spotswood,Metro,2023,7,13100,14270
+Spotswood,Metro,2023,8,20210,20790
+Spotswood,Metro,2023,9,19580,20340
+Spotswood,Metro,2023,10,19970,21210
+Spotswood,Metro,2023,11,18120,18980
+Spotswood,Metro,2023,12,19250,22160
+Spotswood,Metro,2024,1,19550,22750
+Spotswood,Metro,2024,2,22100,24560
+Spotswood,Metro,2024,3,23040,25460
+Spotswood,Metro,2024,4,24680,27480
+Spotswood,Metro,2024,5,21760,22760
+Spotswood,Metro,2024,6,23840,26210
+Springhurst,VLine,2023,7,60,50
+Springhurst,VLine,2023,8,90,30
+Springhurst,VLine,2023,9,160,160
+Springhurst,VLine,2023,10,60,160
+Springhurst,VLine,2023,11,80,130
+Springhurst,VLine,2023,12,100,110
+Springhurst,VLine,2024,1,180,200
+Springhurst,VLine,2024,2,50,60
+Springhurst,VLine,2024,3,180,290
+Springhurst,VLine,2024,4,120,100
+Springhurst,VLine,2024,5,80,110
+Springhurst,VLine,2024,6,130,110
+Springvale,Metro,2023,7,113200,98380
+Springvale,Metro,2023,8,123910,108190
+Springvale,Metro,2023,9,122670,103990
+Springvale,Metro,2023,10,126640,106760
+Springvale,Metro,2023,11,109860,87970
+Springvale,Metro,2023,12,107090,85180
+Springvale,Metro,2024,1,107310,89450
+Springvale,Metro,2024,2,119890,103320
+Springvale,Metro,2024,3,136700,117920
+Springvale,Metro,2024,4,126560,108150
+Springvale,Metro,2024,5,121690,103240
+Springvale,Metro,2024,6,115420,96550
+St Albans,Metro,2023,7,73010,58770
+St Albans,Metro,2023,8,88980,72590
+St Albans,Metro,2023,9,85200,70250
+St Albans,Metro,2023,10,90600,77210
+St Albans,Metro,2023,11,83000,69790
+St Albans,Metro,2023,12,76860,63970
+St Albans,Metro,2024,1,78390,65570
+St Albans,Metro,2024,2,78980,71760
+St Albans,Metro,2024,3,83360,75580
+St Albans,Metro,2024,4,75780,68680
+St Albans,Metro,2024,5,88550,81360
+St Albans,Metro,2024,6,80680,71510
+Stony Point,Metro,2023,7,0,0
+Stony Point,Metro,2023,8,240,110
+Stony Point,Metro,2023,9,280,280
+Stony Point,Metro,2023,10,160,70
+Stony Point,Metro,2023,11,460,190
+Stony Point,Metro,2023,12,420,350
+Stony Point,Metro,2024,1,650,490
+Stony Point,Metro,2024,2,340,250
+Stony Point,Metro,2024,3,370,300
+Stony Point,Metro,2024,4,270,260
+Stony Point,Metro,2024,5,170,80
+Stony Point,Metro,2024,6,130,140
+Stratford,VLine,2023,7,40,150
+Stratford,VLine,2023,8,120,130
+Stratford,VLine,2023,9,210,260
+Stratford,VLine,2023,10,280,260
+Stratford,VLine,2023,11,240,260
+Stratford,VLine,2023,12,360,230
+Stratford,VLine,2024,1,410,510
+Stratford,VLine,2024,2,270,330
+Stratford,VLine,2024,3,330,320
+Stratford,VLine,2024,4,540,430
+Stratford,VLine,2024,5,30,40
+Stratford,VLine,2024,6,190,180
+Strathmore,Metro,2023,7,21750,20080
+Strathmore,Metro,2023,8,24990,22900
+Strathmore,Metro,2023,9,20980,18830
+Strathmore,Metro,2023,10,22350,19960
+Strathmore,Metro,2023,11,21600,19270
+Strathmore,Metro,2023,12,18520,16420
+Strathmore,Metro,2024,1,15480,14840
+Strathmore,Metro,2024,2,23450,21260
+Strathmore,Metro,2024,3,24460,21650
+Strathmore,Metro,2024,4,22420,20670
+Strathmore,Metro,2024,5,26570,24650
+Strathmore,Metro,2024,6,21120,19040
+Sunbury,Metro,2023,7,33410,37370
+Sunbury,Metro,2023,8,52120,54340
+Sunbury,Metro,2023,9,36470,36840
+Sunbury,Metro,2023,10,37200,38310
+Sunbury,Metro,2023,11,34030,34670
+Sunbury,Metro,2023,12,36370,36410
+Sunbury,Metro,2024,1,33660,35350
+Sunbury,Metro,2024,2,45350,45910
+Sunbury,Metro,2024,3,43680,44110
+Sunbury,Metro,2024,4,37350,37830
+Sunbury,Metro,2024,5,40470,42490
+Sunbury,Metro,2024,6,34950,37610
+Sunbury,VLine,2023,7,22780,21150
+Sunbury,VLine,2023,8,24660,23730
+Sunbury,VLine,2023,9,18940,17110
+Sunbury,VLine,2023,10,19480,18230
+Sunbury,VLine,2023,11,19360,18550
+Sunbury,VLine,2023,12,18310,18070
+Sunbury,VLine,2024,1,17340,17330
+Sunbury,VLine,2024,2,12330,12850
+Sunbury,VLine,2024,3,19030,18620
+Sunbury,VLine,2024,4,19550,19580
+Sunbury,VLine,2024,5,22450,21310
+Sunbury,VLine,2024,6,20390,19450
+Sunshine,Metro,2023,7,118720,103420
+Sunshine,Metro,2023,8,132510,119100
+Sunshine,Metro,2023,9,118140,105370
+Sunshine,Metro,2023,10,123140,116260
+Sunshine,Metro,2023,11,118760,114640
+Sunshine,Metro,2023,12,112290,99830
+Sunshine,Metro,2024,1,109050,99220
+Sunshine,Metro,2024,2,129580,114940
+Sunshine,Metro,2024,3,132620,124280
+Sunshine,Metro,2024,4,116580,108610
+Sunshine,Metro,2024,5,129620,125360
+Sunshine,Metro,2024,6,120210,109190
+Sunshine,VLine,2023,7,37490,30980
+Sunshine,VLine,2023,8,32620,26160
+Sunshine,VLine,2023,9,41510,32670
+Sunshine,VLine,2023,10,45500,37540
+Sunshine,VLine,2023,11,42170,35470
+Sunshine,VLine,2023,12,38880,30120
+Sunshine,VLine,2024,1,41120,31240
+Sunshine,VLine,2024,2,47610,35650
+Sunshine,VLine,2024,3,45970,36950
+Sunshine,VLine,2024,4,36260,35180
+Sunshine,VLine,2024,5,44570,42030
+Sunshine,VLine,2024,6,42990,37640
+Swan Hill,VLine,2023,7,3890,3240
+Swan Hill,VLine,2023,8,3330,2900
+Swan Hill,VLine,2023,9,4050,3620
+Swan Hill,VLine,2023,10,4110,3820
+Swan Hill,VLine,2023,11,4080,3840
+Swan Hill,VLine,2023,12,4870,4140
+Swan Hill,VLine,2024,1,4850,4700
+Swan Hill,VLine,2024,2,2490,2420
+Swan Hill,VLine,2024,3,3790,3520
+Swan Hill,VLine,2024,4,5090,4210
+Swan Hill,VLine,2024,5,4470,4200
+Swan Hill,VLine,2024,6,3970,3860
+Syndal,Metro,2023,7,57690,56690
+Syndal,Metro,2023,8,61760,60050
+Syndal,Metro,2023,9,52480,50590
+Syndal,Metro,2023,10,49410,44830
+Syndal,Metro,2023,11,52950,51050
+Syndal,Metro,2023,12,45640,43890
+Syndal,Metro,2024,1,42120,40760
+Syndal,Metro,2024,2,57490,53880
+Syndal,Metro,2024,3,62900,63640
+Syndal,Metro,2024,4,47060,47590
+Syndal,Metro,2024,5,62200,63170
+Syndal,Metro,2024,6,52010,52830
+Talbot,VLine,2023,7,10,20
+Talbot,VLine,2023,8,0,0
+Talbot,VLine,2023,9,0,0
+Talbot,VLine,2023,10,0,10
+Talbot,VLine,2023,11,70,20
+Talbot,VLine,2023,12,0,20
+Talbot,VLine,2024,1,0,0
+Talbot,VLine,2024,2,10,0
+Talbot,VLine,2024,3,0,10
+Talbot,VLine,2024,4,0,70
+Talbot,VLine,2024,5,0,50
+Talbot,VLine,2024,6,20,10
+Tallarook,VLine,2023,7,160,100
+Tallarook,VLine,2023,8,50,70
+Tallarook,VLine,2023,9,80,100
+Tallarook,VLine,2023,10,60,60
+Tallarook,VLine,2023,11,10,20
+Tallarook,VLine,2023,12,90,90
+Tallarook,VLine,2024,1,260,160
+Tallarook,VLine,2024,2,90,90
+Tallarook,VLine,2024,3,80,170
+Tallarook,VLine,2024,4,210,260
+Tallarook,VLine,2024,5,100,170
+Tallarook,VLine,2024,6,90,120
+Tarneit,VLine,2023,7,106100,111060
+Tarneit,VLine,2023,8,104670,110940
+Tarneit,VLine,2023,9,118590,131450
+Tarneit,VLine,2023,10,125270,138930
+Tarneit,VLine,2023,11,121220,139440
+Tarneit,VLine,2023,12,110280,125780
+Tarneit,VLine,2024,1,108180,129020
+Tarneit,VLine,2024,2,121810,146880
+Tarneit,VLine,2024,3,140980,160510
+Tarneit,VLine,2024,4,131210,151390
+Tarneit,VLine,2024,5,156140,177090
+Tarneit,VLine,2024,6,131970,146280
+Tecoma,Metro,2023,7,2820,3250
+Tecoma,Metro,2023,8,2610,2970
+Tecoma,Metro,2023,9,2700,2790
+Tecoma,Metro,2023,10,3290,3520
+Tecoma,Metro,2023,11,2720,3100
+Tecoma,Metro,2023,12,2630,2940
+Tecoma,Metro,2024,1,1890,1870
+Tecoma,Metro,2024,2,410,540
+Tecoma,Metro,2024,3,550,650
+Tecoma,Metro,2024,4,2260,2520
+Tecoma,Metro,2024,5,2470,2920
+Tecoma,Metro,2024,6,1610,1930
+Terang,VLine,2023,7,720,720
+Terang,VLine,2023,8,510,750
+Terang,VLine,2023,9,490,600
+Terang,VLine,2023,10,590,660
+Terang,VLine,2023,11,520,680
+Terang,VLine,2023,12,640,730
+Terang,VLine,2024,1,750,890
+Terang,VLine,2024,2,420,420
+Terang,VLine,2024,3,790,810
+Terang,VLine,2024,4,600,670
+Terang,VLine,2024,5,570,530
+Terang,VLine,2024,6,280,290
+Thomastown,Metro,2023,7,41310,37870
+Thomastown,Metro,2023,8,50120,45140
+Thomastown,Metro,2023,9,50950,47960
+Thomastown,Metro,2023,10,51530,50120
+Thomastown,Metro,2023,11,49750,49140
+Thomastown,Metro,2023,12,48790,44930
+Thomastown,Metro,2024,1,28910,26960
+Thomastown,Metro,2024,2,53700,50020
+Thomastown,Metro,2024,3,63710,60340
+Thomastown,Metro,2024,4,57720,53670
+Thomastown,Metro,2024,5,44520,43960
+Thomastown,Metro,2024,6,47570,47200
+Thornbury,Metro,2023,7,26800,25130
+Thornbury,Metro,2023,8,28430,25930
+Thornbury,Metro,2023,9,26700,25850
+Thornbury,Metro,2023,10,27540,28280
+Thornbury,Metro,2023,11,26950,27740
+Thornbury,Metro,2023,12,24900,26930
+Thornbury,Metro,2024,1,22500,22850
+Thornbury,Metro,2024,2,28980,30250
+Thornbury,Metro,2024,3,31280,32200
+Thornbury,Metro,2024,4,29180,28860
+Thornbury,Metro,2024,5,30360,30000
+Thornbury,Metro,2024,6,26960,27270
+Toorak,Metro,2023,7,5190,4510
+Toorak,Metro,2023,8,27290,22250
+Toorak,Metro,2023,9,24240,20070
+Toorak,Metro,2023,10,27410,23440
+Toorak,Metro,2023,11,26290,22280
+Toorak,Metro,2023,12,20760,17150
+Toorak,Metro,2024,1,19640,17580
+Toorak,Metro,2024,2,30910,28790
+Toorak,Metro,2024,3,32330,27300
+Toorak,Metro,2024,4,28550,24180
+Toorak,Metro,2024,5,33730,28680
+Toorak,Metro,2024,6,25820,23070
+Tooronga,Metro,2023,7,40350,38930
+Tooronga,Metro,2023,8,40670,39410
+Tooronga,Metro,2023,9,35190,34880
+Tooronga,Metro,2023,10,32190,31490
+Tooronga,Metro,2023,11,34820,34690
+Tooronga,Metro,2023,12,30000,30300
+Tooronga,Metro,2024,1,28760,29540
+Tooronga,Metro,2024,2,36150,35810
+Tooronga,Metro,2024,3,40510,40000
+Tooronga,Metro,2024,4,33680,33020
+Tooronga,Metro,2024,5,42350,41920
+Tooronga,Metro,2024,6,35520,35110
+Tottenham,Metro,2023,7,24170,23280
+Tottenham,Metro,2023,8,33160,31790
+Tottenham,Metro,2023,9,32160,31910
+Tottenham,Metro,2023,10,34860,34180
+Tottenham,Metro,2023,11,30880,30130
+Tottenham,Metro,2023,12,31660,31960
+Tottenham,Metro,2024,1,31160,32880
+Tottenham,Metro,2024,2,34500,34860
+Tottenham,Metro,2024,3,33480,33110
+Tottenham,Metro,2024,4,32400,30620
+Tottenham,Metro,2024,5,36270,36680
+Tottenham,Metro,2024,6,30940,31140
+Trafalgar,VLine,2023,7,3010,2500
+Trafalgar,VLine,2023,8,2490,2120
+Trafalgar,VLine,2023,9,1850,1540
+Trafalgar,VLine,2023,10,3730,3360
+Trafalgar,VLine,2023,11,3000,2380
+Trafalgar,VLine,2023,12,1580,930
+Trafalgar,VLine,2024,1,2010,1560
+Trafalgar,VLine,2024,2,3550,3180
+Trafalgar,VLine,2024,3,3980,3430
+Trafalgar,VLine,2024,4,3550,2850
+Trafalgar,VLine,2024,5,450,390
+Trafalgar,VLine,2024,6,2030,1770
+Traralgon,VLine,2023,7,16000,10320
+Traralgon,VLine,2023,8,8770,7320
+Traralgon,VLine,2023,9,9260,8110
+Traralgon,VLine,2023,10,13150,11060
+Traralgon,VLine,2023,11,10130,9250
+Traralgon,VLine,2023,12,8660,7710
+Traralgon,VLine,2024,1,14040,12520
+Traralgon,VLine,2024,2,12810,10420
+Traralgon,VLine,2024,3,14930,13170
+Traralgon,VLine,2024,4,15590,13270
+Traralgon,VLine,2024,5,1630,1440
+Traralgon,VLine,2024,6,7450,6340
+Tyabb,Metro,2023,7,10,0
+Tyabb,Metro,2023,8,20,10
+Tyabb,Metro,2023,9,0,20
+Tyabb,Metro,2023,10,10,0
+Tyabb,Metro,2023,11,20,70
+Tyabb,Metro,2023,12,50,50
+Tyabb,Metro,2024,1,50,50
+Tyabb,Metro,2024,2,10,30
+Tyabb,Metro,2024,3,100,50
+Tyabb,Metro,2024,4,40,40
+Tyabb,Metro,2024,5,0,10
+Tyabb,Metro,2024,6,40,20
+Tynong,VLine,2023,7,250,30
+Tynong,VLine,2023,8,170,100
+Tynong,VLine,2023,9,150,60
+Tynong,VLine,2023,10,240,180
+Tynong,VLine,2023,11,140,120
+Tynong,VLine,2023,12,110,50
+Tynong,VLine,2024,1,140,200
+Tynong,VLine,2024,2,70,120
+Tynong,VLine,2024,3,140,130
+Tynong,VLine,2024,4,90,30
+Tynong,VLine,2024,5,20,10
+Tynong,VLine,2024,6,50,60
+Union,Metro,2023,7,35730,29100
+Union,Metro,2023,8,40140,33020
+Union,Metro,2023,9,32780,26750
+Union,Metro,2023,10,36090,30370
+Union,Metro,2023,11,38020,30860
+Union,Metro,2023,12,35830,28130
+Union,Metro,2024,1,33100,27100
+Union,Metro,2024,2,44180,36270
+Union,Metro,2024,3,49190,40480
+Union,Metro,2024,4,44880,35350
+Union,Metro,2024,5,51150,42760
+Union,Metro,2024,6,43000,34450
+Upfield,Metro,2023,7,19580,19150
+Upfield,Metro,2023,8,21490,21630
+Upfield,Metro,2023,9,23120,22960
+Upfield,Metro,2023,10,23520,24610
+Upfield,Metro,2023,11,21010,21720
+Upfield,Metro,2023,12,19350,19340
+Upfield,Metro,2024,1,21310,22140
+Upfield,Metro,2024,2,21830,22510
+Upfield,Metro,2024,3,26230,26420
+Upfield,Metro,2024,4,20580,20140
+Upfield,Metro,2024,5,24870,24810
+Upfield,Metro,2024,6,21590,22080
+Upper Ferntree Gully,Metro,2023,7,13040,15120
+Upper Ferntree Gully,Metro,2023,8,11710,12810
+Upper Ferntree Gully,Metro,2023,9,12790,13780
+Upper Ferntree Gully,Metro,2023,10,14120,15020
+Upper Ferntree Gully,Metro,2023,11,14160,14550
+Upper Ferntree Gully,Metro,2023,12,12590,14370
+Upper Ferntree Gully,Metro,2024,1,10340,12020
+Upper Ferntree Gully,Metro,2024,2,1980,3050
+Upper Ferntree Gully,Metro,2024,3,3220,4000
+Upper Ferntree Gully,Metro,2024,4,12680,13700
+Upper Ferntree Gully,Metro,2024,5,13230,14700
+Upper Ferntree Gully,Metro,2024,6,9100,10570
+Upwey,Metro,2023,7,7470,7880
+Upwey,Metro,2023,8,7140,6930
+Upwey,Metro,2023,9,6850,7440
+Upwey,Metro,2023,10,7450,8200
+Upwey,Metro,2023,11,6900,7350
+Upwey,Metro,2023,12,6690,7270
+Upwey,Metro,2024,1,5610,6110
+Upwey,Metro,2024,2,2050,2510
+Upwey,Metro,2024,3,2040,2090
+Upwey,Metro,2024,4,6030,6620
+Upwey,Metro,2024,5,7580,7990
+Upwey,Metro,2024,6,4950,5700
+Victoria Park,Metro,2023,7,41780,58880
+Victoria Park,Metro,2023,8,47740,64140
+Victoria Park,Metro,2023,9,45270,63150
+Victoria Park,Metro,2023,10,45990,64270
+Victoria Park,Metro,2023,11,47150,66810
+Victoria Park,Metro,2023,12,38910,57580
+Victoria Park,Metro,2024,1,35930,52210
+Victoria Park,Metro,2024,2,49750,69830
+Victoria Park,Metro,2024,3,52210,73040
+Victoria Park,Metro,2024,4,49790,69330
+Victoria Park,Metro,2024,5,51450,71810
+Victoria Park,Metro,2024,6,48470,68350
+Violet Town,VLine,2023,7,70,20
+Violet Town,VLine,2023,8,110,80
+Violet Town,VLine,2023,9,90,90
+Violet Town,VLine,2023,10,30,40
+Violet Town,VLine,2023,11,40,60
+Violet Town,VLine,2023,12,130,80
+Violet Town,VLine,2024,1,180,130
+Violet Town,VLine,2024,2,20,70
+Violet Town,VLine,2024,3,50,80
+Violet Town,VLine,2024,4,160,170
+Violet Town,VLine,2024,5,80,80
+Violet Town,VLine,2024,6,120,110
+Wallan,VLine,2023,7,10820,9990
+Wallan,VLine,2023,8,9580,9150
+Wallan,VLine,2023,9,10440,9590
+Wallan,VLine,2023,10,8980,8600
+Wallan,VLine,2023,11,2190,1910
+Wallan,VLine,2023,12,8550,7820
+Wallan,VLine,2024,1,8060,7480
+Wallan,VLine,2024,2,9060,8930
+Wallan,VLine,2024,3,4780,4590
+Wallan,VLine,2024,4,10490,9720
+Wallan,VLine,2024,5,13000,12190
+Wallan,VLine,2024,6,10560,9910
+Wandong,VLine,2023,7,1090,1180
+Wandong,VLine,2023,8,1130,1160
+Wandong,VLine,2023,9,1070,920
+Wandong,VLine,2023,10,850,740
+Wandong,VLine,2023,11,270,190
+Wandong,VLine,2023,12,940,620
+Wandong,VLine,2024,1,840,710
+Wandong,VLine,2024,2,900,870
+Wandong,VLine,2024,3,620,470
+Wandong,VLine,2024,4,1060,950
+Wandong,VLine,2024,5,1400,1220
+Wandong,VLine,2024,6,1070,750
+Wangaratta,VLine,2023,7,4380,4470
+Wangaratta,VLine,2023,8,3890,3980
+Wangaratta,VLine,2023,9,3600,3940
+Wangaratta,VLine,2023,10,3990,4140
+Wangaratta,VLine,2023,11,4220,4430
+Wangaratta,VLine,2023,12,4620,4940
+Wangaratta,VLine,2024,1,5320,5300
+Wangaratta,VLine,2024,2,3970,4280
+Wangaratta,VLine,2024,3,3490,4090
+Wangaratta,VLine,2024,4,4750,5300
+Wangaratta,VLine,2024,5,4330,4650
+Wangaratta,VLine,2024,6,4440,4780
+Warragul,VLine,2023,7,11870,12000
+Warragul,VLine,2023,8,8640,8440
+Warragul,VLine,2023,9,9220,8760
+Warragul,VLine,2023,10,13200,12970
+Warragul,VLine,2023,11,10220,9650
+Warragul,VLine,2023,12,8150,7990
+Warragul,VLine,2024,1,12070,11810
+Warragul,VLine,2024,2,12690,12650
+Warragul,VLine,2024,3,14530,14470
+Warragul,VLine,2024,4,14120,14300
+Warragul,VLine,2024,5,1960,1850
+Warragul,VLine,2024,6,7290,7040
+Warrnambool,VLine,2023,7,10240,8920
+Warrnambool,VLine,2023,8,7860,6790
+Warrnambool,VLine,2023,9,7240,6760
+Warrnambool,VLine,2023,10,9680,8830
+Warrnambool,VLine,2023,11,6000,5770
+Warrnambool,VLine,2023,12,9840,9400
+Warrnambool,VLine,2024,1,11450,10720
+Warrnambool,VLine,2024,2,6050,5560
+Warrnambool,VLine,2024,3,10650,9380
+Warrnambool,VLine,2024,4,8030,7070
+Warrnambool,VLine,2024,5,7150,6160
+Warrnambool,VLine,2024,6,4100,3840
+Watergardens,Metro,2023,7,82800,92720
+Watergardens,Metro,2023,8,113000,120870
+Watergardens,Metro,2023,9,100520,107590
+Watergardens,Metro,2023,10,103450,112070
+Watergardens,Metro,2023,11,95670,101290
+Watergardens,Metro,2023,12,92900,101030
+Watergardens,Metro,2024,1,90400,99740
+Watergardens,Metro,2024,2,106740,112730
+Watergardens,Metro,2024,3,114830,121410
+Watergardens,Metro,2024,4,107170,111480
+Watergardens,Metro,2024,5,119350,127600
+Watergardens,Metro,2024,6,97960,107380
+Watergardens,VLine,2023,7,150,550
+Watergardens,VLine,2023,8,160,480
+Watergardens,VLine,2023,9,210,780
+Watergardens,VLine,2023,10,240,940
+Watergardens,VLine,2023,11,300,700
+Watergardens,VLine,2023,12,260,560
+Watergardens,VLine,2024,1,210,610
+Watergardens,VLine,2024,2,80,430
+Watergardens,VLine,2024,3,240,850
+Watergardens,VLine,2024,4,190,800
+Watergardens,VLine,2024,5,350,820
+Watergardens,VLine,2024,6,230,760
+Watsonia,Metro,2023,7,37060,33200
+Watsonia,Metro,2023,8,41150,35730
+Watsonia,Metro,2023,9,39050,34850
+Watsonia,Metro,2023,10,29330,28060
+Watsonia,Metro,2023,11,37680,35510
+Watsonia,Metro,2023,12,11390,10280
+Watsonia,Metro,2024,1,33090,30800
+Watsonia,Metro,2024,2,35130,34070
+Watsonia,Metro,2024,3,40830,39390
+Watsonia,Metro,2024,4,33430,31140
+Watsonia,Metro,2024,5,36230,34040
+Watsonia,Metro,2024,6,32010,30170
+Wattle Glen,Metro,2023,7,1500,1310
+Wattle Glen,Metro,2023,8,1900,1850
+Wattle Glen,Metro,2023,9,1650,1340
+Wattle Glen,Metro,2023,10,1500,1350
+Wattle Glen,Metro,2023,11,1730,1510
+Wattle Glen,Metro,2023,12,560,400
+Wattle Glen,Metro,2024,1,1190,910
+Wattle Glen,Metro,2024,2,1720,1440
+Wattle Glen,Metro,2024,3,1880,1660
+Wattle Glen,Metro,2024,4,1660,1510
+Wattle Glen,Metro,2024,5,2020,2010
+Wattle Glen,Metro,2024,6,1750,1400
+Waurn Ponds,VLine,2023,7,22190,21410
+Waurn Ponds,VLine,2023,8,18720,18680
+Waurn Ponds,VLine,2023,9,14630,14440
+Waurn Ponds,VLine,2023,10,19360,20040
+Waurn Ponds,VLine,2023,11,11870,12200
+Waurn Ponds,VLine,2023,12,20450,21140
+Waurn Ponds,VLine,2024,1,22780,24230
+Waurn Ponds,VLine,2024,2,15830,15370
+Waurn Ponds,VLine,2024,3,26750,27880
+Waurn Ponds,VLine,2024,4,19170,19590
+Waurn Ponds,VLine,2024,5,18570,18870
+Waurn Ponds,VLine,2024,6,10170,10160
+Wendouree,VLine,2023,7,12270,13050
+Wendouree,VLine,2023,8,9550,9470
+Wendouree,VLine,2023,9,6780,7270
+Wendouree,VLine,2023,10,12040,13600
+Wendouree,VLine,2023,11,12250,13980
+Wendouree,VLine,2023,12,12950,14480
+Wendouree,VLine,2024,1,12250,14710
+Wendouree,VLine,2024,2,12710,14200
+Wendouree,VLine,2024,3,15770,17590
+Wendouree,VLine,2024,4,17150,17760
+Wendouree,VLine,2024,5,16600,18230
+Wendouree,VLine,2024,6,10490,11070
+Werribee,Metro,2023,7,76930,77850
+Werribee,Metro,2023,8,107280,110790
+Werribee,Metro,2023,9,91350,93720
+Werribee,Metro,2023,10,93480,98390
+Werribee,Metro,2023,11,87420,90600
+Werribee,Metro,2023,12,84000,88820
+Werribee,Metro,2024,1,76720,85230
+Werribee,Metro,2024,2,93200,95050
+Werribee,Metro,2024,3,96470,100700
+Werribee,Metro,2024,4,88250,94190
+Werribee,Metro,2024,5,89690,93460
+Werribee,Metro,2024,6,81930,85060
+West Footscray,Metro,2023,7,30790,30590
+West Footscray,Metro,2023,8,42190,40050
+West Footscray,Metro,2023,9,39550,38950
+West Footscray,Metro,2023,10,42750,41870
+West Footscray,Metro,2023,11,39260,37700
+West Footscray,Metro,2023,12,38550,37970
+West Footscray,Metro,2024,1,38070,38740
+West Footscray,Metro,2024,2,45130,44940
+West Footscray,Metro,2024,3,43340,41530
+West Footscray,Metro,2024,4,40260,38590
+West Footscray,Metro,2024,5,46410,47390
+West Footscray,Metro,2024,6,39620,39370
+West Richmond,Metro,2023,7,23640,36610
+West Richmond,Metro,2023,8,26420,39720
+West Richmond,Metro,2023,9,25180,38120
+West Richmond,Metro,2023,10,26120,38070
+West Richmond,Metro,2023,11,26840,40520
+West Richmond,Metro,2023,12,21920,34680
+West Richmond,Metro,2024,1,19750,29650
+West Richmond,Metro,2024,2,27640,41120
+West Richmond,Metro,2024,3,29110,42460
+West Richmond,Metro,2024,4,26540,39790
+West Richmond,Metro,2024,5,27770,42020
+West Richmond,Metro,2024,6,24410,38430
+Westall,Metro,2023,7,41200,41810
+Westall,Metro,2023,8,62280,67200
+Westall,Metro,2023,9,43160,44420
+Westall,Metro,2023,10,46830,49820
+Westall,Metro,2023,11,75260,89720
+Westall,Metro,2023,12,39810,43130
+Westall,Metro,2024,1,35450,36140
+Westall,Metro,2024,2,50290,56570
+Westall,Metro,2024,3,53820,57950
+Westall,Metro,2024,4,50750,53840
+Westall,Metro,2024,5,50970,58470
+Westall,Metro,2024,6,46520,54700
+Westgarth,Metro,2023,7,10860,12340
+Westgarth,Metro,2023,8,13020,12470
+Westgarth,Metro,2023,9,11360,12440
+Westgarth,Metro,2023,10,12440,13370
+Westgarth,Metro,2023,11,12770,13420
+Westgarth,Metro,2023,12,9770,11010
+Westgarth,Metro,2024,1,10120,11590
+Westgarth,Metro,2024,2,13850,15210
+Westgarth,Metro,2024,3,14130,15990
+Westgarth,Metro,2024,4,13290,14500
+Westgarth,Metro,2024,5,13960,15510
+Westgarth,Metro,2024,6,12260,13190
+Westona,Metro,2023,7,11910,12320
+Westona,Metro,2023,8,17510,18130
+Westona,Metro,2023,9,14890,14660
+Westona,Metro,2023,10,18170,19720
+Westona,Metro,2023,11,15510,16730
+Westona,Metro,2023,12,13900,13080
+Westona,Metro,2024,1,12130,12030
+Westona,Metro,2024,2,19110,20040
+Westona,Metro,2024,3,18800,19600
+Westona,Metro,2024,4,16280,16400
+Westona,Metro,2024,5,19110,19680
+Westona,Metro,2024,6,17130,16260
+Williams Landing,Metro,2023,7,89170,80890
+Williams Landing,Metro,2023,8,121750,112890
+Williams Landing,Metro,2023,9,109570,99520
+Williams Landing,Metro,2023,10,115730,108770
+Williams Landing,Metro,2023,11,105720,98180
+Williams Landing,Metro,2023,12,94420,83730
+Williams Landing,Metro,2024,1,91060,85800
+Williams Landing,Metro,2024,2,118730,111820
+Williams Landing,Metro,2024,3,125330,119410
+Williams Landing,Metro,2024,4,113160,108290
+Williams Landing,Metro,2024,5,124600,120590
+Williams Landing,Metro,2024,6,104070,99890
+Williamstown Beach,Metro,2023,7,7120,7510
+Williamstown Beach,Metro,2023,8,11330,11830
+Williamstown Beach,Metro,2023,9,13180,14880
+Williamstown Beach,Metro,2023,10,11750,13270
+Williamstown Beach,Metro,2023,11,11880,13210
+Williamstown Beach,Metro,2023,12,12030,14600
+Williamstown Beach,Metro,2024,1,14090,17680
+Williamstown Beach,Metro,2024,2,13930,16800
+Williamstown Beach,Metro,2024,3,14490,15950
+Williamstown Beach,Metro,2024,4,11640,12180
+Williamstown Beach,Metro,2024,5,11900,12510
+Williamstown Beach,Metro,2024,6,10040,9360
+Williamstown,Metro,2023,7,5780,6410
+Williamstown,Metro,2023,8,10560,11630
+Williamstown,Metro,2023,9,11520,12050
+Williamstown,Metro,2023,10,10840,11990
+Williamstown,Metro,2023,11,10220,11660
+Williamstown,Metro,2023,12,10750,12940
+Williamstown,Metro,2024,1,11660,13170
+Williamstown,Metro,2024,2,11150,12640
+Williamstown,Metro,2024,3,12450,13650
+Williamstown,Metro,2024,4,11870,13300
+Williamstown,Metro,2024,5,10430,11280
+Williamstown,Metro,2024,6,9050,9940
+Willison,Metro,2023,7,3950,3050
+Willison,Metro,2023,8,4920,3760
+Willison,Metro,2023,9,3410,2340
+Willison,Metro,2023,10,4290,3420
+Willison,Metro,2023,11,3970,2880
+Willison,Metro,2023,12,2770,1930
+Willison,Metro,2024,1,2770,2090
+Willison,Metro,2024,2,4500,3650
+Willison,Metro,2024,3,4700,3710
+Willison,Metro,2024,4,4400,3190
+Willison,Metro,2024,5,5290,4040
+Willison,Metro,2024,6,3870,3160
+Winchelsea,VLine,2023,7,220,200
+Winchelsea,VLine,2023,8,210,100
+Winchelsea,VLine,2023,9,250,100
+Winchelsea,VLine,2023,10,190,140
+Winchelsea,VLine,2023,11,140,110
+Winchelsea,VLine,2023,12,210,160
+Winchelsea,VLine,2024,1,340,310
+Winchelsea,VLine,2024,2,180,80
+Winchelsea,VLine,2024,3,340,190
+Winchelsea,VLine,2024,4,170,160
+Winchelsea,VLine,2024,5,140,160
+Winchelsea,VLine,2024,6,40,70
+Windsor,Metro,2023,7,47140,57500
+Windsor,Metro,2023,8,48330,56560
+Windsor,Metro,2023,9,33650,39610
+Windsor,Metro,2023,10,46550,53080
+Windsor,Metro,2023,11,45140,52120
+Windsor,Metro,2023,12,42640,51960
+Windsor,Metro,2024,1,42130,48420
+Windsor,Metro,2024,2,54760,64080
+Windsor,Metro,2024,3,52580,60740
+Windsor,Metro,2024,4,48540,56110
+Windsor,Metro,2024,5,57430,64790
+Windsor,Metro,2024,6,46160,56030
+Wodonga,VLine,2023,7,4130,4260
+Wodonga,VLine,2023,8,3770,3800
+Wodonga,VLine,2023,9,3810,4180
+Wodonga,VLine,2023,10,4040,4540
+Wodonga,VLine,2023,11,4110,4870
+Wodonga,VLine,2023,12,4760,5280
+Wodonga,VLine,2024,1,5290,5870
+Wodonga,VLine,2024,2,4170,4670
+Wodonga,VLine,2024,3,4130,4850
+Wodonga,VLine,2024,4,5680,6030
+Wodonga,VLine,2024,5,5250,4850
+Wodonga,VLine,2024,6,5200,5130
+Woodend,VLine,2023,7,9790,9700
+Woodend,VLine,2023,8,8030,8020
+Woodend,VLine,2023,9,10690,10640
+Woodend,VLine,2023,10,11000,10810
+Woodend,VLine,2023,11,10880,10480
+Woodend,VLine,2023,12,10370,10430
+Woodend,VLine,2024,1,10300,10680
+Woodend,VLine,2024,2,6930,6640
+Woodend,VLine,2024,3,10520,10670
+Woodend,VLine,2024,4,11770,11590
+Woodend,VLine,2024,5,12530,12490
+Woodend,VLine,2024,6,10530,10950
+Wyndham Vale,VLine,2023,7,58660,63270
+Wyndham Vale,VLine,2023,8,63620,68890
+Wyndham Vale,VLine,2023,9,68730,75850
+Wyndham Vale,VLine,2023,10,72770,80570
+Wyndham Vale,VLine,2023,11,71650,80950
+Wyndham Vale,VLine,2023,12,65300,73950
+Wyndham Vale,VLine,2024,1,65950,74620
+Wyndham Vale,VLine,2024,2,83510,93570
+Wyndham Vale,VLine,2024,3,81230,91290
+Wyndham Vale,VLine,2024,4,103630,107130
+Wyndham Vale,VLine,2024,5,96350,103390
+Wyndham Vale,VLine,2024,6,79890,87970
+Yarragon,VLine,2023,7,390,330
+Yarragon,VLine,2023,8,500,300
+Yarragon,VLine,2023,9,590,380
+Yarragon,VLine,2023,10,660,400
+Yarragon,VLine,2023,11,570,290
+Yarragon,VLine,2023,12,490,280
+Yarragon,VLine,2024,1,820,460
+Yarragon,VLine,2024,2,540,250
+Yarragon,VLine,2024,3,710,410
+Yarragon,VLine,2024,4,840,460
+Yarragon,VLine,2024,5,60,30
+Yarragon,VLine,2024,6,390,140
+Yarraman,Metro,2023,7,16200,16210
+Yarraman,Metro,2023,8,18880,19590
+Yarraman,Metro,2023,9,17870,18850
+Yarraman,Metro,2023,10,18240,19290
+Yarraman,Metro,2023,11,16120,17290
+Yarraman,Metro,2023,12,16050,17550
+Yarraman,Metro,2024,1,14360,16150
+Yarraman,Metro,2024,2,18040,19090
+Yarraman,Metro,2024,3,21180,22890
+Yarraman,Metro,2024,4,19240,20900
+Yarraman,Metro,2024,5,20220,21090
+Yarraman,Metro,2024,6,16210,16680
+Yarraville,Metro,2023,7,41180,41950
+Yarraville,Metro,2023,8,64020,65820
+Yarraville,Metro,2023,9,60320,61690
+Yarraville,Metro,2023,10,64420,64740
+Yarraville,Metro,2023,11,60610,61480
+Yarraville,Metro,2023,12,60990,66750
+Yarraville,Metro,2024,1,60260,67380
+Yarraville,Metro,2024,2,67900,71040
+Yarraville,Metro,2024,3,68700,71140
+Yarraville,Metro,2024,4,66600,69380
+Yarraville,Metro,2024,5,65110,66540
+Yarraville,Metro,2024,6,60660,64610

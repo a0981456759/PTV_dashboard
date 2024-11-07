@@ -1,0 +1,305 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Warrnambool",
+          "display_name": "Warrnambool, City of Warrnambool, Victoria, 3280, Australia",
+          "population": 29284
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [142.4363, -38.4132],
+              [142.5573, -38.4132],
+              [142.5573, -38.3265],
+              [142.4363, -38.3265],
+              [142.4363, -38.4132]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Somerville",
+          "display_name": "Somerville, Melbourne, Shire of Mornington Peninsula, Victoria, 3912, Australia",
+          "population": null
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [145.1483, -38.2567],
+              [145.2618, -38.2567],
+              [145.2618, -38.2034],
+              [145.1483, -38.2034],
+              [145.1483, -38.2567]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Mornington",
+          "display_name": "Mornington, Melbourne, Shire of Mornington Peninsula, Victoria, 3931, Australia",
+          "population": 25759
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [145.0253, -38.2547],
+              [145.0992, -38.2547],
+              [145.0992, -38.2009],
+              [145.0253, -38.2009],
+              [145.0253, -38.2547]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Wyndham Vale",
+          "display_name": "Wyndham Vale, Melbourne, City of Wyndham, Victoria, 3024, Australia",
+          "population": 23273
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [144.5591, -37.9018],
+              [144.6538, -37.9018],
+              [144.6538, -37.8161],
+              [144.5591, -37.8161],
+              [144.5591, -37.9018]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Melbourne",
+          "display_name": "Melbourne, City of Melbourne, Victoria, Australia",
+          "population": 4917750
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [144.4441, -38.4994],
+              [146.1925, -38.4994],
+              [146.1925, -37.4017],
+              [144.4441, -37.4017],
+              [144.4441, -38.4994]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Horsham",
+          "display_name": "Horsham, Rural City of Horsham, Victoria, Australia",
+          "population": null
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [142.0418, -36.8748],
+              [142.3618, -36.8748],
+              [142.3618, -36.5548],
+              [142.0418, -36.5548],
+              [142.0418, -36.8748]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Geelong",
+          "display_name": "Geelong, City of Greater Geelong, Victoria, 3218, Australia",
+          "population": 269508
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [144.1998, -38.3093],
+              [144.5198, -38.3093],
+              [144.5198, -37.9893],
+              [144.1998, -37.9893],
+              [144.1998, -38.3093]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Ballarat",
+          "display_name": "Ballarat, City of Ballarat, Victoria, 3350, Australia",
+          "population": 103815
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [143.7006, -37.7223],
+              [144.0206, -37.7223],
+              [144.0206, -37.4023],
+              [143.7006, -37.4023],
+              [143.7006, -37.7223]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Bendigo",
+          "display_name": "Bendigo, City of Greater Bendigo, Victoria, 3550, Australia",
+          "population": 103034
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [144.1226, -36.9189],
+              [144.4426, -36.9189],
+              [144.4426, -36.5989],
+              [144.1226, -36.5989],
+              [144.1226, -36.9189]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Mildura",
+          "display_name": "Mildura, Rural City of Mildura, Victoria, Australia",
+          "population": 34565
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [141.9903, -34.3553],
+              [142.3103, -34.3553],
+              [142.3103, -34.0353],
+              [141.9903, -34.0353],
+              [141.9903, -34.3553]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Shepparton",
+          "display_name": "Shepparton, City of Greater Shepparton, Victoria, 3630, Australia",
+          "population": 31197
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [145.2393, -36.5411],
+              [145.5593, -36.5411],
+              [145.5593, -36.2211],
+              [145.2393, -36.2211],
+              [145.2393, -36.5411]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Traralgon",
+          "display_name": "Traralgon, City of Latrobe, Victoria, Australia",
+          "population": 24590
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [146.3782, -38.3546],
+              [146.6982, -38.3546],
+              [146.6982, -38.0346],
+              [146.3782, -38.0346],
+              [146.3782, -38.3546]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Bairnsdale",
+          "display_name": "Bairnsdale, Shire of East Gippsland, Victoria, Australia",
+          "population": 13900
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [147.4705, -37.9855],
+              [147.7905, -37.9855],
+              [147.7905, -37.6655],
+              [147.4705, -37.6655],
+              [147.4705, -37.9855]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Wangaratta",
+          "display_name": "Wangaratta, Rural City of Wangaratta, Victoria, Australia",
+          "population": 26814
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [146.1631, -36.5163],
+              [146.4831, -36.5163],
+              [146.4831, -36.1963],
+              [146.1631, -36.1963],
+              [146.1631, -36.5163]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Wodonga",
+          "display_name": "Wodonga, City of Wodonga, Victoria, 3690, Australia",
+          "population": 31605
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [146.7281, -36.2806],
+              [147.0481, -36.2806],
+              [147.0481, -35.9606],
+              [146.7281, -35.9606],
+              [146.7281, -36.2806]
+            ]
+          ]
+        }
+      }
+    ]
+  }
